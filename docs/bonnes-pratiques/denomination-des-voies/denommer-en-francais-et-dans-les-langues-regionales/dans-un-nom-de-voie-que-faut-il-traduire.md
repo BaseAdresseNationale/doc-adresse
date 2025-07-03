@@ -1,0 +1,3 @@
+# Dans un nom de voie, que faut-il traduire ?
+
+Dans son communiqué du 30 septembre 2019, « Noms de lieux et langues régionales », le Conseil national de l’Information géographique précise que la traduction en langue française porte sur la « partie générique » d’un libellé. Dans l’exemple de la rue Laez-ar-Vourc’h, en breton straed ar Laez-ar-Vourc’h, la partie générique est « rue », et Laez-ar-Vourc’h, la partie spécifique. Ce communiqué précise que les lieux-dits employés sans partie générique sont transmis tel quels : « Cette partie spécifique n’est pas sujette à la traduction et elle demeure inchangée lorsque le nom de lieu est employé dans une autre langue que celle dans laquelle elle a été formée ».

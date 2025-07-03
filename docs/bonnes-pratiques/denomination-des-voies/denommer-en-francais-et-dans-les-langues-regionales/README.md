@@ -1,0 +1,7 @@
+# « Dénommer » en français et dans les langues régionales
+
+Le Conseil municipal procède à la dénomination des voies de la commune, y compris les routes classées (nationales, départementales), les voies privées ouvertes à la circulation et les lieux-dits ([Loi du 21 février 2022, dite Loi 3DS)](https://cnig.gouv.fr/IMG/pdf/decider_du_nom_dun_lieu_01-2021.pdf). Toutes les voies sont à dénommer et pas seulement les voies portant des adresses – « dénommer » ne signifie pas que la commune soit obligée de modifier les noms. La commune a le choix de changer le nom de la « Route départementale 17 » en « Route de... », qu’elle comporte ou non des adresses (des numéros).
+
+La délibération du Conseil municipal doit proposer une graphie avec majuscule en début de nom et le reste en minuscule accentuée - proscrire une dénomination uniquement en majuscules. Le Conseil municipal délibère en proposant la dénomination en langue française et, lorsque c’est possible, en langue régionale.
+
+Comme le prévoit la Constitution (« la langue de la République est le français »), les adresses des communes françaises doivent donc être libellées en langue française. Pour autant, les langues régionales sont intégrées au code du patrimoine sous le statut de trésor national ([Loi du 21 mai 2021 relative à la protection patrimoniale des langues régionales et à leur promotion](https://www.vie-publique.fr/loi/278001-loi-sur-les-langues-regionales-loi-molac)). Le statut de trésor national entraîne un régime de protection.
