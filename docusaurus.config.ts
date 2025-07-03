@@ -48,21 +48,6 @@ const config: Config = {
           editUrl:
             "https://github.com/BaseAdresseNationale/doc-adresse/tree/main/",
         },
-        blog: {
-          showReadingTime: true,
-          feedOptions: {
-            type: ["rss", "atom"],
-            xslt: true,
-          },
-          // Please change this to your repo.
-          // Remove this to remove the "edit this page" links.
-          editUrl:
-            "https://github.com/BaseAdresseNationale/doc-adresse/tree/main/",
-          // Useful options to enforce blogging best practices
-          onInlineTags: "warn",
-          onInlineAuthors: "warn",
-          onUntruncatedBlogPosts: "warn",
-        },
         theme: {
           customCss: "./src/css/custom.css",
         },
@@ -71,6 +56,11 @@ const config: Config = {
   ],
 
   themeConfig: {
+    docs: {
+      sidebar: {
+        hideable: true,
+      },
+    },
     algolia: {
       // The application ID provided by Algolia
       appId: process.env.ALGOLIA_APP_ID,
@@ -87,10 +77,10 @@ const config: Config = {
       // externalUrlRegex: 'external\\.com|domain\\.com',
 
       // Optional: Replace parts of the item URLs from Algolia. Useful when using the same search index for multiple deployments using a different baseUrl. You can use regexp or string in the `from` param. For example: localhost:3000 vs myCompany.com/docs
-      replaceSearchResultPathname: {
+      /*       replaceSearchResultPathname: {
         from: "/docs/", // or as RegExp: /\/docs\//
         to: "/",
-      },
+      }, */
 
       // Optional: Algolia search parameters
       searchParameters: {},
@@ -118,12 +108,12 @@ const config: Config = {
           position: "left",
           label: "Guide des bonnes pratiques",
         },
-        {
+        /*         {
           type: "docSidebar",
           sidebarId: "tutorialSidebar",
           position: "left",
           label: "Tutorial",
-        },
+        }, */
         {
           href: "https://github.com/BaseAdresseNationale",
           label: "GitHub",

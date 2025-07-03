@@ -30,7 +30,7 @@ function SectionTilesList({
   withoutLinkIcon,
 }: SectionTilesListProps) {
   return (
-    <Section title={title}>
+    <Section title={title} style={{ backgroundColor: "#F5F5FE" }}>
       <div
         style={{
           display: "grid",

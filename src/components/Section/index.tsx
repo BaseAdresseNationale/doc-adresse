@@ -7,6 +7,7 @@ interface SectionProps {
   title?: string;
   className?: string;
   children: React.ReactNode;
+  style?: React.CSSProperties;
 }
 
 export default function Section({
@@ -14,9 +15,10 @@ export default function Section({
   pageTitle,
   title,
   className,
+  style = {},
 }: SectionProps): React.ReactNode {
   return (
-    <section className="fr-container-fluid">
+    <section className="fr-container-fluid" style={style}>
       <div
         className={clsx("fr-container", className)}
         style={{
