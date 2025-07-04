@@ -2,7 +2,7 @@
 
 Le nom de la voie s’applique à un tronçon continu. En cas de discontinuité, le tronçon suivant prend un nom différent.
 
-![](/img/bonnes-pratiques/screenshot-2021-06-24-16-39-29.png)
+<figure><img src="/img/bonnes-pratiques/screenshot_2021-06-24_16-39-29.png" alt=""/><figcaption></figcaption></figure>
 
 **Contre-exemple, à ne pas suivre**, l’Avenue de Craponne de cette commune
 

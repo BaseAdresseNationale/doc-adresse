@@ -6,7 +6,7 @@ La commune informe en amont les administrés de la démarche d’adressage et 
 
 Le site officiel [www.service-public.fr ](https://www.service-public.fr/)permet aux administrés de communiquer gratuitement leur changement de coordonnées aux principaux organismes publics et privés à partir de la page « [Changement d’adresse en ligne ](https://www.service-public.fr/particuliers/vosdroits/R11193)».
 
-![](</img/bonnes-pratiques/Capture d’écran 2021-06-25 à 10.29.18.png>)
+<figure><img src="/img/bonnes-pratiques/Capture d’écran 2021-06-25 à 10.29.18.png" alt=""/><figcaption></figcaption></figure>
 
 Bien penser à cocher "Modification administrative" :
 
