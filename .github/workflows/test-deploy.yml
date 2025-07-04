@@ -9,6 +9,8 @@ on:
 env:
   ALGOLIA_APP_ID: ${{ vars.ALGOLIA_APP_ID }}
   ALGOLIA_API_KEY: ${{ vars.ALGOLIA_API_KEY }}
+  BAL_ADMIN_API_URL: ${{ vars.BAL_ADMIN_API_URL }}
+  BAL_WIDGET_URL: ${{ vars.BAL_WIDGET_URL }}
 
 jobs:
   test-deploy:
