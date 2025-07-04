@@ -1,9 +1,6 @@
 import styled from "styled-components";
-import ScopedDSFRCSS from "@codegouvfr/react-dsfr/main.css";
 
 export const StyledPage = styled.main`
-  ${ScopedDSFRCSS}
-
   .on-this-page {
     display: flex;
     align-items: center;
