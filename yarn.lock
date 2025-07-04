@@ -7398,11 +7398,6 @@ react-router@5.3.4, react-router@^5.3.4:
     tiny-invariant "^1.0.2"
     tiny-warning "^1.0.0"
 
-react-shadow-root@^6.2.0:
-  version "6.2.0"
-  resolved "https://registry.yarnpkg.com/react-shadow-root/-/react-shadow-root-6.2.0.tgz#35f8516fd9957a68e01971f57604ad7e5c42f7f6"
-  integrity sha512-ruFCVvbzFjWordVAZnrIcVNZpHz7whpNW2sRrAYBPmRpE9uTyN0Xt/1lkw52ktAmoSUkEptF2hjfISHmPirKTg==
-
 react@^19.0.0:
   version "19.1.0"
   resolved "https://registry.yarnpkg.com/react/-/react-19.1.0.tgz#926864b6c48da7627f004795d6cce50e90793b75"

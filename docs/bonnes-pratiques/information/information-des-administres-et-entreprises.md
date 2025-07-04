@@ -6,11 +6,11 @@ La commune informe en amont les administrés de la démarche d’adressage et 
 
 Le site officiel [www.service-public.fr ](https://www.service-public.fr/)permet aux administrés de communiquer gratuitement leur changement de coordonnées aux principaux organismes publics et privés à partir de la page « [Changement d’adresse en ligne ](https://www.service-public.fr/particuliers/vosdroits/R11193)».
 
-<figure><img src="/img/bonnes-pratiques/Capture d’écran 2021-06-25 à 10.29.18.png" alt=""/><figcaption></figcaption></figure>
+<figure><img src="img/bonnes-pratiques/Capture d’écran 2021-06-25 à 10.29.18.png" alt=""/><figcaption></figcaption></figure>
 
 Bien penser à cocher "Modification administrative" :
 
-<figure><img src="/img/bonnes-pratiques/administré.jpg" alt=""/><figcaption></figcaption></figure>
+<figure><img src="img/bonnes-pratiques/administré.jpg" alt=""/><figcaption></figcaption></figure>
 
 Voici la liste des services informés via ce service public gratuit : caisses de sécurité sociale; caisses de retraites ; fournisseurs d’énergie ; Pôle emploi ; service des impôts et service des cartes grises (SIV).&#x20;
 
@@ -24,15 +24,15 @@ Pour ce faire :&#x20;
 
 1/ effectuer une formalité de modification à partir du n° SIREN de l’entreprise :
 
-<figure><img src="/img/bonnes-pratiques/inpi1.jpg" alt=""/><figcaption></figcaption></figure>
+<figure><img src="img/bonnes-pratiques/inpi1.jpg" alt=""/><figcaption></figcaption></figure>
 
 2/ dans l’étape « Établissements » de la formalité, il convient de cliquer sur l’établissement impacté par la modification d’adresse&#x20;
 
-<figure><img src="/img/bonnes-pratiques/inpi2.jpg" alt=""/><figcaption></figcaption></figure>
+<figure><img src="img/bonnes-pratiques/inpi2.jpg" alt=""/><figcaption></figcaption></figure>
 
 3/ Dans les informations générales de l’établissement, une case à cocher, dans le cadre « Description de l’établissement », permet d’indiquer que l’adresse a été modifiée administrativement suite à une décision de la mairie, ce qui n’engendre pas de frais. L’adresse modifiée peut enfin être saisie dans le cadre « Adresse de l’établissement » .
 
-<figure><img src="/img/bonnes-pratiques/inpi.jpeg" alt=""/><figcaption></figcaption></figure>
+<figure><img src="img/bonnes-pratiques/inpi.jpeg" alt=""/><figcaption></figcaption></figure>
 
 Il suffit enfin de remplir le reste de la formalité, sans autre modification, comme toute autre formalité (ajout des pièces justificatives, signature et validation).
 

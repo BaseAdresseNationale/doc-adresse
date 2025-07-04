@@ -6,4 +6,4 @@ La langue régionale s’ajoute à la dimension patrimoniale des noms de lieux
 
 S’agissant des panneaux, il existe plusieurs solutions : renseigner plusieurs langues sur le même panneau ou accrocher plusieurs panneaux portant une seule langue.
 
-<figure><img src="..//img/bonnes-pratiques/Capture d’écran 2022-12-30 à 11.14.47.png" alt=""/><figcaption></figcaption></figure>
+<figure><img src="../img/bonnes-pratiques/Capture d’écran 2022-12-30 à 11.14.47.png" alt=""/><figcaption></figcaption></figure>
