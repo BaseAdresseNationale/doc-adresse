@@ -12,6 +12,11 @@ const config: Config = {
   tagline: "Dinosaurs are cool",
   favicon: "img/favicon.ico",
 
+  customFields: {
+    BAL_ADMIN_API_URL: process.env.BAL_ADMIN_API_URL,
+    BAL_WIDGET_URL: process.env.BAL_WIDGET_URL,
+  },
+
   // Future flags, see https://docusaurus.io/docs/api/docusaurus-config#future
   future: {
     v4: true, // Improve compatibility with the upcoming Docusaurus v4
@@ -58,6 +63,10 @@ const config: Config = {
   ],
 
   themeConfig: {
+    tableOfContents: {
+      minHeadingLevel: 2,
+      maxHeadingLevel: 5,
+    },
     docs: {
       sidebar: {
         hideable: true,
