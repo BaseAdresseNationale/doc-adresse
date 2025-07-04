@@ -6,11 +6,8 @@ import DownloadGuideCard from "../DownloadCard";
 import { ThemeProvider } from "styled-components";
 import theme from "./styled-components.theme";
 import { StyledPage } from "./index.styles";
-import { startReactDsfr } from "@codegouvfr/react-dsfr/spa";
 import ReactShadowRoot from "react-shadow-root";
 import ScopedDSFRCSS from "@codegouvfr/react-dsfr/main.css";
-
-startReactDsfr({ defaultColorScheme: "system" });
 
 const ressourcesData = [
   {

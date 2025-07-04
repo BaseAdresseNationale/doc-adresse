@@ -17,7 +17,7 @@ L'action municipale contribue ainsi à améliorer :\
 Votre rue ayant fait l'objet d’une dénomination par délibération du Conseil municipal en date du .../.../......, la nouvelle rédaction de l'adresse doit être formalisée ainsi :
 
 Mme, M. .................... \
-<mark style="color:yellow;">Si applicable : point de remise (n° appartement/étage…) et lieu géographique (entrée, bâtiment, résidence...)</mark>\
+<mark style={{color:'yellow'}}>Si applicable : point de remise (n° appartement/étage…) et lieu géographique (entrée, bâtiment, résidence...)</mark>\
 n° et nom de voie \
 Complément d’adresse (lieu-dit, ancienne commune)\
 Code postal Nom de commune
@@ -30,7 +30,7 @@ Je vous remercie de votre participation, et vous prie de croire Madame, Monsieur
 
 Le Maire
 
-***
+---
 
 _**En complément, la mairie peut aussi délivrer une attestation de modification d'adresse :**_&#x20;
 
@@ -48,12 +48,10 @@ Atteste
 
 Suite à la modification d’adresse effectuée par le Conseil municipal, la nouvelle adresse de M et Mme ............ est :
 
-* <mark style="color:yellow;">Si applicable : point de remise (n° appartement/étage…) et lieu géographique (entrée, bâtiment, résidence...)</mark>
-* numéro, nom de voie,&#x20;
-* complément s’il y en a un&#x20;
-* code postal commune.
-
-
+- <mark style={{color:'yellow'}}>Si applicable : point de remise (n° appartement/étage…) et lieu géographique (entrée, bâtiment, résidence...)</mark>
+- numéro, nom de voie,&#x20;
+- complément s’il y en a un&#x20;
+- code postal commune.
 
 Pour servir et valoir ce que de droit, Le JJ/MM/AAAA
 
