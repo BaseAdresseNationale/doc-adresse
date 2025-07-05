@@ -22,8 +22,10 @@
     "clsx": "^2.0.0",
     "dotenv": "^17.0.1",
     "prism-react-renderer": "^2.3.0",
+    "raw-loader": "^4.0.2",
     "react": "^19.0.0",
     "react-dom": "^19.0.0",
+    "react-shadow": "^20.6.0",
     "styled-components": "^6.1.19"
   },
   "devDependencies": {

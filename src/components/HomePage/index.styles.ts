@@ -1,6 +1,6 @@
 import styled from "styled-components";
 
-export const StyledPage = styled.main`
+export const StyledPage = styled.div`
   .on-this-page {
     display: flex;
     align-items: center;
