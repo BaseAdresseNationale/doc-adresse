@@ -23,10 +23,10 @@ const config: Config = {
   },
 
   // Set the production url of your site here
-  url: "https://baseadressenationale.github.io",
+  url: "https://doc.bal.dev.incubateur.anct.gouv.fr/",
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: "/doc-adresse/",
+  baseUrl: "/",
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
