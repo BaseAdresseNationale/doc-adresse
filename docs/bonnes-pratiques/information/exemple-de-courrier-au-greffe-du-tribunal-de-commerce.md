@@ -35,4 +35,4 @@ Maire de ...
 |                                                 |                                                  |
 |                                                 |                                                  |
 
-<a href="img/bonnes-pratiques/Modele_lettre_mairie_greffe.docx" download>Modele_lettre_mairie_greffe.docx</a>
+<a href="/img/bonnes-pratiques/Modele_lettre_mairie_greffe.docx" download>Modele_lettre_mairie_greffe.docx</a>
