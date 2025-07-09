@@ -62,6 +62,16 @@ const config: Config = {
     ],
   ],
 
+  headTags: [
+    {
+      tagName: "meta",
+      attributes: {
+        name: "algolia-site-verification",
+        content: "BC6D3E76756078EF",
+      },
+    },
+  ],
+
   themeConfig: {
     tableOfContents: {
       minHeadingLevel: 2,
