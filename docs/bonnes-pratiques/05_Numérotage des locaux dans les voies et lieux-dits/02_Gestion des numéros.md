@@ -8,7 +8,7 @@ Les numéros s’échelonnent de 1 à 9999. Une adresse comportant un zéro 
 * Ne pas mélanger les suffixes bis, ter, quater et les lettres A, B, C, D dans la numérotation d'une même voie. En cas de numérotation métrique, éviter totalement les suffixes et ajouter ou supprimer un mètre.
 * Le numérotage procède de **proche en proche sur les voies comme dans les lieux-dits** :
 
-<figure><img src=".gitbook/assets/Capture d’écran 2022-12-30 à 11.35.55.png" alt=""/><figcaption></figcaption></figure>
+<figure><img src="/img/bonnes-pratiques/Capture d ecran 2022-12-30 a 11-35-55.png" alt=""/><figcaption></figcaption></figure>
 
 :::tip
 La commune a le choix de placer le nom du lieu-dit dans la liste des voies (voie\_nom du format base Adresse Locale) ou dans la liste des lieux-dits (liste des toponymes dans l’éditeur Mes Adresses ou lieu-dit\_complement\_nom du format Base Adresse Locale). La limite est celle de la cohérences des numéros :
@@ -19,6 +19,6 @@ La commune a le choix de placer le nom du lieu-dit dans la liste des voies (voie
 Dans un lieu-dit, si les numéros ne peuvent pas se suivre sur le même tronçon, ils sont affectés à ses voies et non au lieu-dit directement.
 :::
 
-<figure><img src=".gitbook/assets/Capture d’écran 2022-12-30 à 11.37.59.png" alt=""/><figcaption></figcaption></figure>
+<figure><img src="/img/bonnes-pratiques/Capture d ecran 2022-12-30 a 11-37-59.png" alt=""/><figcaption></figcaption></figure>
 
 La commune doit dénommer toutes ses voies, y compris celles qui traversent des lieux- dits. Aucun texte ne l’oblige à numéroter les locaux seulement sur les voies et pas sur les lieux-dits, et encore moins à supprimer les lieux-dits.
