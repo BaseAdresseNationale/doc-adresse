@@ -1,8 +1,6 @@
->Modèle de courrier à envoyer par la mairie au greffe du tribunal de commerce en cas de modifications des adresses des entreprises
+> Modèle de courrier à envoyer par la mairie au greffe du tribunal de commerce en cas de modifications des adresses des entreprises
 
-Dans le cadre d'un changement d'adresse administratif (à l'initiative de la municipalité), c'est à la mairie et non aux entreprises de prévenir le greffe comme le précise l'[avis 2018-007 du Comité de Coordination du Registre du Commerce et des Sociétés](https://www.cngtc.fr/pdf/avis-ccrcs/783-2018-007_Commerants_et_socits_Changement_adresse_sur_dcision_administrative.pdf). Vous trouverez ci-dessous  (également en téléchargement) un modèle de courrier à adresser au greffe de votre tribunal de commerce :
-
-
+Dans le cadre d'un changement d'adresse administratif (à l'initiative de la municipalité), c'est à la mairie et non aux entreprises de prévenir le greffe comme le précise l'[avis 2018-007 du Comité de Coordination du Registre du Commerce et des Sociétés](https://www.cngtc.fr/pdf/avis-ccrcs/783-2018-007_Commerants_et_socits_Changement_adresse_sur_dcision_administrative.pdf). Vous trouverez ci-dessous (également en téléchargement) un modèle de courrier à adresser au greffe de votre tribunal de commerce :
 
 Mme ou M. le Greffier\
 Greffe du Tribunal de Commerce\
@@ -23,8 +21,6 @@ En vous en remerciant par avance, veuillez agréer, Madame, Monsieur le Greffier
 M. ou Mme …………………,\
 Maire de ...
 
-
-
 **Annexe : Modifications d’adresses**
 
 | Anciennes adresses                              | Nouvelles adresses                               |
@@ -33,4 +29,4 @@ Maire de ...
 |                                                 |                                                  |
 |                                                 |                                                  |
 
-[download](/img/Modele_lettre_mairie_greffe.docx)
+[download](/img/bonnes-pratiques/Modele_lettre_mairie_greffe.docx)
