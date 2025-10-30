@@ -129,15 +129,9 @@ const config: Config = {
           position: "left",
           label: "Guide des bonnes pratiques",
         },
-        /*         {
-          type: "docSidebar",
-          sidebarId: "tutorialSidebar",
-          position: "left",
-          label: "Tutorial",
-        }, */
         {
-          href: "https://github.com/BaseAdresseNationale",
-          label: "GitHub",
+          href: "https://adresse.data.gouv.fr/",
+          label: "adresse.data.gouv.fr",
           position: "right",
         },
       ],

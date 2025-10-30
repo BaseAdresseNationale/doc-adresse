@@ -28,3 +28,15 @@
   --ifm-color-primary-lightest: #4fddbf; */
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
 }
+
+.theme-doc-sidebar-item-category-level-1,
+.theme-doc-sidebar-item-link-level-1 {
+  font-weight: normal;
+  font-size: 15px;
+}
+
+.theme-doc-sidebar-item-link-level-2,
+.theme-doc-sidebar-item-category-level-2 {
+  font-weight: normal;
+  font-size: 12px;
+}
