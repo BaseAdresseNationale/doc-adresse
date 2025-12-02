@@ -25,7 +25,7 @@ Le « Dites le nous une fois » s'applique en vertu de l'article L. 311-2 du cod
 * **Les communes informent encore quelques mois leur centre des impôts fonciers** car le décret n° 94-1112 de 1994 reste en vigueur **jusqu’au 1er juin au plus tard pour les communes de plus de 2 000 habitants**.
 * Les communes continuent à transmettre **certaines informations à l’INSEE** en vue du recensement et de la mise à jour des listes électorales.
 
-Des outils en ligne permettent aux communes de réaliser la dénomination, la numérotation (1) et la transmission (3) gratuitement et sans compétence technique. La réalisation et la transmission des adresses aux installateurs de fibre optique n’implique aucune prestation payante, aucune norme spécifique. Le [Guide des Bonnes pratiques](https://guide-bonnes-pratiques.adresse.data.gouv.fr/) fournit les détail des bonnes pratiques relatives à la dénomination, au numérotage et à l’affichage.
+Des outils en ligne permettent aux communes de réaliser la dénomination, la numérotation (1) et la transmission (3) gratuitement et sans compétence technique. La réalisation et la transmission des adresses aux installateurs de fibre optique n’implique aucune prestation payante, aucune norme spécifique. Le [Guide des Bonnes pratiques](/docs/bonnes-pratiques/) fournit les détail des bonnes pratiques relatives à la dénomination, au numérotage et à l’affichage.
 
 :::danger
 Les adresses situées sur la commune voisine mais utilisant le même code postal doivent être mises à jour par la commune voisine. En cas de doute, la commune peut se poser la question : où vote l'habitant ?
