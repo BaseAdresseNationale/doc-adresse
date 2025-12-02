@@ -17,3 +17,5 @@ Les voies et lieux-dits qui restent avec un triangle jaune au moment de la publi
 * préciser l’intitulé de la voie ou du lieu-dit et de produire des adresses lisibles ;
 * respecter la casse minuscule/majuscule retenue par le conseil municipal ;
 * respecter les accents, y compris sur les majuscules : il est facile de sélectionner une majuscule accentuée.
+
+

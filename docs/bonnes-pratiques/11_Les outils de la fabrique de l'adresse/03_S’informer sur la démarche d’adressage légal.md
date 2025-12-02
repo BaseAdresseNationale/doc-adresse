@@ -16,7 +16,7 @@
 * [Le Forum des Bases Adresses Locales](https://forum.incubateur.anct.gouv.fr/c/bases-adresses-locales/43)\* \
   Réservé aux élus et agents des communes (prestataires s'abstenir).\
   **Usages :** échanger directement entre communes sur des sujets d’adressage. Forum ouvert à la demande d’élus.
-* [Adresse en région](https://doc.adresse.data.gouv.fr/mettre-a-jour-sa-base-adresse-locale/adresse-en-region)\*\
+* [Adresse en région](/docs/documentation-generale/Mettre%20%C3%A0%20jour%20sa%20Base%20Adresse%20Locale/Adresse%20en%20r%C3%A9gion/)\*\
   Ateliers sur l’adresse réunissant les acteurs de la fabrique de l’adresse, au premier rang les communes et EPCI en petit format pour partager sur les problèmes et solutions d’adressages.\
   **Usages :** partager les bonnes pratiques sur le terrain et diffuser l'information aux partenaires DGFip, Préfectures, IGN, OSM, SDIS, etc.
 * [Les Guides de data.gouv.fr](https://guides.data.gouv.fr/)\*\*\

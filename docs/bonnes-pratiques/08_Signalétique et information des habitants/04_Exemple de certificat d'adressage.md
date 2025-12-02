@@ -18,5 +18,5 @@ En foi de quoi, le présent certificat est délivré au demandeur pour servir et
 Le Maire
 
 :::info
-Le certificat de numérotage est distinct du certificat d'adressage. Ce dernier, qui peut être disponible dans les fichiers et l’explorateur de la BAN, a pour objectif d’éviter aux agents des communes d’établir ces certificats d’adressage manuellement. Les pratiques évoluent dans ce sens et déjà des communes utilisent cette certification dans leur communication auprès de leurs administrés. Les utilisateurs de l’adresse privilégient les [adresses certifiées](https://doc.adresse.data.gouv.fr/utiliser-la-base-adresse-nationale/les-adresses-certifiees).
+Le certificat de numérotage est distinct du certificat d'adressage. Ce dernier, qui peut être disponible dans les fichiers et l’explorateur de la BAN, a pour objectif d’éviter aux agents des communes d’établir ces certificats d’adressage manuellement. Les pratiques évoluent dans ce sens et déjà des communes utilisent cette certification dans leur communication auprès de leurs administrés. Les utilisateurs de l’adresse privilégient les [adresses certifiées](/docs/documentation-generale/Utiliser%20la%20Base%20Adresse%20Nationale/Les%20adresses%20certifi%C3%A9es).
 :::

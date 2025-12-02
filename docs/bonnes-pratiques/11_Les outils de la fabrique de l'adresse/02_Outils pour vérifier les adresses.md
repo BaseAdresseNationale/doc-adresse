@@ -7,7 +7,7 @@
 * [L'explorateur FANTOIR](https://adresse.data.gouv.fr/fantoir)\
   Fichier produit par la DGFiP, le FANTOIR recense par commue, les voies, lieux-dits et ensembles immobiliers.\
   Usages : vérifier les lieux-dits, attention toutefois car la liste n'est pas forcément ex- haustive, des libellés peuvent être à corriger.
-* [La documentation sur le format Base Adresse Locale](https://doc.adresse.data.gouv.fr/mettre-a-jour-sa-base-adresse-locale/le-format-base-adresse-locale)\*\*\
+* [La documentation sur le format Base Adresse Locale](/docs/documentation-generale/Mettre%20%C3%A0%20jour%20sa%20Base%20Adresse%20Locale/Le%20format%20Base%20Adresse%20Locale/)\*\*\
   Cette page technique s'adresse aux communes et EPCI qui gèrent les adresses sur leur propre outil. Les communes qui utilisent l’éditeur Mes Adresses suivent ce for- mat sans avoir à paramétrer quoi que ce soit, l’outil s'en charge.\
   **Usages :** vérifier si les champs obligatoires sont bien présents lors de l'export du fi- chier depuis le SIG avant de le passer dans le validateur de Base Adresse Locale.
 * [Le validateur de Base Adresse Locale](https://adresse.data.gouv.fr/bases-locales/validateur)\*\*\
