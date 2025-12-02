@@ -39,7 +39,7 @@ Cette fonctionnalité est réservée aux hameaux et lieux-dits, qui constituent 
 
 - Gérer des hameaux et lieux-dits avec [Mes Adresses](https://mes-adresses.data.gouv.fr/)
 - Lire le [billet en ligne](https://adresse.data.gouv.fr/blog/bien-utiliser-la-liste-des-toponymes-pour-valoriser-ses-hameaux-et-lieux-dits)
-- Retrouver cette fonctionnalité dans le [Guide de l'éditeur](/docs/mes-adresses/preciser-une-adresse-par-son-toponyme)
+- Retrouver cette fonctionnalité dans le [Guide de l'éditeur](/docs/mes-adresses/Editer%20une%20Base%20Adresse%20Locale/Préciser%20une%20adresse%20par%20son%20toponyme)
 
 \
 

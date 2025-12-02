@@ -61,5 +61,5 @@ Si les adresses sont réalisée sur un outil local et que la commune ne prévoit
 - La publication d'une Base Adresse Locale **remplace** la précédente.
 - Si une commune publie une Base Adresse Locale sans avoir vérifié l'ensemble de ses adresses, il est conseillé de réserver la certification aux adresses qui ont été authentifiées. Pour gérer cette certification :
 
-  - voir le [Guide Mes Adresses](/docs/mes-adresses/publier-une-base-adresse-locale-1/certifier-ses-adresses)
+  - voir le [Guide Mes Adresses](/docs/mes-adresses/Publier%20une%20Base%20Adresse%20Locale/Certifier%20ses%20adresses)
   - lorsque la commune gère directement son fichier .csv, il convient d'ajouter le champ **certification_commune** dans le fichier et de préciser 0 si l'adresse n'est pas certifiée et 1 si elle l'est.

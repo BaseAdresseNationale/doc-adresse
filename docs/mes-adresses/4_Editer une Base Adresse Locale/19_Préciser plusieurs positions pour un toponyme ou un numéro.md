@@ -10,7 +10,7 @@ Pour ajouter plusieurs positions à un même numéro, une fois le numéro ajout�
 
 ## Ajout des positions lors de la création du toponyme
 
-La création du toponyme est détaillée plus haut "[Créer un toponyme](/docs/mes-adresses/creer-un-toponyme)". Par défaut, la position proposée est "segment", pour correspondre au "centre". Dans certaines situations, d’autres positions peuvent être précisées, comme sur cet exemple avec la position "entrée" qui correspond au départ d’un chemin de terre privé difficilement praticable.\
+La création du toponyme est détaillée plus haut "[Créer un toponyme](/docs/mes-adresses/Editer%20une%20Base%20Adresse%20Locale/Créer%20un%20toponyme)". Par défaut, la position proposée est "segment", pour correspondre au "centre". Dans certaines situations, d’autres positions peuvent être précisées, comme sur cet exemple avec la position "entrée" qui correspond au départ d’un chemin de terre privé difficilement praticable.\
 Une fois la première position précisée sur la carte et dans la liste, il suffit de cliquer sur "Ajouter une position au toponyme" pour qu’un nouveau pointeur de pose sur la carte. Il doit être déplacé à l’endroit voulu et sa position est à renseigner dans le menu déroulant à gauche.
 
 Une fois la précision des positions apportée, le toponyme est présenté avec une seule position, la première

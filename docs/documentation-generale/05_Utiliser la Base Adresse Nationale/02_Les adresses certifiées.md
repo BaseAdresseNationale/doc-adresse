@@ -17,4 +17,4 @@ Sur Mes Adresses, cette action doit être réservée aux Bases Adresses Locales 
 
 <figure><img src="/img/documentation-generale/20230525 Certification.gif" alt=""/><figcaption><p>Capture d'écran Mes Adresses 25/05/2023</p></figcaption></figure>
 
-Pour plus de détail sur les autres modes de certification, adresse par adresse ou par voie, consulter [la documentation de Mes Adresses](/docs/mes-adresses/publier-une-base-adresse-locale-1/certifier-ses-adresses).
+Pour plus de détail sur les autres modes de certification, adresse par adresse ou par voie, consulter [la documentation de Mes Adresses](/docs/mes-adresses/Publier%20une%20Base%20Adresse%20Locale/Certifier%20ses%20adresses).

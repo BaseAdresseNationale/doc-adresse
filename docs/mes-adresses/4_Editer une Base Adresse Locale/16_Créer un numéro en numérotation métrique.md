@@ -35,7 +35,7 @@ En cas d’erreur, par exemple si la mesure n’est pas compatible avec des num�
 Cliquer sur 'Ajouter un numéro', un pointeur numéroté se place au centre de l’écran. Voici les actions successives à réaliser :
 
 - avec la souris, déplacer le pointeur à l’endroit voulu, l’entrée de la propriété est la position renseignée par défaut ;
-- dans le cadre à gauche, renseigner la case numéro où figure en filigrane la proposition de numéro. "Mes Adresses" n’oblige pas à utiliser le numéro issu de la mesure afin de laisser la possibilité de préciser le côté pair/impair. (Voir "[Principales positions de numéros en numérotation métrique](/docs/mes-adresses/gestion-des-positions/principales-positions-de-numeros-en-numerotation-metrique)") ;
+- dans le cadre à gauche, renseigner la case numéro où figure en filigrane la proposition de numéro. "Mes Adresses" n’oblige pas à utiliser le numéro issu de la mesure afin de laisser la possibilité de préciser le côté pair/impair. (Voir "[Principales positions de numéros en numérotation métrique](/docs/mes-adresses/Editer%20une%20Base%20Adresse%20Locale/Gestion%20des%20num%C3%A9ros%20et%20des%20positions/Principales%20positions%20de%20num%C3%A9ros%20en%20num%C3%A9rotation%20m%C3%A9trique)") ;
 - dans le cadre à gauche, renseigner la case "Position". Par défaut, "Mes Adresses" propose "Entrée"
 - cliquer sur "Ajouter".
 

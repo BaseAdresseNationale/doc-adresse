@@ -1,6 +1,6 @@
-# 
+# Renouveler l'habilitation
 
-Vous avez habilité votre Base Adresse Locale il y a plus de six mois ?  Lorsque vous vous connecterez à Mes Adresses, vous verrez le statut suivant en page d'accueil :
+Vous avez habilité votre Base Adresse Locale il y a plus de six mois ? Lorsque vous vous connecterez à Mes Adresses, vous verrez le statut suivant en page d'accueil :
 
 <figure><img src="/img/mes-adresses/image (1).png" alt=""/><figcaption></figcaption></figure>
 
