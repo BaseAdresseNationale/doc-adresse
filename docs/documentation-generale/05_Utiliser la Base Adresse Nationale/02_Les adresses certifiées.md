@@ -7,7 +7,7 @@ Dans le cas d'une Base Adresse Locale, les adresses restant à certifier sont in
 
 ### La certification dans une Base Adresse Locale
 
-Le champ **certification\_commune** est un champ obligatoire du [format Base Adresse Locale 1.3](https://doc.adresse.data.gouv.fr/mettre-a-jour-sa-base-adresse-locale/le-format-base-adresse-locale) qui permet de renseigner le statut de certification. Une commune qui gère ses adresses sur son propre outil complète ce champ par des 0 lorsque l'adresse n'est pas certifiée ou 1 lorsqu'elle est certifiée. 
+Le champ **certification_commune** est un champ obligatoire du [format Base Adresse Locale 1.3](https://doc.adresse.data.gouv.fr/mettre-a-jour-sa-base-adresse-locale/le-format-base-adresse-locale) qui permet de renseigner le statut de certification. Une commune qui gère ses adresses sur son propre outil complète ce champ par des 0 lorsque l'adresse n'est pas certifiée ou 1 lorsqu'elle est certifiée.
 
 L'éditeur en ligne [Mes Adresses](https://mes-adresses.data.gouv.fr/) permet certifier une adresse (un numéro), une voie complète (tous ses numéros) ou la totalité d'une Base Adresse Locale. Lorsqu'une commune publie une Base Adresse Locale sans avoir vérifié l'ensemble de ses adresses, la certification doit être réservée aux adresses qui ont été vérifiées, les autres pouvant rester "non certifiées" le temps de la vérification.
 
@@ -17,5 +17,4 @@ Sur Mes Adresses, cette action doit être réservée aux Bases Adresses Locales 
 
 <figure><img src="/img/documentation-generale/20230525 Certification.gif" alt=""/><figcaption><p>Capture d'écran Mes Adresses 25/05/2023</p></figcaption></figure>
 
-Pour plus de détail sur les autres modes de certification, adresse par adresse ou par voie, consulter [la documentation de Mes Adresses](https://guide.mes-adresses.data.gouv.fr/publier-une-base-adresse-locale-1/certifier-ses-adresses).
-
+Pour plus de détail sur les autres modes de certification, adresse par adresse ou par voie, consulter [la documentation de Mes Adresses](/docs/mes-adresses/publier-une-base-adresse-locale-1/certifier-ses-adresses).

@@ -149,7 +149,7 @@ export default function Home(): ReactNode {
                   <div className="buttons-wrapper">
                     <Button
                       linkProps={{
-                        href: "https://guide.mes-adresses.data.gouv.fr/",
+                        href: "/docs/mes-adresses/À%20propos%20du%20Guide%20de%20Mes%20Adresses",
                       }}
                     >
                       Consulter en ligne

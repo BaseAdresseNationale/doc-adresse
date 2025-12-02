@@ -1,7 +1,7 @@
 Le format Base Adresse Locale permet de préciser le lien entre une adresse et
 un hameau ou lieu-dit.
 
-Le champ **lieudit\_complement\_nom** permet de préciser pour chaque adresse un hameau ou lieu-dit historique associé. Lorsque la commune utilise son propre outil pour gérer ses adresses, ce champ doit être renseigné dans le fichier transmis à la Base Adresse Nationale.
+Le champ **lieudit_complement_nom** permet de préciser pour chaque adresse un hameau ou lieu-dit historique associé. Lorsque la commune utilise son propre outil pour gérer ses adresses, ce champ doit être renseigné dans le fichier transmis à la Base Adresse Nationale.
 
 L'éditeur en ligne [Mes Adresses](https://mes-adresses.data.gouv.fr/) permet créer ce lien à travers deux actions très simples : créer une liste intitulée "Toponymes" pour référencer les hameaux et lieux-dits, indiquer dans les adresses concernées quel toponyme doit être associé.
 
@@ -37,13 +37,10 @@ Cette fonctionnalité est réservée aux hameaux et lieux-dits, qui constituent 
 
 ### Pour aller plus loin
 
-* Gérer des hameaux et lieux-dits avec [Mes Adresses](https://mes-adresses.data.gouv.fr/)
-* Lire le [billet en ligne](https://adresse.data.gouv.fr/blog/bien-utiliser-la-liste-des-toponymes-pour-valoriser-ses-hameaux-et-lieux-dits)
-* Retrouver cette fonctionnalité dans le [Guide de l'éditeur](https://guide.mes-adresses.data.gouv.fr/preciser-une-adresse-par-son-toponyme)
-
-
+- Gérer des hameaux et lieux-dits avec [Mes Adresses](https://mes-adresses.data.gouv.fr/)
+- Lire le [billet en ligne](https://adresse.data.gouv.fr/blog/bien-utiliser-la-liste-des-toponymes-pour-valoriser-ses-hameaux-et-lieux-dits)
+- Retrouver cette fonctionnalité dans le [Guide de l'éditeur](/docs/mes-adresses/preciser-une-adresse-par-son-toponyme)
 
 \
-
 
 \

@@ -1,7 +1,7 @@
 Le numérotage métrique présuppose la mesure de la voie. Deux méthodes sont possibles :
 
-* depuis le début de la voie
-* depuis l’axe de l’intersection au début de la voie.
+- depuis le début de la voie
+- depuis l’axe de l’intersection au début de la voie.
 
 Pour garantir des adresses homogènes, il convient de conserver la même méthode de calcul pour les voies métriques de la commune. Avant de numéroter et pour éviter toute erreur, il est conseillé de faire un test de mesure sur une voie déjà numérotée de la commune. Par souci d’ergonomie, "Mes Adresses" propose un numérotage simple en ligne et le métrage des voies en pente importante devra plutôt utiliser une mesure de terrain pour calculer le numéro. Dans les autres cas, pour gérer le numérotage métrique, il suffit de l’activer : cliquer sur l’outil crayon de la voie dans le menu latéral
 
@@ -17,7 +17,6 @@ Dès que la case "Cette voie utilise la numérotation métrique" est activé
 Le principe général est d’affecter les numéros du centre de la commune vers la périphérie et en cas d’ambiguïté, de choisir le sens de l’Est vers l’Ouest et du Nord vers le Sud. Il faut donc veiller à mesurer la voie dans le "bon sens".
 
 <figure><img src="/img/mes-adresses/20210428 Guide Mes Adresses 39.png" alt=""/><figcaption></figcaption></figure>
-
 
 Mesurer l’ensemble de la voie en clics successifs à l’axe de la voie. Les flèches du clavier permettent de déplacer le fond de carte.
 
@@ -35,10 +34,10 @@ En cas d’erreur, par exemple si la mesure n’est pas compatible avec des num�
 
 Cliquer sur 'Ajouter un numéro', un pointeur numéroté se place au centre de l’écran. Voici les actions successives à réaliser :
 
-* avec la souris, déplacer le pointeur à l’endroit voulu, l’entrée de la propriété est la position renseignée par défaut ;
-* dans le cadre à gauche, renseigner la case numéro où figure en filigrane la proposition de numéro. "Mes Adresses" n’oblige pas à utiliser le numéro issu de la mesure afin de laisser la possibilité de préciser le côté pair/impair. (Voir "[Principales positions de numéros en numérotation métrique](https://guide.mes-adresses.data.gouv.fr/gestion-des-positions/principales-positions-de-numeros-en-numerotation-metrique)") ;
-* dans le cadre à gauche, renseigner la case "Position". Par défaut, "Mes Adresses" propose "Entrée"
-* cliquer sur "Ajouter".
+- avec la souris, déplacer le pointeur à l’endroit voulu, l’entrée de la propriété est la position renseignée par défaut ;
+- dans le cadre à gauche, renseigner la case numéro où figure en filigrane la proposition de numéro. "Mes Adresses" n’oblige pas à utiliser le numéro issu de la mesure afin de laisser la possibilité de préciser le côté pair/impair. (Voir "[Principales positions de numéros en numérotation métrique](/docs/mes-adresses/gestion-des-positions/principales-positions-de-numeros-en-numerotation-metrique)") ;
+- dans le cadre à gauche, renseigner la case "Position". Par défaut, "Mes Adresses" propose "Entrée"
+- cliquer sur "Ajouter".
 
 <figure><img src=".gitbook/assets/image (49).png" alt=""/><figcaption></figcaption></figure>
 
