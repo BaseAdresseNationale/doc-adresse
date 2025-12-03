@@ -131,7 +131,9 @@ export default function Home(): ReactNode {
             </Section>
             <Section
               className="guide-section"
-              style={{ backgroundColor: "#F5F5FE" }}
+              style={{
+                backgroundColor: "light-dark(#f5f5fe, #1b1b35)",
+              }}
             >
               <div>
                 <div className="text-wrapper">
