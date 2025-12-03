@@ -24,7 +24,7 @@
 
 ### Découvrir le sujet de l'adresse, ses bonnes pratiques
 
-- Le Guide des bonnes pratiques de l'adresse détaille les règles et normes en vigueur ([format texte](https://guide-bonnes-pratiques.adresse.data.gouv.fr/) et [PDF](https://adresse.data.gouv.fr/data/docs/guide-bonnes-pratiques-v2.1.pdf)).
+- Le Guide des bonnes pratiques de l'adresse détaille les règles et normes en vigueur ([format texte](/docs/bonnes-pratiques/Introduction) et [PDF](https://adresse.data.gouv.fr/data/docs/guide-bonnes-pratiques-v2.1.pdf)).
 - Les [Témoignages en ligne](https://adresse.data.gouv.fr/bases-locales/temoignages) exposent des cas concrets d'adressage par les communes et des EPCI.
 - [La plaquette de communication](https://www.amenagement-numerique.gouv.fr/files/2021-04/BAL%20plaquette%20pr%C3%A9fecture.pdf) sur l'adresse
 

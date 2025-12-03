@@ -2,9 +2,9 @@
 
 Les communes peuvent décider de recourir aux services d’un prestataire, néanmoins il convient de dissiper certaines idées reçues :
 
-* **L’adressage n’est pas une affaire de spécialistes**, nul besoin d’être géomètre ou cartographe, vous pouvez prendre le temps de vous former (grâce à nos webinaires, la documentation en ligne…) et d’enrichir votre BAL au fil du temps.
-* **Aucun prestataire n’a de monopole ou de relation privilégiée avec les autorités publiques** ou avec les opérateurs de déploiement fibre
-* Il n’est **pas nécessaire de passer les adresses en numéros métriques** (bien sûr possible pour les créations d’adresses ou si les adresses actuelles posent trop de soucis), **ni d’avoir certifié** l’ensemble de ses adresses (Il faut prendre le temps de vérification)
+- **L’adressage n’est pas une affaire de spécialistes**, nul besoin d’être géomètre ou cartographe, vous pouvez prendre le temps de vous former (grâce à nos webinaires, la documentation en ligne…) et d’enrichir votre BAL au fil du temps.
+- **Aucun prestataire n’a de monopole ou de relation privilégiée avec les autorités publiques** ou avec les opérateurs de déploiement fibre
+- Il n’est **pas nécessaire de passer les adresses en numéros métriques** (bien sûr possible pour les créations d’adresses ou si les adresses actuelles posent trop de soucis), **ni d’avoir certifié** l’ensemble de ses adresses (Il faut prendre le temps de vérification)
 
 ### Obligation des prestations <a href="#obligation-des-prestations" id="obligation-des-prestations"></a>
 
@@ -14,9 +14,9 @@ _« Le conseil municipal procède à la dénomination des voies et lieux-dits, y
 
 Il en résulte que :
 
-* **L’adresse doit être précise sans supprimer les lieux-dits**, et comprend aussi des voies privées
-* L’**achat de la plaque** de numéro par la commune n’est **plus obligatoire**
-* La **commune doit transmettre les adresses au point national**, la Base Adresse Nationale, en respectant le [**format** **Base Adresse Locale**](https://aitf-sig-topo.github.io/voies-adresses/files/AITF_SIG_Topo_Format_Base_Adresse_Locale_v1.4.pdf)
+- **L’adresse doit être précise sans supprimer les lieux-dits**, et comprend aussi des voies privées
+- L’**achat de la plaque** de numéro par la commune n’est **plus obligatoire**
+- La **commune doit transmettre les adresses au point national**, la Base Adresse Nationale, en respectant le [**format** **Base Adresse Locale**](https://aitf-sig-topo.github.io/voies-adresses/files/AITF_SIG_Topo_Format_Base_Adresse_Locale_v1.4.pdf)
 
 Dans tous les cas, le prestataire devra veiller à ce que la commune reste au centre de l’adressage. Si le prestataire utilise l’éditeur gratuit en ligne [Mes Adresses](https://mes-adresses.data.gouv.fr/), il veillera ainsi à ce que la commune soit administratrice, certifie ses adresses et assure la publication de sa Base Adresse Locale. À la fin de la prestation, la commune devra retirer le mail de contact du prestataire dans la liste des administrateurs et savoir reprendre la main pour les mises à jour futures.
 
@@ -28,14 +28,14 @@ Le travail le plus chronophage consiste à vérifier la réalité des adresses s
 
 Par ailleurs, d’autres prestations, optionnelles, peuvent vous êtes proposées :
 
-* **Audit de l’existant** : identification des voies homonymes, des habitations non numérotées, etc…
-* **Renseignement du filaire** des voies (représentation cartographique et schématique des voies) et envoi aux opérateurs GPS qui ont besoin de cette donnée
-* **Repérage des plaques de rues et implantation**
-* **Renseignement des points d’intérêts** ([POI : commerces, lieux touristiques…](https://wiki.openstreetmap.org/wiki/FR:Points_d'int%C3%A9r%C3%AAthttps:/wiki.openstreetmap.org/wiki/FR:Points_d'int%C3%A9r%C3%AAt)) de votre commune
-* **Géolocalisation précise des point adresse**
-* **Aide administrative (rédaction des délibérations et arrêtés)**
-* **Accompagnement à la communication** : organisation de réunion publique par exemple
-* **Forfait annuel de mise à jour** de la BAL
+- **Audit de l’existant** : identification des voies homonymes, des habitations non numérotées, etc…
+- **Renseignement du filaire** des voies (représentation cartographique et schématique des voies) et envoi aux opérateurs GPS qui ont besoin de cette donnée
+- **Repérage des plaques de rues et implantation**
+- **Renseignement des points d’intérêts** ([POI : commerces, lieux touristiques…](https://wiki.openstreetmap.org/wiki/FR:Points_d'int%C3%A9r%C3%AAthttps:/wiki.openstreetmap.org/wiki/FR:Points_d'int%C3%A9r%C3%AAt)) de votre commune
+- **Géolocalisation précise des point adresse**
+- **Aide administrative (rédaction des délibérations et arrêtés)**
+- **Accompagnement à la communication** : organisation de réunion publique par exemple
+- **Forfait annuel de mise à jour** de la BAL
 
 etc...
 
@@ -56,12 +56,12 @@ A contrario, si vous partez d'un existant lacunaire (absence de délibération d
 
 Les acteurs qui souhaitent proposer un accompagnement peuvent adopter la [Charte des sociétés partenaires](https://adresse.data.gouv.fr/bases-locales/charte) et ainsi être référencés comme tiers de confiance sur le site national de l’adresse adresse.data.gouv.fr. Ces sociétés s’engagent à respecter le format Base Adresse Locale ainsi que sa gouvernance, notamment :
 
-* la société s’engage à suivre l’actualité des recommandations de l’équipe BAL,
-* la société s’engage à ne pas démarcher de communes faisant partie d’une intercommunalité déjà partenaires (Voir la [carte des intercommunalité partenaires](https://umap.openstreetmap.fr/fr/map/partenaires-de-la-charte-de-la-base-adresse-locale_953281#6/46.355/6.328)). Si la commune souhaite malgré tout souscrire une prestation, le prestataire devra s’assurer que la commune a bien connaissance du partenariat de son intercommunalité,
-* la société ne doit pas avoir fait l’objet de poursuites par une commune dans le cadre d’une prestation d’adressage,
-* la société s’engage à la transparence quant à la nature des prestations réalisées, notamment sur les déplacements terrains, et au respect des règles de concurrence libre et loyale telles que définies par le code du commerce,
-* la société devra transmettre à l’équipe BAL, sur demande ou de façon automatisée, la liste des nouvelles prestations d’adressage qu’il aura effectuer afin de pouvoir planifier des contrôles,
-* la société s’engage à respecter le “[guide des bonnes pratiques de l'adresse](https://guide-bonnes-pratiques.adresse.data.gouv.fr/les-outils-de-la-fabrique-de-ladresse)”.
+- la société s’engage à suivre l’actualité des recommandations de l’équipe BAL,
+- la société s’engage à ne pas démarcher de communes faisant partie d’une intercommunalité déjà partenaires (Voir la [carte des intercommunalité partenaires](https://umap.openstreetmap.fr/fr/map/partenaires-de-la-charte-de-la-base-adresse-locale_953281#6/46.355/6.328)). Si la commune souhaite malgré tout souscrire une prestation, le prestataire devra s’assurer que la commune a bien connaissance du partenariat de son intercommunalité,
+- la société ne doit pas avoir fait l’objet de poursuites par une commune dans le cadre d’une prestation d’adressage,
+- la société s’engage à la transparence quant à la nature des prestations réalisées, notamment sur les déplacements terrains, et au respect des règles de concurrence libre et loyale telles que définies par le code du commerce,
+- la société devra transmettre à l’équipe BAL, sur demande ou de façon automatisée, la liste des nouvelles prestations d’adressage qu’il aura effectuer afin de pouvoir planifier des contrôles,
+- la société s’engage à respecter le “[guide des bonnes pratiques de l'adresse](/docs/bonnes-pratiques/Les%20outils%20de%20la%20fabrique%20de%20l'adresse/)”.
 
 Tout manquement à ces conditions sera susceptible d’entraîner la radiation de l’annuaire des prestataires
 

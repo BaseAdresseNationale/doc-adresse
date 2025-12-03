@@ -209,7 +209,7 @@ export default function Home(): ReactNode {
                   <div className="buttons-wrapper">
                     <Button
                       linkProps={{
-                        href: "https://guide-bonnes-pratiques.adresse.data.gouv.fr",
+                        href: "/docs/bonnes-pratiques/Introduction",
                       }}
                     >
                       Consulter en ligne

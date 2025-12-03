@@ -5,6 +5,5 @@ Les voies des hameaux **ET** les lieux-dits doivent être dénommés (la loi dit
 <figure><img src=".gitbook/assets/Schéma numéros lieux-dits3.jpg" alt=""/><figcaption></figcaption></figure>
 
 :::info
-Consulter également le [Guide des bonnes pratiques](https://guide-bonnes-pratiques.adresse.data.gouv.fr/gestion-des-numeros)
+Consulter également le [Guide des bonnes pratiques](/docs/bonnes-pratiques/Num%C3%A9rotage%20des%20locaux%20dans%20les%20voies%20et%20lieux-dits/Gestion%20des%20num%C3%A9ros)
 :::
-

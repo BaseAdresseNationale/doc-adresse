@@ -1,6 +1,6 @@
 # Glossaire
 
-**Arrêté :** le maire prend des arrêtés dans le cadre de ses pouvoirs de police et dans le cadre des compétences qui lui ont été déléguées en début de mandat par le conseil municipal. Le numérotage des locaux fait l’objet d’un arrêté. (Voir des exemples dans le [Guide des Bonnes pratiques](https://guide-bonnes-pratiques.adresse.data.gouv.fr/acter-en-conseil-municipal-le-nommage-et-le-numerotage/exemple-darrete-indicatif-municipal-determinant-le-modele-de-plaques-de-denomination-de-rues))
+**Arrêté :** le maire prend des arrêtés dans le cadre de ses pouvoirs de police et dans le cadre des compétences qui lui ont été déléguées en début de mandat par le conseil municipal. Le numérotage des locaux fait l’objet d’un arrêté. (Voir des exemples dans le [Guide des Bonnes pratiques](/docs/bonnes-pratiques/Acter%20en%20conseil%20municipal%20le%20nommage%20et%20le%20num%C3%A9rotage/Exemple%20d%E2%80%99arr%C3%AAt%C3%A9%20municipal%20d%C3%A9terminant%20le%20mod%C3%A8le%20de%20plaques%20de%20d%C3%A9nomination%20de%20rues))
 
 **Base Adresse Locale (BAL) :** à l’origine, nom donné à un format de données défini par l’AITF et choisi pour alimenter la Base Adresse Nationale pour son interopérabillité. Par extension, une Base Adresse Locale est le fichier qui contient l’ensemble des adresses d’une commune. (Voir dans la [Documentation générale](https://doc.adresse.data.gouv.fr/mettre-a-jour-sa-base-adresse-locale/le-format-base-adresse-locale))
 
@@ -8,7 +8,7 @@
 
 **Certification d’une adresse :** information obligatoire du format Base Adresse Locale qui permet d’afficher dans la Base Adresse Nationale qu’une adresse est authentifiée par la commune. La certification n’est pas une obligation légale. Gérée automatiquement dans Mes Adresses, à préciser par un champ (0 non certifié, 1 non certifié) si la commune utilise un SIG. Voir ici : [Certifier ses adresses ](/docs/mes-adresses/Publier%20une%20Base%20Adresse%20Locale/Certifier%20ses%20adresses)
 
-**Délibération :** les délibérations sont les actes qui retranscrivent les décisions du conseil municipal. Elles sont exécutoires lorsqu’elles ont été publiées ou affichées (décisions réglementaires) ou notifiées aux intéressés (décisions individuelles) et transmises au contrôle de légalité. Les noms des voies et lieux-dits font l’objet de délibérations. (Voir des exemples dans le [Guide des Bonnes pratiques](https://guide-bonnes-pratiques.adresse.data.gouv.fr/acter-en-conseil-municipal-le-nommage-et-le-numerotage/exemple-de-deliberation-de-denomination-de-voie-1)).
+**Délibération :** les délibérations sont les actes qui retranscrivent les décisions du conseil municipal. Elles sont exécutoires lorsqu’elles ont été publiées ou affichées (décisions réglementaires) ou notifiées aux intéressés (décisions individuelles) et transmises au contrôle de légalité. Les noms des voies et lieux-dits font l’objet de délibérations. (Voir des exemples dans le [Guide des Bonnes pratiques](/docs/bonnes-pratiques/Acter%20en%20conseil%20municipal%20le%20nommage%20et%20le%20num%C3%A9rotage/Exemple%20de%20d%C3%A9lib%C3%A9ration%20de%20d%C3%A9nomination%20de%20voie%20et%20lieu-dit)).
 
 **Hameau :** lieu-dit habité (voir lieu-dit).
 
