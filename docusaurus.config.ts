@@ -117,7 +117,7 @@ const config: Config = {
     // Replace with your project's social card
     image: "img/docusaurus-social-card.jpg",
     navbar: {
-      title: "Doc Adresse",
+      title: "Documentation",
       logo: {
         alt: "Logo documentation adresse",
         src: "img/logo.png",
@@ -130,7 +130,19 @@ const config: Config = {
           label: "Guide des bonnes pratiques",
         },
         {
-          href: "https://adresse.data.gouv.fr/",
+          type: "docSidebar",
+          sidebarId: "mesAdressesSidebar",
+          position: "left",
+          label: "Guide Mes Adresses",
+        },
+        {
+          type: "docSidebar",
+          sidebarId: "docGeneraleSidebar",
+          position: "left",
+          label: "Documentation Générale",
+        },
+        {
+          href: "https://adresse.data.gouv.fr",
           label: "adresse.data.gouv.fr",
           position: "right",
         },

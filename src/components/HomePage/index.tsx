@@ -131,7 +131,9 @@ export default function Home(): ReactNode {
             </Section>
             <Section
               className="guide-section"
-              style={{ backgroundColor: "#F5F5FE" }}
+              style={{
+                backgroundColor: "light-dark(#f5f5fe, #1b1b35)",
+              }}
             >
               <div>
                 <div className="text-wrapper">
@@ -149,7 +151,7 @@ export default function Home(): ReactNode {
                   <div className="buttons-wrapper">
                     <Button
                       linkProps={{
-                        href: "https://guide.mes-adresses.data.gouv.fr/",
+                        href: "/docs/mes-adresses/À%20propos%20du%20Guide%20de%20Mes%20Adresses",
                       }}
                     >
                       Consulter en ligne
@@ -207,7 +209,7 @@ export default function Home(): ReactNode {
                   <div className="buttons-wrapper">
                     <Button
                       linkProps={{
-                        href: "https://guide-bonnes-pratiques.adresse.data.gouv.fr",
+                        href: "/docs/bonnes-pratiques/Introduction",
                       }}
                     >
                       Consulter en ligne

@@ -30,7 +30,12 @@ function SectionTilesList({
   withoutLinkIcon,
 }: SectionTilesListProps) {
   return (
-    <Section title={title} style={{ backgroundColor: "#F5F5FE" }}>
+    <Section
+      title={title}
+      style={{
+        backgroundColor: "light-dark(#f5f5fe, #1b1b35)",
+      }}
+    >
       <div
         style={{
           display: "grid",

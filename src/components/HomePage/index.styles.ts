@@ -1,6 +1,10 @@
 import styled from "styled-components";
 
 export const StyledPage = styled.div`
+  h1 {
+    color: light-dark(black, white);
+  }
+
   .on-this-page {
     display: flex;
     align-items: center;
@@ -8,6 +12,7 @@ export const StyledPage = styled.div`
       flex: 1;
       padding: 2rem;
     }
+
     .text-wrapper {
       ul {
         margin: 2rem 0;
@@ -47,6 +52,10 @@ export const StyledPage = styled.div`
           width: 2.5rem;
           margin-bottom: 1rem;
         }
+
+        h2 {
+          color: light-dark(black, white);
+        }
       }
 
       > .illustration-wrapper {
@@ -79,10 +88,14 @@ export const StyledPage = styled.div`
           > h2 {
             font-size: 1.5rem;
             margin-bottom: 0.1rem;
+            color: light-dark(black, white);
           }
           > legend {
             font-size: 0.8rem;
-            color: ${({ theme }) => (theme as any).colors.grey.main};
+            color: light-dark(
+              ${({ theme }) => (theme as any).colors.grey.main},
+              ${({ theme }) => (theme as any).colors.grey.badge}
+            );
           }
         }
         > .buttons-wrapper {
