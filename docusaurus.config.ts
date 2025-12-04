@@ -73,6 +73,11 @@ const config: Config = {
   ],
 
   themeConfig: {
+    colorMode: {
+      defaultMode: "light",
+      disableSwitch: false,
+      respectPrefersColorScheme: false,
+    },
     tableOfContents: {
       minHeadingLevel: 2,
       maxHeadingLevel: 5,

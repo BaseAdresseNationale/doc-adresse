@@ -70,13 +70,15 @@ interface BALWidgetProviderProps {
 export function BALWidgetProvider({ children }: BALWidgetProviderProps) {
   const { siteConfig } = useDocusaurusContext();
   const balWidgetRef = useRef<HTMLIFrameElement>(null);
-  const transitionTimeout = useRef<NodeJS.Timeout>();
+  const transitionTimeout = useRef<NodeJS.Timeout>(null);
   const [isWidgetDisplayed, setIsWidgetDisplayed] = useState(false);
   const [isWidgetVisible, setIsWidgetVisible] = useState(true);
   const [isBalWidgetOpen, setIsBalWidgetOpen] = useState(false);
   const [isBalWidgetReady, setIsBalWidgetReady] = useState(false);
   const [isBalWidgetConfigLoaded, setIsBalWidgetConfigLoaded] = useState(false);
   const [balWidgetConfig, setBalWidgetConfig] = useState(null);
+
+  const isSiteEmbedded = window.self !== window.top;
 
   const open = useCallback(() => {
     if (balWidgetRef.current) {
@@ -117,6 +119,10 @@ export function BALWidgetProvider({ children }: BALWidgetProviderProps) {
 
   // Fetch BAL widget config
   useEffect(() => {
+    if (isSiteEmbedded) {
+      return;
+    }
+
     async function fetchBalWidgetConfig() {
       try {
         const response = await fetch(
@@ -220,7 +226,7 @@ export function BALWidgetProvider({ children }: BALWidgetProviderProps) {
       {isWidgetDisplayed && (
         <StyledIFrame
           ref={balWidgetRef}
-          src={siteConfig.customFields.BAL_WIDGET_URL}
+          src={`${siteConfig.customFields.BAL_WIDGET_URL}`}
           $isOpen={isBalWidgetOpen}
           $isVisible={isWidgetVisible}
         />
