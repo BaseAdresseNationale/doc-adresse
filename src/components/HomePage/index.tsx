@@ -21,22 +21,21 @@ const ressourcesData = [
     },
   },
   {
-    title: "Les guides",
+    title: "Bonnes pratiques de l'adressage",
     description:
-      "Pour vous accompagner dans la gestion des adresses de votre commune, vous trouverez sur cette page des guides régulièrement mis à jour.",
+      "Pour vous accompagner dans la gestion des adresses de votre commune, ce guide vous présente les meilleures pratiques en terme d'adressage.",
     picto: "img/home-page/document-download.png",
     link: {
-      href: "/docs/mes-adresses/À%20propos%20du%20Guide%20de%20Mes%20Adresses",
+      href: "/docs/bonnes-pratiques/Introduction",
     },
   },
   {
-    title: "La FAQ",
+    title: "Guide Mes Adresses",
     description:
-      "La F.A.Q répond aux questions les plus courantes, posées lors des webinaires par les acteurs de la commune.",
+      "Bien prendre en main l'outil Mes Adresses pour gérer simplement les adresses de votre commune.",
     picto: "img/home-page/community.png",
     link: {
-      href: "https://adresse-data-gouv-fr.gitbook.io/faq",
-      target: "_self",
+      href: "/docs/mes-adresses/%C3%80%20propos%20du%20Guide%20de%20Mes%20Adresses",
     },
   },
 ];
