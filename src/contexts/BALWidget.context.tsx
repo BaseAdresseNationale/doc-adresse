@@ -1,6 +1,13 @@
 "use client";
 import useDocusaurusContext from "@docusaurus/useDocusaurusContext";
-import { useCallback, useEffect, useRef, useState, createContext } from "react";
+import {
+  useCallback,
+  useEffect,
+  useRef,
+  useState,
+  createContext,
+  useMemo,
+} from "react";
 import styled, { css } from "styled-components";
 
 export const StyledIFrame = styled.iframe<{
@@ -78,7 +85,11 @@ export function BALWidgetProvider({ children }: BALWidgetProviderProps) {
   const [isBalWidgetConfigLoaded, setIsBalWidgetConfigLoaded] = useState(false);
   const [balWidgetConfig, setBalWidgetConfig] = useState(null);
 
-  const isSiteEmbedded = window.self !== window.top;
+  const isSiteEmbedded = useMemo(() => {
+    if (global.window) {
+      return window.self !== window.top;
+    }
+  }, []);
 
   const open = useCallback(() => {
     if (balWidgetRef.current) {
