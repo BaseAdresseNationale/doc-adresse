@@ -1,5 +1,3 @@
-
-
 Pour mettre à jour ses adresses, la commune peut utiliser son propre outil ou celui de son EPCI, l'éditeur national gratuit Mes Adresses ou souscrire aux services d'un prestataire. Si la commune choisit cette dernière option, cette fiche récapitule les responsabilités.
 
 <figure><img src="/img/documentation-generale/communes prestataires.png" alt=""/><figcaption></figcaption></figure>
@@ -20,13 +18,13 @@ Extrait de l’[article 169](https://www.legifrance.gouv.fr/jorf/article_jo/JORF
 
 « Les communes mettent à disposition les données relatives à la dénomination des voies et la numérotation des maisons et autres constructions dans le cadre de la mise à disposition des données de référence prévue à l'article L. 321-4 du code des relations entre le public et l'administration.
 
-* L’adresse doit être précise sans supprimer les lieux-dits, et comprend aussi des voies privées
-* La commune doit transmettre les adresses au point national : la Base Adresse Nationale
-* L’achat de la plaque de numéro par la commune n’est plus obligatoire
+- L’adresse doit être précise sans supprimer les lieux-dits, et comprend aussi des voies privées
+- La commune doit transmettre les adresses au point national : la Base Adresse Nationale
+- L’achat de la plaque de numéro par la commune n’est plus obligatoire
 
 **Le format des données**
 
-La commune doit transmettre un fichier adresse au [format Base Adresse Locale](https://doc.adresse.data.gouv.fr/mettre-a-jour-sa-base-adresse-locale/le-format-base-adresse-locale). Ce format est libre et enrichi : minuscules accentuées, voies en toutes lettres, précision des hameaux et lieux-dits, des parcelles cadastrales… il évolue au fil des besoins. Le prestataire doit respecter ce format dans sa dernière version et non une norme commerciale. Par exemple, la norme AFNOR est une norme spécifique aux besoin postaux. Elle est proposée pour les réutilisateurs qui en ont besoin dans les fichiers de la Base Adresse Nationale, les communes n’ont pas à gérer d’autres formats dans leurs Bases Adresses Locales.
+La commune doit transmettre un fichier adresse au [format Base Adresse Locale](/docs/documentation-generale/Mettre%20%C3%A0%20jour%20sa%20Base%20Adresse%20Locale/Le%20format%20Base%20Adresse%20Locale). Ce format est libre et enrichi : minuscules accentuées, voies en toutes lettres, précision des hameaux et lieux-dits, des parcelles cadastrales… il évolue au fil des besoins. Le prestataire doit respecter ce format dans sa dernière version et non une norme commerciale. Par exemple, la norme AFNOR est une norme spécifique aux besoin postaux. Elle est proposée pour les réutilisateurs qui en ont besoin dans les fichiers de la Base Adresse Nationale, les communes n’ont pas à gérer d’autres formats dans leurs Bases Adresses Locales.
 
 **L’autorité de la commune**
 
@@ -46,8 +44,6 @@ _… **Revue d’idées fausses… reçues sur adresse@data.gouv.fr**_
 
 [](/img/documentation-generale/Fiche COMMUNES PRESTATAIRES.pdf)
 
-
-
 :::success
 Un maître mot : la commune reste responsable de ses adresses, même si elle en délègue la réalisation technique. Et l'adresse est une information simple qui est du ressort du Conseil municipal et non une donnée experte compliquée.
 :::
@@ -57,5 +53,3 @@ Vous faites l'objet d'un démarchage abusif ? (Un prestataire vous dit que la BA
 
 Signalez le problème aux services de la Répression des fraudes avec SignalConso : [https://signal.conso.gouv.fr/](https://signal.conso.gouv.fr/)
 :::
-
-

@@ -18,7 +18,7 @@ Les témoignages en ligne sur le blog et les billets techniques permettent de vi
 
 [Bien utiliser la « Liste des toponymes » pour valoriser ses hameaux et lieux-dits ](https://adresse.data.gouv.fr/blog/bien-utiliser-la-liste-des-toponymes-pour-valoriser-ses-hameaux-et-lieux-dits)
 
-Des réponses concrètes dans la FAQ et des informations sur les aides dans la [documentation générale. ](https://doc.adresse.data.gouv.fr/mettre-a-jour-sa-base-adresse-locale/les-aides-aux-communes)
+Des réponses concrètes dans la FAQ et des informations sur les aides dans la [documentation générale. ](/docs/documentation-generale/Mettre%20à%20jour%20sa%20Base%20Adresse%20Locale/Les%20aides%20aux%20communes)
 
 **Pour échanger entre pairs :** rendez-vous sur le [forum des communes](https://forum.incubateur.anct.gouv.fr/c/bases-adresses-locales/43), réservé aux élus et agents municipaux.
 

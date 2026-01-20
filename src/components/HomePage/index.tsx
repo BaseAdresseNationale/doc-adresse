@@ -16,8 +16,7 @@ const ressourcesData = [
       "Cette documentation vous fournit les informations relatives à la Base Adresse Nationale, au format Base Adresse Locale, ainsi que des FAQ et conseils pratiques.",
     picto: "img/home-page/book.png",
     link: {
-      href: "https://doc.adresse.data.gouv.fr/",
-      target: "_self",
+      href: "/docs/documentation-generale/Généralités",
     },
   },
   {
@@ -154,7 +153,7 @@ export default function Home(): ReactNode {
                     onClick={() =>
                       window.open(
                         "img/home-page/guide-mes-adresses-v8.2.pdf",
-                        "_blank"
+                        "_blank",
                       )
                     }
                   >
@@ -211,7 +210,7 @@ export default function Home(): ReactNode {
                     onClick={() =>
                       window.open(
                         "img/home-page/guide-bonnes-pratiques-v4.1.pdf",
-                        "_blank"
+                        "_blank",
                       )
                     }
                   >
