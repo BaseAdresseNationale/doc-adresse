@@ -19,7 +19,7 @@ Deux types d’organismes peuvent transmettre la Base Adresse Locale d’une com
    Il est conseillé d’associer la population et les entreprises installées sur la commune pour faciliter l’acceptation des changements de noms de voies. Les noms des voies et des lieux-dits font l’objet de délibérations prises en Conseil municipal et les numéros d’arrêtés. Ces formalités doivent être anticipées, il existe des modèles en ligne. Inutile d’attendre que toutes les délibérations soient prises pour avancer la Base Adresse Locale dans Mes adresses ou sur son SIG.
 6. **Transmettre les adresses à la Base Adresse Nationale**\
    \- avec Mes Adresses, l’éditeur national de Base Adresse Locale (gratuit et en ligne) ;\
-   \- par formulaire, API de dépôt ou moissonnage (lorsque la commune dispose d’un outil expert, le sien ou celui d’un organisme de mutualisation)
+   \- par formulaire, API de dépôt ou moissonnage (lorsque la commune dispose d’un outil expert, le sien ou celui d’un organisme de mutualisation).
 7.  **Informer la population et placer les panneaux des noms de voies**
 
     Outre la transmission de la Base Adresse Locale à la Base Adresse Nationale, d’autres informations légales sont à accomplir : la pose des panneaux de noms de voies parla commune et des plaques de numéros parle spropriétaires, l’information des habitants et des sociétés, la communication des délibérations à la Préfecture et de la liste des voies au centre des impôts fonciers (jusqu'au 1er juin 2024 au plus tard).
