@@ -12,6 +12,8 @@ const config: Config = {
   tagline: "Dinosaurs are cool",
   favicon: "img/favicon.ico",
 
+  trailingSlash: false,
+
   customFields: {
     BAL_ADMIN_API_URL: process.env.BAL_ADMIN_API_URL,
     BAL_WIDGET_URL: process.env.BAL_WIDGET_URL,
@@ -94,7 +96,7 @@ const config: Config = {
       // Public API key: it is safe to commit it
       apiKey: process.env.ALGOLIA_API_KEY,
 
-      indexName: "Doc Adresse",
+      indexName: "Doc-Adresse",
 
       // Optional: see doc section below
       contextualSearch: false,
