@@ -34,3 +34,7 @@ Gratuit, open source et simple d’utilisation, « [Mes Adresses](https://mes-ad
 Aux communes et EPCI qui gèrent leurs adresses sur un Système d’Information Géographique propriétaire, il est conseillé de consulter la page dédiée aux différentes méthodes de publication d’une Base Adresse Locale (voir dans ce guide le détail [ici](/docs/bonnes-pratiques/Transmettre%20les%20information%20%C3%A0%20la%20Base%20Adresse%20Nationale/Comparatif%20des%20m%C3%A9thodes%20de%20publication%20d%E2%80%99une%20Base%20Adresse%20Locale) et dans la [documentation générale](/docs/documentation-generale/Mettre%20%C3%A0%20jour%20sa%20Base%20Adresse%20Locale/Publier%20une%20Base%20Adresse%20Locale)) et de privilégier une solution adossée à l’API de dépôt.
 
 Les organismes de mutualisation qui publient les adresses des communes sont invités à rejoindre les Partenaires de la [Charte de la Base Adresse Locale](https://adresse.data.gouv.fr/bases-locales/charte) s’ils n’en font pas partie afin de respecter la gouvernance qui place la commune au centre du dispositif et le « Dites-le nous une fois » de l’adresse. Pour ce faire, la demande d'inscription se faire directement sur la page des Partenaires de la Charte.
+
+|Test|Test|
+
+
