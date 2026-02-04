@@ -49,7 +49,7 @@ function extractName(filename) {
  */
 function generateSlug(relativePath) {
   const parts = relativePath.split(path.sep);
-  const slugParts = parts.map((part, index) => {
+  const slugParts = ["docs", ...parts].map((part, index) => {
     // Pour le dernier élément (le fichier), on extrait le nom sans extension
     if (index === parts.length - 1) {
       return slugify(extractName(part));
@@ -145,7 +145,7 @@ function processFile(fileInfo) {
   }
 
   const slug = generateSlug(relativePath);
-  const newContent = addSlugToFrontmatter(content, slug);
+  const newContent = addSlugToFrontmatter(content, `/${slug}`);
 
   if (DRY_RUN) {
     console.log(`📝 [DRY-RUN] ${relativePath}`);
