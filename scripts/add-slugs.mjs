@@ -49,7 +49,7 @@ function extractName(filename) {
  */
 function generateSlug(relativePath) {
   const parts = relativePath.split(path.sep);
-  const slugParts = ["docs", ...parts].map((part, index) => {
+  const slugParts = parts.map((part, index) => {
     // Pour le dernier élément (le fichier), on extrait le nom sans extension
     if (index === parts.length - 1) {
       return slugify(extractName(part));
