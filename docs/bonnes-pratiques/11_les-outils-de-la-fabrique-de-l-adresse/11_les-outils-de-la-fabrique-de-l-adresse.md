@@ -1,0 +1,5 @@
+---
+title: "Les outils de la fabrique de l'adresse"
+---
+
+À partir du site adresse.data.gouv.fr, de nombreux outils (simples\* ou plus techniques\*\*) sont à disposition des communes, EPCI, utilisateurs, etc. en licence ouverte pour consulter les adresses d’une commune, charger les fichiers d’adresses, les mettre à jour, se documenter, entrer en relation avec une autre commune pour échanger, se former, trouver un Partenaire de la Charte, contacter le support pour résoudre un problème ou devenir Partenaire pour accompagner une commune...
