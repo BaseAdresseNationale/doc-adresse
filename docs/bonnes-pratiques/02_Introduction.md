@@ -1,5 +1,6 @@
 ---
 title: "Introduction"
+slug: introduction
 ---
 
 En vertu de la [L](https://www.legifrance.gouv.fr/jorf/article_jo/JORFARTI000045197622)[oi](https://www.legifrance.gouv.fr/jorf/article_jo/JORFARTI000045197622)[ du 22 février 2022](https://www.legifrance.gouv.fr/jorf/article_jo/JORFARTI000045197622), dite Loi 3DS et du [décret d’application n° 2023-767](https://www.legifrance.gouv.fr/download/pdf?id=oT0pwyU63tW7WiVnMRNhkcQqXIoj1rNUQUJGj9Kdan8=) du 11 août 2023, l'adressage est réalisé sous la responsabilité du Conseil municipal de la commune. Un adressage complet implique des actions politiques (délibération et arrêté), une information sur le terrain et la transmission d'une Base Adresse Locale à la Base Adresse Nationale. Cela étant fait : **le dites le nous une fois s'applique et la commune est déchargée de tout autre transmission de ses adresses** sauf exceptions très limitées.
