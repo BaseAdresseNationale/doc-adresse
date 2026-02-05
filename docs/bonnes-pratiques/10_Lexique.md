@@ -1,3 +1,7 @@
+---
+title: "Lexique"
+---
+
 ### API Adresse
 
 cette API permet d'interroger facilement la Base Adresse Nationale pour faire de l’autocomplétion et de la vérification d’adresse, géolocaliser une adresse sur une carte ou encore faire une recherche géographique inversée (trouver la rue la plus proche de coordonnées géographiques).

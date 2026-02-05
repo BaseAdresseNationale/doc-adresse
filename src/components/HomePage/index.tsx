@@ -16,7 +16,7 @@ const ressourcesData = [
       "Cette documentation vous fournit les informations relatives à la Base Adresse Nationale, au format Base Adresse Locale, ainsi que des FAQ et conseils pratiques.",
     picto: "img/home-page/book.png",
     link: {
-      href: "/docs/documentation-generale/Généralités",
+      href: "/docs/documentation-generale/generalites",
     },
   },
   {
@@ -25,7 +25,7 @@ const ressourcesData = [
       "Pour vous accompagner dans la gestion des adresses de votre commune, ce guide vous présente les meilleures pratiques en terme d'adressage.",
     picto: "img/home-page/document-download.png",
     link: {
-      href: "/docs/bonnes-pratiques/Introduction",
+      href: "/docs/bonnes-pratiques/introduction",
     },
   },
   {
@@ -34,7 +34,7 @@ const ressourcesData = [
       "Bien prendre en main l'outil Mes Adresses pour gérer simplement les adresses de votre commune.",
     picto: "img/home-page/community.png",
     link: {
-      href: "/docs/mes-adresses/%C3%80%20propos%20du%20Guide%20de%20Mes%20Adresses",
+      href: "/docs/mes-adresses/a-propos-du-guide-de-mes-adresses",
     },
   },
 ];
@@ -143,7 +143,7 @@ export default function Home(): ReactNode {
                 <div className="buttons-wrapper">
                   <Button
                     linkProps={{
-                      href: "/docs/mes-adresses/À%20propos%20du%20Guide%20de%20Mes%20Adresses",
+                      href: "/docs/mes-adresses/a-propos-du-guide-de-mes-adresses",
                     }}
                   >
                     Consulter en ligne
@@ -200,7 +200,7 @@ export default function Home(): ReactNode {
                 <div className="buttons-wrapper">
                   <Button
                     linkProps={{
-                      href: "/docs/bonnes-pratiques/Introduction",
+                      href: "/docs/bonnes-pratiques/introduction",
                     }}
                   >
                     Consulter en ligne
