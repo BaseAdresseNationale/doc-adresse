@@ -10,26 +10,27 @@ title: "Services et outils à disposition"
 
 ### Consulter les adresses des communes
 
-- [La page d'information sur la commune](https://adresse.data.gouv.fr/#rechercher-une-commune) : permet de connaître l'avancée des adresses de la commune, le nombre d'adresses certifiées et de télécharger le **fichier de la Base Adresse Nationale** pour cette commune.
-- [L'Explorateur de Base Adresse Nationale](https://adresse.data.gouv.fr/base-adresse-nationale#4.4/46.9/1.7) avec visualisation des adresses par commune, leur certification, les sources des adresses, les parcelles cadastrales associées. Sur mobile ou tablette : sélectionner le point GPS associé l'ouvre dans un navigateur GPS.
+- [La page d'information par commune](https://adresse.data.gouv.fr/commune) : permet de connaître l'avancée de l'adressage de la commune, le nombre d'adresses certifiées et de télécharger le **fichier de la Base Adresse Nationale** pour cette commune.
+- [L'Explorateur de Base Adresse Nationale](https://adresse.data.gouv.fr/carte-base-adresse-nationale) permet la recherche et visualisation des adresses et voies par commune, leur certification, les sources des adresses, les parcelles cadastrales associées. Sur mobile ou tablette : sélectionner le point GPS associé l'ouvre directement dans un navigateur GPS.
 
 ### Utiliser la Base Adresse Nationale
 
-- [Les fichiers](https://adresse.data.gouv.fr/donnees-nationales) de la Base Adresse Nationale en plusieurs formats, actualisés une fois par semaine. Ces fichiers sont découpés par département - pour une recherche de fichier par commune voir supra.
-- [L'API Adresse](https://geo.api.gouv.fr/adresse) et sa [documentation](https://guides.etalab.gouv.fr/apis-geo/1-api-adresse.html#les-donnees-d-adresses). Pour héberger sa propre instance, voir[ ici.](https://github.com/BaseAdresseNationale/addok-docker)
-- [L'Explorateur de Base Adresse Nationale](https://adresse.data.gouv.fr/base-adresse-nationale#4.4/46.9/1.7), avec visualisation des adresses dans la Base Adresse Nationale qui précise les adresses certifiées par la commune, les sources des adresses, les parcelles cadastrales associées. Sur mobile ou tablette : sélectionner le point GPS associé l'ouvre dans un navigateur GPS.
+- [Les fichiers en téléchargement](https://adresse.data.gouv.fr/outils/telechargements) de la Base Adresse Nationale sont proposés en plusieurs formats et contenus, ils sont actualisés **chaque jour**. Ces fichiers sont découpés par département, une version France Entière est également disponble - pour une recherche de fichier par commune voir supra. A venir : exports json et fichiers différentiels. 
+- Les données BAN sont également accessibles en flux cartographiques : WFS et WMS. Ces flux sont actualisés deux fois par semaine. 
+- [L'API de géocodage et d'auto-complétion](https://adresse.data.gouv.fr/outils/api-doc/adresse) et sa [documentation](https://geoservices.ign.fr/documentation/services/services-geoplateforme/geocodage), permet un accès immédiat aux adresses de la BAN avec leur localisation. 
+- [L'Explorateur de Base Adresse Nationale](https://adresse.data.gouv.fr/carte-base-adresse-nationale), permet la recherche et visualisation des adresses et voies par commune, leur certification, les sources des adresses, les parcelles cadastrales associées. Sur mobile ou tablette : sélectionner le point GPS associé l'ouvre directement dans un navigateur GPS. A venir : consultation de l'historique des adresses. 
 
 ### Suivre l'actualité de l'adresse
 
-- La page [Événements autour de l'adresse](https://adresse.data.gouv.fr/evenements)
-- Fil Twitter [@AdresseDataGouv](https://twitter.com/adressedatagouv?lang=fr)
-- [Infolettre](https://adresse.data.gouv.fr/#newsletter)
+- La page [Événements autour de l'adresse](https://adresse.data.gouv.fr/evenements) rappelle les dates et informations des rencontres techniques autour de l'adresse
+- Fil LinkedIn [Base Adresse Nationale](https://www.linkedin.com/company/base-adresse-nationale))
+- N'hésitez pas à vous abonner à notre [Infolettre](https://adresse.data.gouv.fr/newsletters))
 - [Le blog](https://adresse.data.gouv.fr/blog)
 
 ### Découvrir le sujet de l'adresse, ses bonnes pratiques
 
 - Le Guide des bonnes pratiques de l'adresse détaille les règles et normes en vigueur ([format texte](/docs/bonnes-pratiques/introduction) et [PDF](https://adresse.data.gouv.fr/data/docs/guide-bonnes-pratiques-v2.1.pdf)).
-- Les [Témoignages en ligne](https://adresse.data.gouv.fr/bases-locales/temoignages) exposent des cas concrets d'adressage par les communes et des EPCI.
+- Les [Témoignages en ligne](https://adresse.data.gouv.fr/bases-locales/temoignages) exposent des cas concrets d'adressage par les communes et des EPCI, ainsi que des cas d'utilisation de la donnée adresse dans des contextes métiers variés.
 - [La plaquette de communication](https://www.amenagement-numerique.gouv.fr/files/2021-04/BAL%20plaquette%20pr%C3%A9fecture.pdf) sur l'adresse
 
 ### Outils grand public : l'éditeur national de Bases Adresses Locales pour mettre à jour ses adresses
@@ -52,7 +53,7 @@ title: "Services et outils à disposition"
 
 ### Outils experts
 
-- [Le géocodeur .csv](https://adresse.data.gouv.fr/csv) : uploader un fichier .csv et définir les colonnes à utiliser pour le géocodage
+- [Le géocodeur .csv](https://adresse.data.gouv.fr/csv) : permet d'uploader un fichier .csv d'adresses, et définir les colonnes à utiliser pour le géocodage
 - [Le validateur BAL](https://adresse.data.gouv.fr/bases-locales/validateur) : valider son fichier Base Adresse Locale avant de le publier dans la BAN par dépôt sur [data.gouv.fr ](https://www.data.gouv.fr/fr/)
 - API de dépôt d'une Base Adresse Locale : lien vers la [documentation](https://github.com/BaseAdresseNationale/api-depot/wiki/Documentation)
 - Moissonneur d'une Base Adresse Locale : lien vers la [documentation](https://github.com/BaseAdresseNationale/moissonneur-bal/wiki/Fonctionnement-du-moissonneur-bal)
@@ -64,6 +65,6 @@ title: "Services et outils à disposition"
 
 - [Tableau de bord du déploiement des Bases Adresses Locales](https://adresse.data.gouv.fr/deploiement-bal) : sélection par commune, EPCI, département, statistiques détaillées pour chaque échelon et fichier .csv téléchargeable.
 
-### Naviguer dans la base FANTOIR de la DGFiP
+### Naviguer dans la base FANTOIR de la DGFiP (outils dépréciés)
 
 - [L'explorateur FANTOIR](https://adresse.data.gouv.fr/fantoir) permet de consulter par commune le nom des voies, des lieux-dits ; des ensembles immobiliers (voies situées dans les lotissements et les copropriétés) ; et des pseudo-voies (canaux, etc.). L'[API FANTOIR](https://github.com/BaseAdresseNationale/api-fantoir/blob/master/README.md#api) permet une consultation avancée.
