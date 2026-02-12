@@ -4,8 +4,6 @@ title: "Gestion des numéros"
 
 # Gestion des numéros
 
-Les numéros s’échelonnent de 1 à 9999. Une adresse comportant un zéro ou un numéro de 10000 ou au-delà n’est pas prise en compte.
-
 * Les numéros se suivent **depuis le centre vers la périphérie** et en cas d’ambiguïté, il convient de choisir le sens de l’Est vers l’Ouest et du Nord vers le Sud ;
 * Les **numéros pairs et impairs ne se succèdent pas d’un même côté de voie**. Les pairs sont positionnés à droite, les impairs à gauche depuis le début de la voie (**ce n'est pas une obligation**, mais une pratique courante, la commune peut donc adapter les numéros à la réalité du terrain) ;
 * **Prévoir des numéros** pour de nouvelles habitations à venir ;
