@@ -20,6 +20,10 @@ L'ouverture en Licence Ouverte de la Base Adresse Nationale le 1er janvier 2020 
 | juillet 2021         | Certification des adresses composites identifiées comme de source communale.                                                                                                                                                                                      |
 | septembre 2021       | Ajout du champ certification\_commune                                                                                                                                                                                                                             |
 | novembre 2021        | Entrée en production de l'API de dépôt de Bases Adresses Locales afin de faciliter les publications de Bases Adresses Locales en masse et de tendre vers la mise à jour en temps réel.                                                                            |
+| début 2022           | Transfert du mandat de pilotage de la BAN à l'IGN  
+                                                                                                                                 |
+| fév 2022             | Promulgation de la Loi 3DS, l'article 169 place la commune en responsabilité de l'adressage
+                                                                                                                                 |
 | mars 2022            | Lancement de la démarche "Adresse\_Lab de co-construction de la feuille de route de la BAN                                                                                                                                                                        |
 | Juillet 2022         | Implémentation des Langues Régionales                                                                                                                                                                                                                             |
 
