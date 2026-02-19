@@ -16,3 +16,6 @@ Pour faciliter la réutilisation des adresses, il est conseillé d’associer 
 
 Il est tout à fait possible d’associer **plusieurs parcelles à un numéro, plusieurs numéros à une parcelle.** Dans ce dernier cas de figure, il suffit de sélectionner successivement les numéros concernés et de les associer à la même parcelle. Les parcelles associées à des adresses apparaissent avec une trame colorée. **Conformément au format Base Adresse Locale, cette information est exportée dans la Base Adresse Nationale avec le champ cad\_parcelles.**
 
+Vous pouvez également rechercher un numéro de parcelle, une fois sélectionné, la carte zoomera jusqu'à la parcelle concernée : 
+
+<figure><img src="/img/mes-adresses/recherche_parcelle.png" alt=""/><figcaption></figcaption></figure>
