@@ -26,6 +26,8 @@ export const StyledIFrame = styled.iframe<{
       ? css`
           height: 600px;
           width: 450px;
+          max-height: calc(100vh - 80px);
+          max-width: calc(100vw - 80px);
         `
       : css`
           height: 60px;
@@ -44,7 +46,8 @@ export const StyledIFrame = styled.iframe<{
   @media screen and (max-width: 450px) {
     bottom: 10px;
     right: 10px;
-    ${({ $isOpen }) => $isOpen && "width: calc(100% - 20px);"}
+    ${({ $isOpen }) =>
+      $isOpen && "width: calc(100% - 20px);max-height: calc(100vh - 20px);"}
   }
 `;
 
@@ -97,7 +100,7 @@ export function BALWidgetProvider({ children }: BALWidgetProviderProps) {
         {
           type: "BAL_WIDGET_OPEN",
         },
-        "*"
+        "*",
       );
     }
   }, [balWidgetRef]);
@@ -108,7 +111,7 @@ export function BALWidgetProvider({ children }: BALWidgetProviderProps) {
         {
           type: "BAL_WIDGET_CLOSE",
         },
-        "*"
+        "*",
       );
     }
   }, [balWidgetRef]);
@@ -121,11 +124,11 @@ export function BALWidgetProvider({ children }: BALWidgetProviderProps) {
             type: "BAL_WIDGET_NAVIGATE",
             content: to,
           },
-          "*"
+          "*",
         );
       }
     },
-    [balWidgetRef]
+    [balWidgetRef],
   );
 
   // Fetch BAL widget config
@@ -137,7 +140,7 @@ export function BALWidgetProvider({ children }: BALWidgetProviderProps) {
     async function fetchBalWidgetConfig() {
       try {
         const response = await fetch(
-          `${siteConfig.customFields.BAL_ADMIN_API_URL}/bal-widget/config`
+          `${siteConfig.customFields.BAL_ADMIN_API_URL}/bal-widget/config`,
         );
         const data = await response.json();
         if (response.status !== 200) {
@@ -167,7 +170,7 @@ export function BALWidgetProvider({ children }: BALWidgetProviderProps) {
           type: "BAL_WIDGET_CONFIG",
           content: balWidgetConfig,
         },
-        "*"
+        "*",
       );
     }
   }, [
