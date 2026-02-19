@@ -3,7 +3,7 @@ title: "Associer une adresse à une ou à plusieurs parcelles"
 ---
 
 Pour faciliter la réutilisation des adresses, il est conseillé d’associer un numéro à la parcelle cadastrale. 
-<figure><img src="/img/mes-adresses/ajout parcelle.png" alt=""/><figcaption></figcaption></figure>
+<figure><img src="/img/mes-adresses/ajout_parcelle.png" alt=""/><figcaption></figcaption></figure>
 
 La démarche comporte trois étapes :
 
