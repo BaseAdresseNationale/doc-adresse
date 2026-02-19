@@ -81,15 +81,15 @@ En cas de fusion de communes : la commune nouvelle devra, lors de sa première p
 
 ·        `id_ban_toponyme` : c’est l’identifiant du toponyme (voie ou lieudit). Il est le même pour toutes les lignes qui concernent cette voie ou lieudit. Il est le même si la voie possède des `lieu-dit_complément_nom` différents sur certaines lignes. 
 
+**Précisions de traitement pour les voies homonymes** : 
+_Des voies homonymes mais distinctes sur une même commune_ doivent bien avoir des `id_ban_toponyme` distincts, c'est ce qui permettra de les différencier dans le système. 
+_Pour les voies  à cheval sur 2 communes qui auraient le même libellé_  : la maille de gestion des BAL étant la commune, il est nécessaire d'avoir 2 `id_ban_toponyme` différents, afin de ne pas créer de doublons dans la base quand on agrège les BAL. Ce principe s'applique pour les voies traversantes comme sur les voies limitrophes, à cheval sur deux ou plusieurs communes. 
 
-Précisions de traitement : 
-_Des voies homonymes mais distinctes sur une même commune_ doivent bien avoir des `id_ban_toponyme` distincts
-_pour les voies  à cheval sur 2 communes qui auraient le même libellé_  : la maille de gestion des BAL étant la commune, il est nécessaire d'avoir 2 `id_ban_toponyme` différents, afin de ne pas créer de doublons dans la base quand on agrège les BAL. Ce principe s'applique pour les voies traversantes comme sur les voies limitrophes, à cheval sur deux ou plusieurs communes. 
-
-**Cas particulier des fusions de voies lors de fusion de communes**: 
-En cas de fusion de communes, il est recommandé d'éviter les doublons d'identifiants pour une même voie qui se retrouverait fusionnée. Plusieurs options de gestion en fonction des scénarios : 
+**Cas particulier des fusions de voies homonymes lors de fusion de communes**: 
+En cas de fusion de communes, il est recommandé de supprimer les doublons d'identifiants pour une même voie qui se retrouverait fusionnée. 
+Plusieurs options de gestion sont possibles en fonction des scénarios : 
   - "Fusionner" les identifiants en n'en gardant qu'un des deux, qui doit alors être répercuté sur l'ensemble des lignes des adresses de la voie "absorbée" : il est préconisé de garder l'id de la voie de la commune absorbante, ou celui de la voie qui porte le plus grand nombre d'adresses. Le second id est supprimé du fichier. 
-  - Créer un nouvel `id_ban_toponyme` pour la nouvelle voie fusionnée, à répercuter sur l'ensemble des lignes des adresses des deux voies initiales. Les deux précédents id sont supprimés. 
+  - Créer un nouvel `id_ban_toponyme` pour la nouvelle voie fusionnée, à répercuter sur l'ensemble des lignes des adresses des deux voies initiales. Les deux précédents id sont supprimés.
 
 
 ·        `id_ban_adresse` : c’est l’identifiant de l’adresse. Il est le même pour toutes les positions de l’adresse (pour ceux qui souhaitent gérer plusieurs positions).
@@ -105,10 +105,10 @@ Si jamais vous rencontrez une difficulté : [adresse@data.gouv.fr](mailto:adress
 ## 6.    Enjeu de l'intégrité des identifiants
 
 Ces clés techniques sont la base du calcul des informations de généalogie de l'adresse, il est essentiel de s'assurer de leur conformité, intégrité et pérennnité dans le temps. L'introduction d'identifiants erronés dans la base d'historique entrainerait une inexploitabilité des données. 
-Les identifiants une fois affectés aux objets **doivent rester les mêmes** tout au long du cycle de vie de l'objet, pour en permettre la gestion au cours de leur différentes évolutions.  
+Les identifiants une fois affectés aux objets **doivent rester les mêmes** tout au long du cycle de vie de l'objet, pour en permettre le suivi au cours de leur différentes évolutions.  
 
 Des **contrôles d'intégrité** des identifiants à la publication dans la BAN sont en place, pour garantir leur conformité, et leur pérennité dans le temps. 
-Les erreurs détectées par ces contrôles sont signalées dans les rapports de publication, et devront être corrigées avant la publication effective dans la BAN. 
+Les erreurs détectées par ces contrôles sont signalées dans les rapports de publication, et doivent être corrigées avant la publication effective dans la BAN. 
 
 Les contrôles détectent notamment comme des erreurs :  
 - un `id_ban_commune` qui ne correspond pas à celui du registre de la BAN
