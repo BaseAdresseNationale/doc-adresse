@@ -17,9 +17,10 @@ v1.3 de Février 2025
 
 **Vocabulaire** : on parlera dans ce document d’adresse et d’id\_ban\_adresse pour être cohérent avec le format BAL _(même si quand on parle d’identifiant il serait plus juste de parler d’identifiant de lieu adressé : on détaillera cette notion dans la documentation sur les bonnes pratiques des identifiants_).
 
-## 1.    Le format BAL 1.4
 
-C’est la version 1.4 de la spécification BAL qui permet de renseigner  distinctement  les 3 identifiants BAN  `id_ban_commune`  ,  `id_ban_toponyme`  et  `id_ban_adresse` .
+## 1.    Gestion des identifiants dans le format BAL 
+
+- A partir de la **version 1.4** la spécification BAL permet de renseigner  distinctement  les 3 identifiants BAN  `id_ban_commune`  ,  `id_ban_toponyme`  et  `id_ban_adresse` .
 
 <figure><img src="/img/documentation-generale/image.png" alt=""/><figcaption><p>Modèle de données Spec BAL 1.4 avec les 3 identifiants BAN</p></figcaption></figure>
 
@@ -27,9 +28,9 @@ La description de ce format est dans la documentation (page 7 à 11 pour les ide
 
 Format BAL 1.4 :  [https://aitf-sig-topo.github.io/voies-adresses/files/AITF\_SIG\_Topo\_Format\_Base\_Adresse\_Locale\_v1.4.pdf](https://aitf-sig-topo.github.io/voies-adresses/files/AITF_SIG_Topo_Format_Base_Adresse_Locale_v1.4.pdf)
 
+- La **version BAL 1.5** s'appuie sur les modalités d'affectation des identifiants mises en oeuvre dans la version 1.4, et **rend ces identifiants obligatoires**. 
 
-
-La version du **format BAL 1.3** permet également d'embarquer les identifiants de façon conservatoire.  Pour cela, vous devez utiliser le champ `uid_adresse`, et le remplir en concaténant les 3 identifiants, et en les faisant précéder des suffixes @a: @v: @c: pour gérer les associations.
+- La version du **format BAL 1.3** permet également d'embarquer les identifiants de façon conservatoire.  Pour cela, vous devez utiliser le champ `uid_adresse`, et le remplir en concaténant les 3 identifiants, et en les faisant précéder des suffixes @a: @v: @c: pour gérer les associations.
 
 A l'intérieur de la colonne uid-adresse, l'ordre des éléments n'est pas important.
 
@@ -55,7 +56,7 @@ Par exemple [https://plateforme.adresse.data.gouv.fr/api/district/cog/31555](htt
 
 Si besoin, la doc de l'API (en version Beta) est ici : [DRAFT # API BAN Plateforme · BaseAdresseNationale/ban-plateforme Wiki · GitHub](https://github.com/BaseAdresseNationale/ban-plateforme/wiki/3%E2%80%90-DRAFT-%23-API-BAN-Plateforme)
 
-## 3.    Comment générer des uuid v4 pour les adresses « id\_ban\_adresse » et les odonymes (voies et lieudits) « id\_ban\_toponyme »
+## 3.    Comment générer les idban pour les adresses « id\_ban\_adresse » et les odonymes (voies et lieudits) « id\_ban\_toponyme »
 
 NB : le modèle BAN ne fait pas de distinction entre les voies et les lieudits
 
@@ -74,25 +75,29 @@ Pour générer des identifiants BAN, vous pouvez :
 
 ## 4.    Règles d’affectation des identifiants
 
-En suivant le format BAL 1.4, chaque ligne du format BAL csv possède les attributs :
+En suivant le format BAL 1.4 et 1.5, chaque ligne du format BAL csv possède les attributs :
 
-·        `id_ban_commune` : c’est la valeur récupérée à l’étape 2. Elle est la même pour toutes les adresses de la commune.  
-En cas de fusion de communes : la commune nouvelle devra, lors de sa première publication avvec les BAL fusionnées, récupérer le nouvel `id_ban_commune` dans le registre BAN. Ce nouvel identifiant devra être actualisé sur l'ensemble des adresses des communes fusionnées. 
+-  `id_ban_commune` : c’est la valeur récupérée à l’étape 2. Elle est la même pour toutes les adresses de la commune.  
 
-·        `id_ban_toponyme` : c’est l’identifiant du toponyme (voie ou lieudit). Il est le même pour toutes les lignes qui concernent cette voie ou lieudit. Il est le même si la voie possède des `lieu-dit_complément_nom` différents sur certaines lignes. 
+**Précision de traitement pour les fusions de communes** :
+La commune nouvelle devra, lors de sa première publication avvec les BAL fusionnées, récupérer le nouvel `id_ban_commune` dans le registre BAN. Ce nouvel identifiant devra être actualisé sur l'ensemble des adresses et voies sans numéros des communes fusionnées. 
+
+
+-  `id_ban_toponyme` : c’est l’identifiant du toponyme (voie ou lieudit). Il est le même pour toutes les lignes qui concernent cette voie ou lieudit.
+Il est le même si la voie possède des `lieu-dit_complément_nom` différents sur certaines lignes. 
 
 **Précisions de traitement pour les voies homonymes** : 
-_Des voies homonymes mais distinctes sur une même commune_ doivent bien avoir des `id_ban_toponyme` distincts, c'est ce qui permettra de les différencier dans le système. 
-_Pour les voies  à cheval sur 2 communes qui auraient le même libellé_  : la maille de gestion des BAL étant la commune, il est nécessaire d'avoir 2 `id_ban_toponyme` différents, afin de ne pas créer de doublons dans la base quand on agrège les BAL. Ce principe s'applique pour les voies traversantes comme sur les voies limitrophes, à cheval sur deux ou plusieurs communes. 
+- _Des voies homonymes mais distinctes sur une même commune_ doivent bien avoir des `id_ban_toponyme` distincts, c'est ce qui permettra de les différencier dans le système. 
+- _Pour les voies  à cheval sur 2 communes qui auraient le même libellé_  : la maille de gestion des BAL étant la commune, il est nécessaire d'avoir 2 `id_ban_toponyme` différents, afin de ne pas créer de doublons dans la base quand on agrège les BAL. Ce principe s'applique pour les voies traversantes comme sur les voies limitrophes, à cheval sur deux ou plusieurs communes. 
 
-**Cas particulier des fusions de voies homonymes lors de fusion de communes**: 
+**Cas particulier des fusions de voies homonymes lors de fusion de communes** : 
 En cas de fusion de communes, il est recommandé de supprimer les doublons d'identifiants pour une même voie qui se retrouverait fusionnée. 
 Plusieurs options de gestion sont possibles en fonction des scénarios : 
-  - "Fusionner" les identifiants en n'en gardant qu'un des deux, qui doit alors être répercuté sur l'ensemble des lignes des adresses de la voie "absorbée" : il est préconisé de garder l'id de la voie de la commune absorbante, ou celui de la voie qui porte le plus grand nombre d'adresses. Le second id est supprimé du fichier. 
+  - "Fusionner" les identifiants en n'en gardant qu'un des deux (recommandé), qui doit alors être répercuté sur l'ensemble des lignes des adresses de la voie "absorbée" : il est préconisé de garder l'id de la voie de la commune absorbante, ou celui de la voie qui porte le plus grand nombre d'adresses. Le second id est supprimé du fichier. 
   - Créer un nouvel `id_ban_toponyme` pour la nouvelle voie fusionnée, à répercuter sur l'ensemble des lignes des adresses des deux voies initiales. Les deux précédents id sont supprimés.
 
 
-·        `id_ban_adresse` : c’est l’identifiant de l’adresse. Il est le même pour toutes les positions de l’adresse (pour ceux qui souhaitent gérer plusieurs positions).
+- `id_ban_adresse` : c’est l’identifiant de l’adresse. Il est le même pour toutes les positions de l’adresse (pour ceux qui souhaitent gérer plusieurs positions).
 
 **Cas particulier des voies sans numéro** 
 il faut générer un id\_ban\_toponyme pour l'odonyme (voie ou lieu-dit sans numéro). L'id\_ban\_adresse ne sera pas rempli pour ces lignes de voies sans numéro. 
@@ -110,11 +115,12 @@ Les identifiants une fois affectés aux objets **doivent rester les mêmes** tou
 Des **contrôles d'intégrité** des identifiants à la publication dans la BAN sont en place, pour garantir leur conformité, et leur pérennité dans le temps. 
 Les erreurs détectées par ces contrôles sont signalées dans les rapports de publication, et doivent être corrigées avant la publication effective dans la BAN. 
 
-Les contrôles détectent notamment comme des erreurs :  
+Les **erreurs** détectées par les contrôles sont notamment :  
 - un `id_ban_commune` qui ne correspond pas à celui du registre de la BAN
 - des champs identifiants partiellement vides dans le fichier : lorsque les identifiants sont pris en charge, ils doivent l'être de façon conforme sur l'ensemble du fichier BAL, quelque soit la version de la spécification BAL utilisée.
 - des `id_ban_toponyme` différents sur un même libellé de voie
+- la présence d'`id_ban_adresse` associé à une voie/lieudit sans numéro. 
 - des identifiants déjà utilisés dans la base. L'ensemble des identifiants utilisés est stocké en base, même s'il est supprimé. Un identifiant supprimé ne peut donc pas être réutilisé pour un autre objet.
-- des modifications d'identifiants en masse par rapport à la précédente publication. Un seuil de 80% est appliqué. Les identifiants une fois affectés aux objets doivent rester les mêmes tout au long de leur cycle de vie. Il faut donc veiller pour une mise à jour des fichiers d'adresses, et notamment en cas de changement d'outil de publication, **à repartir de la version de référence du fichier telle qu'elle est publiée dans la BAN.** 
+- des recalculs d'identifiants en masse par rapport à la précédente publication. Un seuil de 80% est appliqué. Les identifiants une fois affectés aux objets doivent rester les mêmes tout au long de leur cycle de vie. Il faut donc veiller pour une mise à jour des fichiers d'adresses, et notamment en cas de changement d'outil de publication, **à repartir de la version de référence du fichier telle qu'elle est publiée dans la BAN.** 
 
 
