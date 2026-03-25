@@ -4,22 +4,20 @@ title: "Le Format Base Adresse Locale"
 
 Informations techniques et préconisations
 
-Un fichier Base Adresse Locale correspond à un [format d'échange aujourd'hui en version 1.4](https://aitf-sig-topo.github.io/voies-adresses/) (le format 1.3 reste accepté). Issu des travaux du groupe de travail mis en place par l’Association des Ingénieurs Territoriaux de France (AITF), ce format garantit une intégration réussie des Bases Adresse Locales dans la Base Adresse Nationale. L'éditeur en ligne de Base Adresse Locale [Mes Adresses](https://mes-adresses.data.gouv.fr/) gère ces informations et les transfère directement à la Base Adresse Nationale sans que la commune ait à manipuler de fichiers. Les spécifications présentées ci-dessous sont utiles pour gérer une Base Adresse Locale sur un outil dédié. 
+Un fichier Base Adresse Locale correspond à un [format d'échange aujourd'hui en version 1.5](https://aitf-sig-topo.github.io/voies-adresses/) (les formats 1.3 et 1.4 restent acceptés). Issu des travaux du groupe de travail mis en place par l’Association des Ingénieurs Territoriaux de France (AITF), ce format garantit une intégration réussie des Bases Adresse Locales dans la Base Adresse Nationale. L'éditeur en ligne de Base Adresse Locale [Mes Adresses](https://mes-adresses.data.gouv.fr/) gère ces informations et les transfère directement à la Base Adresse Nationale sans que la commune ait à manipuler de fichiers. Les spécifications présentées ci-dessous sont utiles pour gérer une Base Adresse Locale sur un outil dédié. 
 
-### Tableau simplifié du format BAL 1.4 proposé par l'AITF :
+### Tableau simplifié du format BAL 1.5 proposé par l'AITF :
 
 | **Attribut**             | **Obligatoire** | **Description**                                                                              |
 | ------------------------ | --------------- | -------------------------------------------------------------------------------------------- |
-| id\_ban\_commune         |                 | identifiant unique de la commune fourni par la BAN (format 1.4)                              |
-| id\_ban\_toponyme        |                 | identifiant unique du toponyme auquel est rattaché l’adresse (format 1.4)                    |
-| id\_ban\_adresse         |                 | identifiant unique de l’adresse (format 1.4)                                                 |
-| uid\_adresse             |                 | identifiant unique national d’adresse (format 1.3)                                           |
-| cle\_interop             | Oui             | clé nationale d’interopérabilité                                                             |
+| id\_ban\_commune         | Oui             | identifiant unique de la commune fourni par la BAN (format 1.4)                              |
+| id\_ban\_toponyme        | Oui             | identifiant unique du toponyme auquel est rattaché l’adresse (format 1.4)                    |
+| id\_ban\_adresse         | Conditionnel    | identifiant unique de l’adresse (format 1.4)                                                 |
 | commune\_insee           | Oui             | code INSEE de la commune                                                                     |
 | commune\_nom             | Oui             | nom de la commune                                                                            |
 | commune\_deleguee\_insee |                 | code INSEE de la commune déléguée                                                            |
 | commune\_deleguee\_nom   |                 | nom de la commune déléguée                                                                   |
-| voie\_nom                | Oui             | nom complet de la voie                                                                       |
+| toponyme                 | Oui             | nom complet du toponyme                                                                     |
 | lieudit\_complement\_nom |                 | nom du lieu-dit historique ou complémentaire                                                 |
 | numero                   | Oui             | numéro                                                                                       |
 | suffixe                  |                 | informations qui complètent et précisent les numéros d’adresses                              |
