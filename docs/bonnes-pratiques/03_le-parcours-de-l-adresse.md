@@ -13,6 +13,8 @@ Deux types d’organismes peuvent transmettre la Base Adresse Locale d’une com
    [L’explorateur de la Base Adresse nationale](https://adresse.data.gouv.fr/base-adresse-nationale#4.4/46.9/1.7) permet de consulter les adresses officielles de la commune (par arrondissement pour les très grandes communes) et leurs sources lorsque la commune n’a pas déposé de Base Adresse Locale.
 2.  **Consulter la page d’information de la commune**\
     Cette [page d’information](https://adresse.data.gouv.fr/#rechercher-une-commune) contient toutes les informations sur les adresses de la commune, y compris leurs fichiers. Elle indique comment une Base Adresse Locale a été transmise s’il en existe déjà une, les dates de mises à jour et informe sur sa qualité (certification, erreurs). Conseil : télécharger sur cette page le fichier BAN au format BAL 1.3 pour disposer de l’ensemble des adresses de la commune telles que déposées dans la Base Adresse Nationale.
+Blabla
+
 
     S’il existe déjà une Base Adresse Locale transmise à la Base Adresse Nationale, cela n’empêche pas la commune d’en publier une nouvelle qui remplacera l’ancienne. Il est conseillé à la commune d’informer son organisme de mutualisation s’il était responsable du dépôt précédent et de veiller à ce que la nouvelle Base Adresse Locale ne soit pas de moins bonne qualité que la Base Adresse Locale actuellement transmise (lieux-dits, précision de la parcelle cadastrale, certification par exemple).
 3. **Repérer les problèmes**\
