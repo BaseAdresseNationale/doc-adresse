@@ -34,7 +34,7 @@ Cette API permet d'effectuer toutes les actions réalisables sur l'éditeur en l
 
 #### Documentation
 
-- Page de documentation sur Github: [https://github.com/etalab/api-bal/wiki/Documentation-de-l'API](https://github.com/etalab/api-bal/wiki/Documentation-de-l'API)
+- Page de documentation sur Github : [https://github.com/BaseAdresseNationale/mes-adresses-api/wiki](https://github.com/BaseAdresseNationale/mes-adresses-api/wiki)
     
 
 ### L'API de dépôt
@@ -43,6 +43,23 @@ Cette API permet de déposer une mise à jour d'une Base Adresse Locale dans la 
 
 #### Documentation
 
-- Page de documentation sur Github: [https://github.com/etalab/ban-api-depot/wiki/Documentation](https://github.com/etalab/ban-api-depot/wiki/Documentation)
+- Page de documentation sur Github : [[https://github.com/etalab/ban-api-depot/wiki/Documentation](https://github.com/BaseAdresseNationale/api-depot/wiki/01_Pr%C3%A9sentation)]([https://github.com/etalab/ban-api-depot/wiki/Documentation](https://github.com/BaseAdresseNationale/api-depot/wiki/01_Pr%C3%A9sentation))
     
 - Documentation par GéoCompiégnois de son utilisation de l’API : [https://github.com/sigagglocompiegne/rva/blob/master/api/doc_api_balc_fme.md](https://github.com/sigagglocompiegne/rva/blob/master/api/doc_api_balc_fme.md)
+
+### L'API de signalement
+
+L'API de Signalement permet de centraliser les demandes de corrections sur les adresses présentent dans la BAN et de les mettre à disposition des communes et producteurs de données adresse.
+
+#### Documentation
+
+- Page de documentation sur Github : [https://github.com/BaseAdresseNationale/api-signalement/wiki](https://github.com/BaseAdresseNationale/api-signalement/wiki)
+
+### L'API validateur
+
+Cette API permet de vérifier la conformité des fichiers au [format BAL](https://aitf-sig-topo.github.io/voies-adresses/). Elle détecte automatiquement si les fichiers sont au format BAL 1.3, 1.4 ou 1.5 et affiche en conséquence les éventuelles erreurs bloquantes et avertissements de non conformité. 
+
+#### Documentation
+
+- Page de documentation sur Github : [https://github.com/BaseAdresseNationale/validateur-api/wiki](https://github.com/BaseAdresseNationale/validateur-api/wiki)
+
