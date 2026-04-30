@@ -44,8 +44,8 @@ Cette API permet de déposer une mise à jour d'une Base Adresse Locale dans la 
 #### Documentation
 
 - Page de documentation sur Github : [[https://github.com/etalab/ban-api-depot/wiki/Documentation](https://github.com/BaseAdresseNationale/api-depot/wiki/01_Pr%C3%A9sentation)]([https://github.com/etalab/ban-api-depot/wiki/Documentation](https://github.com/BaseAdresseNationale/api-depot/wiki/01_Pr%C3%A9sentation))
-    
 - Documentation par GéoCompiégnois de son utilisation de l’API : [https://github.com/sigagglocompiegne/rva/blob/master/api/doc_api_balc_fme.md](https://github.com/sigagglocompiegne/rva/blob/master/api/doc_api_balc_fme.md)
+- Swagger : [https://plateforme-bal.adresse.data.gouv.fr/api-depot/api](https://plateforme-bal.adresse.data.gouv.fr/api-depot/api)
 
 ### L'API de signalement
 
@@ -54,6 +54,7 @@ L'API de Signalement permet de centraliser les demandes de corrections sur les a
 #### Documentation
 
 - Page de documentation sur Github : [https://github.com/BaseAdresseNationale/api-signalement/wiki](https://github.com/BaseAdresseNationale/api-signalement/wiki)
+- Swagger : [https://plateforme-bal.adresse.data.gouv.fr/api-signalement/api](https://plateforme-bal.adresse.data.gouv.fr/api-signalement/api)
 
 ### L'API validateur
 
@@ -62,4 +63,5 @@ Cette API permet de vérifier la conformité des fichiers au [format BAL](https:
 #### Documentation
 
 - Page de documentation sur Github : [https://github.com/BaseAdresseNationale/validateur-api/wiki](https://github.com/BaseAdresseNationale/validateur-api/wiki)
+- swagger : [https://plateforme-bal.adresse.data.gouv.fr/validateur-api/api](https://plateforme-bal.adresse.data.gouv.fr/validateur-api/api)
 
