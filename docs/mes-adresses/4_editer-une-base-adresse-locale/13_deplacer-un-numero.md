@@ -8,4 +8,4 @@ title: "Déplacer un numéro"
 
 Un affichage de la vue aérienne permet de vérifier la présence de voies privées avant d’opérer les déplacements de numéros :
 
-<figure><img src=".gitbook/assets/image (12).png" alt=""/><figcaption></figcaption></figure>
+<figure><img src="/img/mes-adresses/image (12).png" alt=""/><figcaption></figcaption></figure>

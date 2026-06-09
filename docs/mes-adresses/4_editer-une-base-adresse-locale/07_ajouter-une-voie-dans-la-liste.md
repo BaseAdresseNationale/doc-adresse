@@ -10,7 +10,7 @@ alphabétique.
 
 Ajouter le type et le nom de voie dans le premier champ seulement
 
-<figure><img src="/img/mes-adresses/Capture d’écran 2022-07-22 à 14.07.22.png" alt=""/><figcaption></figcaption></figure>
+<figure><img src="/img/mes-adresses/Capture_d_ecran_2022-07-22_a_14-07-22.png" alt=""/><figcaption></figcaption></figure>
 
 "Mes Adresses" permet de :
 
@@ -26,19 +26,19 @@ Ajouter le type et le nom de voie dans le premier champ seulement
 
 Les panneaux des noms de voie présentent une version en langue régionale ? Vous devez reporter ces noms en activant le bouton vert « + Ajouter une langue régionale ». L’éditeur propose les langues officielles en France, notamment alsacien, basque, breton, corse, créole-guyanais, catalan, créole-martiniquais-guadeloupéen, créole-réunionnais, mahorais et occitan. Une fois inscrit le nom en français, cliquer sur « sélectionner une langue régionale » et choisir dans le menu déroulant
 
-<figure><img src="/img/mes-adresses/Capture d’écran 2022-07-22 à 14.19.05.png" alt=""/><figcaption></figcaption></figure>
+<figure><img src="/img/mes-adresses/Capture_d_ecran_2022-07-22_a_14-19-05.png" alt=""/><figcaption></figcaption></figure>
 
 Compléter le champ en langue régionale (ici le basque), avec la même exigence de typographie qu’en français. Tous les accents sont prévus.
 
-<figure><img src="/img/mes-adresses/Capture d’écran 2022-07-22 à 14.20.44.png" alt=""/><figcaption></figcaption></figure>
+<figure><img src="/img/mes-adresses/Capture_d_ecran_2022-07-22_a_14-20-44.png" alt=""/><figcaption></figcaption></figure>
 
 Il est possible d’ajouter plusieurs langues régionales. Dans la liste des voies, le nom en langue régionale est proposé en italique.
 
-<figure><img src="/img/mes-adresses/Capture d’écran 2022-07-22 à 14.22.09.png" alt=""/><figcaption></figcaption></figure>
+<figure><img src="/img/mes-adresses/Capture_d_ecran_2022-07-22_a_14-22-09.png" alt=""/><figcaption></figcaption></figure>
 
 Dans l’[explorateur de la Base Adresse Nationale](https://adresse.data.gouv.fr/carte-base-adresse-nationale), les langues régionales sont restituées de la même manière :
 
-<figure><img src="/img/mes-adresses/Capture d’écran 2022-07-22 à 14.23.24.png" alt=""/><figcaption></figcaption></figure>
+<figure><img src="/img/mes-adresses/Capture_d_ecran_2022-07-22_a_14-23-24.png" alt=""/><figcaption></figcaption></figure>
 
 Et dans les fichiers de la [Base Adresse Nationale](https://adresse.data.gouv.fr/outils/telechargements), les codes ISO sont utilisés pour distinguer les différentes langues régionales.
 
