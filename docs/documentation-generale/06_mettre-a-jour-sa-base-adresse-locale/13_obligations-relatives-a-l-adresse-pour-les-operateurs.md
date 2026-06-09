@@ -4,7 +4,7 @@ title: "Obligations relatives à l’adresse pour les opérateurs"
 
 L’opérateur qui déploie la fibre sollicite la commune pour une étude préalable des adresses. Voici quelques chemins qui facilitent l’arrivée de la fibre tout en rendant les adresses de la commune utiles à tous, opérateurs, administrés, secours, touristes...
 
-<figure><img src="/img/documentation-generale/Communes opérateurs (1).png" alt=""/><figcaption></figcaption></figure>
+<figure><img src="/img/documentation-generale/Communes_operateurs.png" alt=""/><figcaption></figcaption></figure>
 
 ### Si l’opérateur repère des anomalies sur le terrain
 
@@ -31,7 +31,5 @@ L’opérateur peut fournir le lien vers la Base Adresse Locale de la commune a
 > Il n’est plus possible d'avoir des adresses de type 2bis, il faut toutes les renommer en "2b"
 >
 > Pour mettre à jour ou créer les adresses de votre commune, il faut absolument passer par un prestataire
->
->
 
-[](/img/documentation-generale/Fiche COMMUNES OPERATEURS (1).pdf)
+[Fiche Communes Operateur.pdf](/file/Fiche_COMMUNES_OPERATEURS.pdf)

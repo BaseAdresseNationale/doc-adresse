@@ -12,6 +12,6 @@ Cas concrets : interdire une voie aux poids lourds, à tous les véhicules sauf 
 
 <figure><img src="/img/documentation-generale/image (23).png" alt=""/><figcaption></figcaption></figure>
 
-* Pour en savoir plus : [https://dialog.beta.gouv.fr/](https://dialog.beta.gouv.fr/)
+- Pour en savoir plus : [https://dialog.beta.gouv.fr/](https://dialog.beta.gouv.fr/)
 
-[](/img/documentation-generale/20241118 - DiaLog - Présentation générale.pdf)
+[DiaLog_Présentation_générale.pdf](/file/DiaLog_Présentation_générale.pdf)
