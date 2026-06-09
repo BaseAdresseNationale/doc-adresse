@@ -13,7 +13,7 @@ L'éditeur en ligne [Mes Adresses](https://mes-adresses.data.gouv.fr/) permet cr
 
 Cliquer sur l’onglet « Liste des toponymes » puis sur « Ajouter un toponyme ». Un pointeur se place sur l’écran : le positionner avec la souris vers le centre du hameau ou du lieu-dit, ce qui correspond à la position segment. Il est possible de modifier une position ou d’en ajouter d’autres en complément.
 
-[](/img/documentation-generale/Enregistrement de l’écran 2021-05-21 à 17.56.38.gif)
+<figure><img src="/img/documentation-generale/Enregistrement_de_l_ecran_2021-05-21_a_17-56-38.gif" alt=""/><figcaption></figcaption></figure>
 
 Attention s’il s’agit d’un lieu dit, ne pas préciser « Lieu-dit » mais seulement le nom, par exemple « Les Fossés » et non « Lieu-dit Les Fossés ». Il est conseillé de compléter ainsi dans la liste des toponymes les hameaux et lieux-dits qu’une voie peut traverser avant d’associer les adresses.
 
@@ -21,7 +21,7 @@ Attention s’il s’agit d’un lieu dit, ne pas préciser « Lieu-dit » mais 
 
 Ces deux démarches sont complémentaires, au choix. Pour associer un ou des numéros au toponyme, il s’agit de cliquer sur une voie — dans la liste ou sur le fond de carte — pour la consulter. Une fois la liste des numéros affichée, sélectionner le (ou les) numéro(s) puis cliquer sur « Modifier ». Cliquer sur « Choisir un toponyme » pour afficher la liste déroulante des toponymes créés. Cette fonctionnalité est également proposée à la création d’un nouveau numéro.
 
-[Capture d'écran de Mes Adresses - 24 septembre 2021](/img/documentation-generale/Enregistrement de l’écran 2021-09-24 à 10.55.53.gif)
+<figure><img src="/img/documentation-generale/Enregistrement_de_l_ecran_2021-09-24_a_10-55-53.gif" alt=""/><figcaption></figcaption></figure>
 
 Sur cette capture d'écran, les adresses ont déjà été certifiées (coche verte).
 
@@ -31,7 +31,7 @@ En cas d’erreur, par exemple le numéro 730 du Chemin du Roudoulou a été ass
 
 Pour associer le toponyme aux numéros, cliquer sur le toponyme dans la Liste des toponymes et lui associer des numéros à sélectionner dans le menu déroulant qui propose des voies. Pour sélectionner certains numéros, cliquer sur « Choisir les numéros », sinon « Enregistrer » et l’ensemble des numéros de la voie sont associés au toponyme.
 
-[Capture d'écran de Mes Adresses - 24 septembre 2021](/img/documentation-generale/Enregistrement de l’écran 2021-09-24 à 11.14.22.gif)
+<figure><img src="/img/documentation-generale/Enregistrement_de_l_ecran_2021-09-24_a_11-14-22.gif" alt=""/><figcaption></figcaption></figure>
 
 En cas d’erreur, il suffit de sélectionner un numéro, de cliquer sur modifier et de préciser « Aucun toponyme » avant d’enregistrer.
 
