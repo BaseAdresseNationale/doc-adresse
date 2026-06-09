@@ -6,7 +6,7 @@ title: "Consulter une voie ou un toponyme"
 
 Dans la liste des voies (écran latéral), rechercher la voie à l’aide de l’outil loupe, par exemple ici "maraîchers" affiche toutes les voies qui incluent ce mot, puis cliquer sur les trois points et "Consulter".
 
-<figure><img src=".gitbook/assets/image (52).png" alt=""/><figcaption></figcaption></figure>
+<figure><img src="/img/mes-adresses/image (52).png" alt=""/><figcaption></figcaption></figure>
 
 Procéder de même pour consulter la liste des toponymes. _Dans cet exemple, les adresses de la voie sont toutes certifiées (coche verte)._
 

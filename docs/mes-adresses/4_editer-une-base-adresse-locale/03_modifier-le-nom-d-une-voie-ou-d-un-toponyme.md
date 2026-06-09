@@ -4,7 +4,7 @@ title: "Modifier le nom d’une voie ou d’un toponyme"
 
 **Le nom de la voie ou du toponyme est écrit en minuscules accentuées**, la première lettre de la voie et du nom seulement étant écrites en majuscule. Dans la liste des voies, rechercher la voie dans le champ de recherche (outil loupe), cliquer sur les trois pointillés, activer l’outil crayon "Modifier" :
 
-<figure><img src=".gitbook/assets/image (51).png" alt=""/><figcaption></figcaption></figure>
+<figure><img src="/img/mes-adresses/image (51).png" alt=""/><figcaption></figcaption></figure>
 
 Il est également possible de cliquer directement sur le nom de la voie ou du toponyme.
 
