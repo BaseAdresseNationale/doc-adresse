@@ -31,7 +31,7 @@ title: "Services et outils à disposition"
 
 - Le Guide des bonnes pratiques de l'adresse détaille les règles et normes en vigueur ([format texte](/docs/bonnes-pratiques/introduction) et [PDF](https://adresse.data.gouv.fr/data/docs/guide-bonnes-pratiques-v2.1.pdf)).
 - Les [Témoignages en ligne](https://adresse.data.gouv.fr/blog) exposent des cas concrets d'adressage par les communes et des EPCI, ainsi que des cas d'utilisation de la donnée adresse dans des contextes métiers variés.
-- [La plaquette de communication](../../../static/pdf/PLAQUETTE%20BENEFICES%20ADRESSAGE_V2.pdf) sur l'adresse
+- [La plaquette de communication](/file/PLAQUETTE%20BENEFICES%20ADRESSAGE_V2.pdf) sur l'adresse
 
 ### Outils grand public : l'éditeur national de Bases Adresses Locales pour mettre à jour ses adresses
 
