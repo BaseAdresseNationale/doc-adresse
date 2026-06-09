@@ -4,9 +4,9 @@ title: "Généralités sur la publication"
 
 Publier une Base Adresse Locale c’est transmettre toutes ses adresses à la Base Adresse Nationale. Une BAL publiée est alors accessible et ses adresses utilisables par tous les opérateurs. Il est tout à fait possible de publier une BAL dès l’ajout de quelques adresses ou leur modification, et de compléter ultérieurement. Cela permet à des administrés d’accéder sans attente à aux services publics en ligne comme Ameli, l’ANTS, etc.
 
-Pour des raisons de sécurité, la publication nécessite une authentification par un élu, via l’outil FranceConnect ou par code envoyé sur la boîte courriel référencée sur service-public.fr par la commune.
+Pour des raisons de sécurité, la publication nécessite une authentification par un élu, via l’outil ProConnect ou par code envoyé sur la boîte courriel référencée sur service-public.fr par la commune.
 
-<figure><img src="/img/mes-adresses/Capture d’ecran 2022-02-07 a 10.21.11.png" alt=""/><figcaption></figcaption></figure>
+<figure><img src="/img/mes-adresses/Capture_d_ecran_2026-06-09_a_14-22-21.png" alt=""/><figcaption></figcaption></figure>
 
 Lorsque la commune choisit de demander un code, les deux écrans suivants s'affichent
 
