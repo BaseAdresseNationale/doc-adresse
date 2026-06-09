@@ -18,7 +18,7 @@ Organisé par l’équipe produit BAL/BAN et [Somme Numérique](https://www.somm
 Pour une commune qui ne dispose pas d'un SIG ou d'un outil mutualisé :
 
 - Se connecter sur adresse.data.gouv.fr et créer sa BAL et utiliser les documents sur la plateforme pour vous aider
-- Problème avec La Poste qui se sert de la norme AFNOR pour faire l'adressage et non de la norme Base Adresse Locale présentée dans le [Guide des Bonnes pratiques](https://adresse.data.gouv.fr/ressources).
+- Problème avec La Poste qui se sert de la norme AFNOR pour faire l'adressage et non de la norme Base Adresse Locale présentée dans le [Guide des Bonnes pratiques](https://adresse.data.gouv.fr/ressources-et-documentations).
 - Par quoi commencer => 💡 utiliser les bases de recensement (?), les services de police, le service technique, le garde champêtre pour faire un état des lieux.
 
 #### :dart: Questions techniques
@@ -83,7 +83,7 @@ Pour une commune qui ne dispose pas d'un SIG ou d'un outil mutualisé :
 
 **BAL/BAN :** => 💡 Témoignage d’un maire du Finistère lors d’un atelier en Bretagne qui expliquait vérifier ses adresses sur son tracteur. L'éditeur Mes Adressses est très pratique permet tout type d'utilisation. Au-delà de l’anecdote, les [témoignages](https://adresse.data.gouv.fr/blog?tags=temoignage,mes-adresses) en ligne montrent que la mise à jour est très rapide et facile sur l'éditeur [Mes Adresses](https://mes-adresses.data.gouv.fr/).
 
-**GéoCompiégnois, EPCI partenaire de la Charte :** _Depuis 2017, Géocompiégnois réalise les adresses des communes de deux EPCI, bientôt trois, sur son propre SIG et utilise l'_[_API de dépôt_](https://github.com/BaseAdresseNationale/api-depot/wiki/Documentation) _pour verser les adresses._
+**GéoCompiégnois, EPCI partenaire de la Charte :** _Depuis 2017, Géocompiégnois réalise les adresses des communes de deux EPCI, bientôt trois, sur son propre SIG et utilise l'_[_API de dépôt_](https://github.com/BaseAdresseNationale/api-depot/wiki/01_Pr%C3%A9sentation) _pour verser les adresses._
 
 Début 2017 Compiègne a commencé à accompagner 22 communes en mutualisant son SIG avec 2 autres EPCI. Les actions : mise à jour des adresses inventaire de la qualité. => 💡 GéoCompiégnois a essayé d’aller plus loin en réalisant un **diagnostic de l’adresse**. A l’époque les communes adressaient juste un signalement => 💡 objectif de l'EPCI : **gommer la difficulté technique**. Très vite les communes ont sollicité l’EPCI sur d’autres sujets. Il a fourni un **guide de l’adressage.** Les sollicitations actuelles s’inscrivent davantage dans une logique de conseil et portent sur l’adressage en général.
 

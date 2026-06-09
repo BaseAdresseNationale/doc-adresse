@@ -26,7 +26,7 @@ Code postal Nom de commune
 
 Les propriétaires bailleurs doivent informer les locataires de ces nouvelles dispositions. (_Préciser les conditions de délivrances de nouvelles plaques de numérotation_). Parallèlement, des panneaux de signalisation avec les noms des voies sont installés.
 
-Je vous conseille de renseigner vos nouvelles coordonnées sur le site service public à la page suivante : [https://www.service-public.fr/particuliers/vosdroits/R11193](https://www.service-public.fr/particuliers/vosdroits/R11193)
+Je vous conseille de renseigner vos nouvelles coordonnées sur le site service public à la page suivante : [https://www.service-public.gouv.fr/particuliers/vosdroits/R11193](https://www.service-public.gouv.fr/particuliers/vosdroits/R11193)
 
 Je vous remercie de votre participation, et vous prie de croire Madame, Monsieur à mes cordiales et dévouées salutations.
 

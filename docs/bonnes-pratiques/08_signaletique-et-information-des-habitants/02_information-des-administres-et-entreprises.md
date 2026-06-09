@@ -6,7 +6,7 @@ title: "Information des administrés et entreprises"
 
 La commune informe en amont les administrés de la démarche d’adressage et communique la nouvelle adresse en rappelant les références des délibérations et des arrêtés qu’elle a pris.
 
-Le site officiel [www.service-public.fr ](https://www.service-public.fr/)permet aux administrés de communiquer gratuitement leur changement de coordonnées aux principaux organismes publics et privés à partir de la page « [Changement d’adresse en ligne ](https://www.service-public.fr/particuliers/vosdroits/R11193)».
+Le site officiel [www.service-public.fr ](https://www.service-public.gouv.fr/)permet aux administrés de communiquer gratuitement leur changement de coordonnées aux principaux organismes publics et privés à partir de la page « [Changement d’adresse en ligne ](https://www.service-public.gouv.fr/particuliers/vosdroits/R11193)».
 
 <figure><img src="/img/bonnes-pratiques/Capture d ecran 2021-06-25 a 10-29-18.png" alt=""/><figcaption></figcaption></figure>
 
@@ -40,7 +40,7 @@ Il suffit enfin de remplir le reste de la formalité, sans autre modification, c
 
 ### Entreprises : inscription du changement au registre du commerce des sociétés
 
-Attention, postérieurement à la déclaration sur le guichet unique, **la mairie doit saisir par courrier le greffe de son tribunal de commerce** (c. f. [annuaire des tribunaux de commerce](http://www.annuaires.justice.gouv.fr/annuaires-12162/annuaire-des-tribunaux-de-commerce-21781.html)), en mentionnant la liste des anciennes adresses en regard des nouvelles adresses et en demandant la "mention d'office au registre du commerce". Le greffe effectuera la recherche des entreprises impactées par ces changements d'adresses et mentionnera d'office la modification sans réclamer de quelconques émoluments. Il pourra ensuite inviter les entreprises, dont le libellé adresse a été modifié, à régulariser leur dossier en déposant les actes modifiant les statuts et lesdits status mis à jour. La modification de ces statuts reste cependant payante (15€).
+Attention, postérieurement à la déclaration sur le guichet unique, **la mairie doit saisir par courrier le greffe de son tribunal de commerce** (c. f. [annuaire des tribunaux de commerce](https://www.justice.gouv.fr/annuaire/juridictions-judiciaires/tribunaux-commerce)), en mentionnant la liste des anciennes adresses en regard des nouvelles adresses et en demandant la "mention d'office au registre du commerce". Le greffe effectuera la recherche des entreprises impactées par ces changements d'adresses et mentionnera d'office la modification sans réclamer de quelconques émoluments. Il pourra ensuite inviter les entreprises, dont le libellé adresse a été modifié, à régulariser leur dossier en déposant les actes modifiant les statuts et lesdits status mis à jour. La modification de ces statuts reste cependant payante (15€).
 
 **Attention, l'entreprise ne doit donc pas faire elle-même la démarche** auprès du greffe car elle risque de se voir réclamer des émoluments bien supérieurs au seul dépôt d'acte.
 

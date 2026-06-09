@@ -28,6 +28,6 @@ Des réponses concrètes dans la FAQ et des informations sur les aides dans la [
 
 Pour être accompagné : il est conseillé de rechercher un [Partenaire de la Charte de la Base Adresse Locale](https://adresse.data.gouv.fr/communaute/charte-base-adresse-locale) qui s’engage à respecter le format et la gouvernance prévues par la loi 3DS.
 
-Pour **visualiser les opérations à réaliser**, [les films tutos !](https://peertube.adresse.data.gouv.fr/videos/overview)
+Pour **visualiser les opérations à réaliser**, [les films tutos !](https://tube.numerique.gouv.fr/c/base_adresse_locale/videos)
 
 Enfin, les [webinaires hebdomadaires](https://adresse.data.gouv.fr/evenements) permettent de **suivre des démonstrations et de poser des questions** : inscription en page d’accueil.

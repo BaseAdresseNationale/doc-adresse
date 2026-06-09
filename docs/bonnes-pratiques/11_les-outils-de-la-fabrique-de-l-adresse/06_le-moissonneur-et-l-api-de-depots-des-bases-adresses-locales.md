@@ -2,7 +2,7 @@
 title: "Le moissonneur et l’API de dépôts des Bases Adresses Locales"
 ---
 
-* [Le moissonneur de Bases Adresses Locales](https://github.com/BaseAdresseNationale/moissonneur-bal/wiki/Fonctionnement-du-moissonneur-bal)\*\* \
+- [Le moissonneur de Bases Adresses Locales](https://github.com/BaseAdresseNationale/moissonneur-bal/wiki/01_Fonctionnement)\*\* \
   **Usages :** outil qui récupère les Bases Adresse Locales disponibles en open data et les dépose dans la Base Adresse Nationale via l’api-depot.
-* [L’API de dépôt](https://github.com/BaseAdresseNationale/api-depot/wiki/Documentation)\*\* \
+- [L’API de dépôt](https://github.com/BaseAdresseNationale/api-depot/wiki/01_Pr%C3%A9sentation)\*\* \
   **Usages :** transmettre les adresses à la BAN avec une approche « push », destinée aux éditeurs/intégrateurs de solutions.

@@ -22,6 +22,20 @@ const SKIP_EXTERNAL = process.argv.includes('--no-external')
 const CONCURRENCY = 5
 const TIMEOUT_MS = 12000
 
+// Domaines ignorés lors de la vérification HTTP (anti-bot ou toujours fiables)
+const SKIP_DOMAINS = [
+  'www.legifrance.gouv.fr',
+  'legifrance.gouv.fr',
+]
+
+function isSkippedDomain(url) {
+  try {
+    return SKIP_DOMAINS.includes(new URL(url).hostname)
+  } catch {
+    return false
+  }
+}
+
 // ─── Collecte des fichiers markdown ──────────────────────────────────────────
 
 function getMarkdownFiles(dir, files = []) {
@@ -304,7 +318,7 @@ for (const filePath of files) {
         break
 
       case 'external':
-        if (!SKIP_EXTERNAL) {
+        if (!SKIP_EXTERNAL && !isSkippedDomain(item.src)) {
           const baseUrl = item.src.split('#')[0]
           if (!externalUrlToFiles.has(baseUrl)) externalUrlToFiles.set(baseUrl, new Set())
           externalUrlToFiles.get(baseUrl).add(relFile)
@@ -326,9 +340,19 @@ if (!SKIP_EXTERNAL && externalUrlToFiles.size > 0) {
       for (const file of sourceFiles) {
         issues.push({ file, kind: 'link', src: url, severity: 'error', detail: `erreur réseau : ${result.error}` })
       }
-    } else if (result.status >= 400) {
+    } else if (result.status === 404 || result.status === 410) {
+      // Définitivement cassé
       for (const file of sourceFiles) {
         issues.push({ file, kind: 'link', src: url, severity: 'error', detail: `HTTP ${result.status}` })
+      }
+    } else if (result.status === 403 || result.status === 401) {
+      // Souvent une protection anti-bot (ex: legifrance.gouv.fr), pas nécessairement cassé
+      for (const file of sourceFiles) {
+        issues.push({ file, kind: 'link', src: url, severity: 'warn', detail: `HTTP ${result.status} (accès refusé aux robots — vérifier manuellement)` })
+      }
+    } else if (result.status >= 500) {
+      for (const file of sourceFiles) {
+        issues.push({ file, kind: 'link', src: url, severity: 'warn', detail: `HTTP ${result.status} (erreur serveur temporaire)` })
       }
     } else if (result.location) {
       for (const file of sourceFiles) {

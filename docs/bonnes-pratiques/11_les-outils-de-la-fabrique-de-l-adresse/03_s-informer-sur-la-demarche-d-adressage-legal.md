@@ -8,7 +8,7 @@ title: "S’informer sur la démarche d’adressage légal"
 - [Le Guide des Bonnes pratiques](/docs/bonnes-pratiques/introduction)\* \
   Ce guide est proposé en format texte et PDF, régulièrement mis à jour depuis 2020. \
   **Usages :** monter en compétence sur l’adresse légale.
-- [La Foire Aux Questions des communes/FAQ](https://adresse-data-gouv-fr.gitbook.io/faq/)\* \
+- [La Foire Aux Questions des communes/FAQ](https://adresse-data-gouv-fr.gitbook.io/faq)\* \
   FAQ réalisée à partir des questions posées par les communes.\
   **Usages :** trouver des réponses à des cas précis sur l’adressage en général, qu’il soit réalisé sur Mes Adresses ou sur un autre outil.
 - [Les témoignages et billets en ligne](https://adresse.data.gouv.fr/blog)\*\

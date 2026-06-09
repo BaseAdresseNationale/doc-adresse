@@ -20,16 +20,16 @@ SDIS : Service Départemental d’Incendie et de Secours (🚒)
 
 Les problèmes remontés sur cette thématique peuvent être regroupés en 3 sous thématiques :
 
-* **📰 Informer**
-  * La connaissance de la loi, de l’existence d’outils.
-  * Informer les élu.es.
-* **✊ Convaincre**
-  * L’urgence de la situation
-  * La motivation des élu.es
-* **🏗️ Co-construire**
-  * Avec qui, comment, pourquoi.
-  * La taille des territoires, les ressources affectées, la gestion de l’historique.
-  * Les citoyens en tant qu’acteurs.
+- **📰 Informer**
+  - La connaissance de la loi, de l’existence d’outils.
+  - Informer les élu.es.
+- **✊ Convaincre**
+  - L’urgence de la situation
+  - La motivation des élu.es
+- **🏗️ Co-construire**
+  - Avec qui, comment, pourquoi.
+  - La taille des territoires, les ressources affectées, la gestion de l’historique.
+  - Les citoyens en tant qu’acteurs.
 
 ### **Problème 1 : je ne sais pas quelles informations je dois donner vers les communes**
 
@@ -55,9 +55,9 @@ Retour d’expérience : sur la Bretagne la notion de Pays semble bien fonctionn
 
 💡 **Solutions à creuser**
 
-* Le rôle de la Préfecture : elle pourrait demander lors de dépôts de demandes de subventions pour l’adressage que les adresses soient bien au format BAL dans la BAN à la fin de l’adressage, que les listes des voies déposées aussi (pour le calcul de la DGF)
-* Proposer des formations & permanences sous un format de cellule support _“venez avec des adresses on vous aide à les rentrer.”"_
-* Expérimentation d’une mobilisation à l’échelle d’un département, via le conseil départemental. Cette échelle permettrait de passer par un SDIS et cibler par exemple des compétences du département comme les collèges. Le département du 22 semble être un bon terrain d’expérimentation.
+- Le rôle de la Préfecture : elle pourrait demander lors de dépôts de demandes de subventions pour l’adressage que les adresses soient bien au format BAL dans la BAN à la fin de l’adressage, que les listes des voies déposées aussi (pour le calcul de la DGF)
+- Proposer des formations & permanences sous un format de cellule support _“venez avec des adresses on vous aide à les rentrer.”"_
+- Expérimentation d’une mobilisation à l’échelle d’un département, via le conseil départemental. Cette échelle permettrait de passer par un SDIS et cibler par exemple des compétences du département comme les collèges. Le département du 22 semble être un bon terrain d’expérimentation.
 
 ### **Problème 2: comment un ou une citoyenne peut être acteur de la fabrique de l’Adresse ?**
 
@@ -81,9 +81,9 @@ Aujourd’hui quand on clique sur “en tant que citoyen” sur le site [adresse
 
 ➡️ **Solutions à creuser**
 
-* L’outil mes-adresses (éditeur des BAL et alimentant la BAN) pourrait être en transverse comme un point d’entrée pour compléter la BAN et la BANO. Dans cette hypothèse OSM se chargerait de faire la communication auprès de ses contributeurs de mes-adresses comme principal éditeur de l’adresse.
-* Creuser le parcours de validation de la Mairie suite à une contribution citoyenne.
-* Création d’un kit de communication à destination du citoyen.
+- L’outil mes-adresses (éditeur des BAL et alimentant la BAN) pourrait être en transverse comme un point d’entrée pour compléter la BAN et la BANO. Dans cette hypothèse OSM se chargerait de faire la communication auprès de ses contributeurs de mes-adresses comme principal éditeur de l’adresse.
+- Creuser le parcours de validation de la Mairie suite à une contribution citoyenne.
+- Création d’un kit de communication à destination du citoyen.
 
 ### **Problème 3 : après avoir pris contact, comment arriver à convaincre ?**
 
@@ -99,22 +99,22 @@ La seule variable sur laquelle le service ne peut influer est le temps humain. E
 
 ➡️ **Solutions à creuser**
 
-* Creuser des possibilités d’aide à la contribution
-  * Voir partie contribution citoyenne avec OSM
-  * Mise en place de mission de bénévolats sur [jeveuxaider.gouv.fr](https://www.jeveuxaider.gouv.fr/territoires)
-  * Recrutement de [service civique](https://www.service-civique.gouv.fr/etre-volontaire)
-  * Communication auprès des conseils de quartier ou conseils municipaux des jeunes.
-  * Communication auprès des clubs et associations par exemple de randonnées.
-  * Associer l’adressage à des activités plus ludiques comme le recensement du patrimoine (exemple [collectif objet](https://collectif-objets.beta.gouv.fr/))
-* Attention à trouver des profils terrain et profils numériques (exemple : formation via un [conseiller numérique](https://www.conseiller-numerique.gouv.fr/)).
+- Creuser des possibilités d’aide à la contribution
+  - Voir partie contribution citoyenne avec OSM
+  - Mise en place de mission de bénévolats sur [jeveuxaider.gouv.fr](https://www.jeveuxaider.gouv.fr/territoires)
+  - Recrutement de [service civique](https://www.service-civique.gouv.fr/etre-volontaire)
+  - Communication auprès des conseils de quartier ou conseils municipaux des jeunes.
+  - Communication auprès des clubs et associations par exemple de randonnées.
+  - Associer l’adressage à des activités plus ludiques comme le recensement du patrimoine (exemple [collectif objet](https://collectif-objets.beta.gouv.fr/))
+- Attention à trouver des profils terrain et profils numériques (exemple : formation via un [conseiller numérique](https://www.conseiller-numerique.gouv.fr/)).
 
 ## Atelier adressage <a href="#atelier-adressage" id="atelier-adressage"></a>
 
 Les problèmes remontés sur cette thématique concernent l’accompagnement des communes pour se lancer et réaliser l’adressage et la BAL :
 
-* Le suivi tout au long du projet d’adressage
-* Les outils
-* Les bonnes pratiques d’adressage
+- Le suivi tout au long du projet d’adressage
+- Les outils
+- Les bonnes pratiques d’adressage
 
 ### **Problème 1 : En tant que commune, je me sens seule, je ne sais pas si je remonte correctement mes adresses et si elles sont bien prises en compte dans la BAN et par les réutilisateurs.**
 
@@ -127,16 +127,16 @@ La commune de Miniac-Morvan s’est lancée dans la création de la BAL sur les 
 ➡️ **Un appui des élus nécessaire pour mettre l’adressage à l’agenda.**\
 Un élu moteur pourrait fixer des objectifs de complétude de la BAL en dédiant du temps pour la mise à jour. L’actualité autour de la loi 3DS peut être un levier.\
 ➡️ **Des ressources d’accompagnement locales et nationales complémentaires mobilisables**\
-L’EPCI est souvent un échelon intéressant et efficace pour aider les communes. Au niveau national, l’équipe BAN propose des [ressources](https://adresse.data.gouv.fr/ressources) diverses : guides, témoignages, tutoriels, FAQ, [webinaires de formation à Mes Adresses](https://adresse.data.gouv.fr/evenements) (2 par mois), un [forum d’échange](https://forum.incubateur.anct.gouv.fr/c/bases-adresses-locales/43) entre communes, un mail de support réactif [adresse@data.gouv.fr](mailto:adresse@data.gouv.fr) …
+L’EPCI est souvent un échelon intéressant et efficace pour aider les communes. Au niveau national, l’équipe BAN propose des [ressources](https://adresse.data.gouv.fr/ressources-et-documentations) diverses : guides, témoignages, tutoriels, FAQ, [webinaires de formation à Mes Adresses](https://adresse.data.gouv.fr/evenements) (2 par mois), un [forum d’échange](https://forum.incubateur.anct.gouv.fr/c/bases-adresses-locales/43) entre communes, un mail de support réactif [adresse@data.gouv.fr](mailto:adresse@data.gouv.fr) …
 
 💡 **Solutions à creuser**
 
-* Comment officialiser davantage la publication et chaque certification ?
-  * Bien faire comprendre la portée de la publication (parallèle à trouver avec la transmission d’actes officiels)
-* Comment faire en sorte qu’aucune commune ne se sente seule dans la constitution de sa BAL ?
-  * Mieux diffuser les ressources existantes
-  * Mettre en place des canaux supplémentaires
-  * Embarquer les EPCI
+- Comment officialiser davantage la publication et chaque certification ?
+  - Bien faire comprendre la portée de la publication (parallèle à trouver avec la transmission d’actes officiels)
+- Comment faire en sorte qu’aucune commune ne se sente seule dans la constitution de sa BAL ?
+  - Mieux diffuser les ressources existantes
+  - Mettre en place des canaux supplémentaires
+  - Embarquer les EPCI
 
 ### **Problème 2 : Je souhaite que les appellations des lieux-dits soient conservées malgré la création de numéros et de voies.**
 
@@ -157,21 +157,17 @@ Il peut être pertinent d’utiliser directement le nom du lieu-dit en guise de 
 
 <figure><img src="/img/documentation-generale/Copie d'écran_20250827_112653.png" alt=""/><figcaption></figcaption></figure>
 
-
-
 :::warning
 Cependant, pour un grand lieu-dit avec nettement plusieurs voies, cela n’est pas une bonne idée et fait perdre l’intérêt de l’adressage (les numéros ne se suivent plus).
 :::
 
 [Exemple du Grand Cosquet sur la commune de Locmaria](/img/documentation-generale/Le Grand Cosquet.png)
 
-
-
 💡 **Solutions à creuser**
 
-* Inciter massivement les communes à conserver leurs lieux-dits
-* Prendre contact avec le Pays de Brest pour expliciter davantage dans son guide d’adressage le traitement des lieux-dits avec des exemples variés
-* Expliciter le traitement des lieux-dits dans le décret d’application de l’article 169 de la loi 3DS ?
+- Inciter massivement les communes à conserver leurs lieux-dits
+- Prendre contact avec le Pays de Brest pour expliciter davantage dans son guide d’adressage le traitement des lieux-dits avec des exemples variés
+- Expliciter le traitement des lieux-dits dans le décret d’application de l’article 169 de la loi 3DS ?
 
 ## Atelier mise à jour des adresses <a href="#atelier-mise-a-jour-des-adresses" id="atelier-mise-a-jour-des-adresses"></a>
 
@@ -179,19 +175,19 @@ Les problèmes remontés par les participants sur cette thématique sont concent
 
 Deux thématiques ont été traitées par les participants :
 
-* **la valeur d’une nouvelle adresse 📰**
-* **le lien avec le cadastre**
+- **la valeur d’une nouvelle adresse 📰**
+- **le lien avec le cadastre**
 
 ### **Problème 1 : quelle est la valeur d’une nouvelle adresse d’une BAL ?**
 
 Les questions posées :
 
-* Quelle utilisation des adresses validées (certifiées) par les opérateurs ?
-* Comment est retranscrite l’information ? sous quel délai ?
-* Savoir qui réutilise : à quelle date ? (quelle version de la BAL)
-* Extraction des nouvelles adresses mises à jour
-* Comment connaître les nouvelles adresses pour un EPCI ?
-* Procédure de transmission des adresses
+- Quelle utilisation des adresses validées (certifiées) par les opérateurs ?
+- Comment est retranscrite l’information ? sous quel délai ?
+- Savoir qui réutilise : à quelle date ? (quelle version de la BAL)
+- Extraction des nouvelles adresses mises à jour
+- Comment connaître les nouvelles adresses pour un EPCI ?
+- Procédure de transmission des adresses
 
 **Échanges et enseignements**
 
@@ -203,9 +199,9 @@ La nouvelle adresse est ensuite portée sur Mes Adresses.
 
 _Étape 1 :_ mise à jour sur Mes Adresses pour alimenter la BAL puis BAN
 
-* Avec transmission des délibérations/arrêtés pour la DGFIP
-* Lien permis de construire et BAN
-* A noter : éviter le recalcul du code Rivoli
+- Avec transmission des délibérations/arrêtés pour la DGFIP
+- Lien permis de construire et BAN
+- A noter : éviter le recalcul du code Rivoli
 
 _Étape 2 :_ notification des opérateurs (DGFiP, La Poste, IGN, OSM, SDIS, Orange, SFR, Free, GRDF, Google, Here…)
 
@@ -217,9 +213,9 @@ Le rôle des EPCI est habituellement limité (hors métropole, agglomération) �
 
 💡 **Solutions à creuser**
 
-* Inciter massivement les communes à mettre à jour et créer les nouvelles adresses sur [mes-adresses.gouv.fr](https://mes-adresses.data.gouv.fr/)
-* Inciter massivement les opérateurs à prendre en compte les nouvelles adresses
-* Créer des outils de notification de nouvelles adresses
+- Inciter massivement les communes à mettre à jour et créer les nouvelles adresses sur [mes-adresses.gouv.fr](https://mes-adresses.data.gouv.fr/)
+- Inciter massivement les opérateurs à prendre en compte les nouvelles adresses
+- Créer des outils de notification de nouvelles adresses
 
 –> solutions liées à la mise en œuvre en décret du principe “Dites-le-nous une fois” (DLNUF)
 
@@ -227,10 +223,10 @@ Le rôle des EPCI est habituellement limité (hors métropole, agglomération) �
 
 Les post-it :
 
-* Attente des nouvelles parcelles cadastrales
-* Division parcellaire et permis
-* Création d’un lotissement et numérotage de la parcelle cadastrales
-* Procédure de transmission des données : nouvelle adresse / division parcellaire -> email au cadastre
+- Attente des nouvelles parcelles cadastrales
+- Division parcellaire et permis
+- Création d’un lotissement et numérotage de la parcelle cadastrales
+- Procédure de transmission des données : nouvelle adresse / division parcellaire -> email au cadastre
 
 **Échanges et enseignements**
 
@@ -238,11 +234,11 @@ Les post-it :
 
 💡 **Solutions attendues**
 
-* La mise en place de la loi 3DS pour éviter la transmission des adresses à la DGFiP (décret n° 94-1112 de 1994).
-* Indiquer le millésime du cadastre utilisé en fond de plan sur Mes Adresses.
+- La mise en place de la loi 3DS pour éviter la transmission des adresses à la DGFiP (décret n° 94-1112 de 1994).
+- Indiquer le millésime du cadastre utilisé en fond de plan sur Mes Adresses.
 
 Questions hors-atelier :
 
-* Quel lien possible entre SIG local et Ban : flux, API ?
-* Comment co-administrer (commune + EPCI) une Bal sur Mes Adresses ?
-* Compte email que la commune a renseigné sur [service-public.fr](http://service-public.fr) ou FranceConnect d’un élu
+- Quel lien possible entre SIG local et Ban : flux, API ?
+- Comment co-administrer (commune + EPCI) une Bal sur Mes Adresses ?
+- Compte email que la commune a renseigné sur [service-public.fr](http://service-public.fr) ou FranceConnect d’un élu

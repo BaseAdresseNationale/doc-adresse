@@ -4,7 +4,7 @@ title: "Schéma du parcours"
 
 Ce schéma fait partie Guide des Bonnes pratiques de l’adresse
 
-Ce guide est disponible en format texte et PDF à partir de cette [page](https://adresse.data.gouv.fr/ressources).
+Ce guide est disponible en format texte et PDF à partir de cette [page](https://adresse.data.gouv.fr/ressources-et-documentations).
 
 ## Schéma du parcours
 

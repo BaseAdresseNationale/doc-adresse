@@ -36,7 +36,7 @@ Veillez à consulter la documentation sur data.gouv.fr pour bien effectuer les m
 
 #### **Moissonnage** d'un **portail open data** via [data.gouv.fr](https://www.data.gouv.fr/fr/)
 
-- Publication du fichier Base Adresse Locale (préférer un fichier par commune plutôt qu'un fichier global) et récupération automatique des mises à jour. La [documentation en ligne](https://github.com/BaseAdresseNationale/moissonneur-bal/wiki/Fonctionnement-du-moissonneur-bal) précise toutes les spécificités.
+- Publication du fichier Base Adresse Locale (préférer un fichier par commune plutôt qu'un fichier global) et récupération automatique des mises à jour. La [documentation en ligne](https://github.com/BaseAdresseNationale/moissonneur-bal/wiki/01_Fonctionnement) précise toutes les spécificités.
 
 1. Création d'un compte sur data.gouv.fr
 2. certification du compte à demander sur [cette page](https://support.data.gouv.fr/collectivite-territoriale/certification) ("J'ai une question" > L'utilisation de data.gouv.fr > Faire certifier son organisation") en indiquant le nom de l’organisation à certifier dans le corps du texte,
@@ -44,7 +44,7 @@ Veillez à consulter la documentation sur data.gouv.fr pour bien effectuer les m
 4. envoie d'un mail à [adresse@data.gouv.fr](mailto:adresse@data.gouv.fr) pour activer le moissonnage
 5. vérification du fichier Base Adresse Locale .csv dans le [validateur](https://adresse.data.gouv.fr/outils/validateur-bal) avant d’automatiser. **Les EPCI doivent adopter la** [**Charte de la Base Adresse Locale**](https://adresse.data.gouv.fr/communaute/charte-base-adresse-locale#partenaires) pour que la gouvernance soit affichée et garantisse une gestion de la certification.
 
-#### Publication avec l’[API de dépôt](https://github.com/BaseAdresseNationale/api-depot/wiki/Documentation)
+#### Publication avec l’[API de dépôt](https://github.com/BaseAdresseNationale/api-depot/wiki/01_Pr%C3%A9sentation)
 
 - Publication des Bases Adresses Locales par commune, avec historicisation des dépôts
 - Contacter [adresse@data.gouv.fr](mailto:adresse@data.gouv.fr) pour demander un jeton de test. **Les EPCI doivent adopter la** [**Charte de la Base Adresse Locale**](https://adresse.data.gouv.fr/communaute/charte-base-adresse-locale#partenaires) pour que la gouvernance soit affichée et garantisse une gestion de la certification.

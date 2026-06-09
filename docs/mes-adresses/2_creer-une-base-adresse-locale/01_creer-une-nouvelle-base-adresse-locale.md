@@ -2,7 +2,7 @@
 title: "Créer une nouvelle Base Adresse Locale"
 ---
 
-La démarche de création d’une Base Adresse Locale dure quelques minutes et l’utilisateur dispose d’une aide en ligne sous la forme de tutoriel, de [films tuto](https://peertube.adresse.data.gouv.fr/videos/overview) et de [foire aux questions](https://adresse-data-gouv-fr.gitbook.io/faq/). Créer une Base Adresse Locale constitue une contribution fondamentale à la démarche générale de normalisation des adresses nationales. « Mes Adresses » est accessible depuis la page d’accueil en cliquant sur « Gérer mes adresses » : [https://adresse.data.gouv.fr/](https://adresse.data.gouv.fr/)
+La démarche de création d’une Base Adresse Locale dure quelques minutes et l’utilisateur dispose d’une aide en ligne sous la forme de tutoriel, de [films tuto](https://tube.numerique.gouv.fr/c/base_adresse_locale/videos) et de [foire aux questions](https://adresse-data-gouv-fr.gitbook.io/faq). Créer une Base Adresse Locale constitue une contribution fondamentale à la démarche générale de normalisation des adresses nationales. « Mes Adresses » est accessible depuis la page d’accueil en cliquant sur « Gérer mes adresses » : [https://adresse.data.gouv.fr/](https://adresse.data.gouv.fr/)
 
 <figure><img src="/img/mes-adresses/image (24).png" alt=""/><figcaption></figcaption></figure>
 
