@@ -111,7 +111,7 @@ Les délibérations sont parfois baroques, inexploitables. Lors de nouvelles con
 
 #### Pistes de solutions :
 
-**GéoCompiégnois, EPCI partenaire de la Charte :** Les références des permis de construire sont en open-data ([SITADEL](https://www.data.gouv.fr/fr/datasets/base-des-permis-de-construire-et-autres-autorisations-durbanisme-sitadel/)) et permettent d'effectuer un rapprochement avec les parcelles. Le problème se pose au moment de la création d'un lotissement par exemple. Le permis suit et la voie est créée seulement lorsque la construction a commencé : **décalage entre instruction et communication à l’État**
+**GéoCompiégnois, EPCI partenaire de la Charte :** Les références des permis de construire sont en open-data ([SITADEL](https://www.data.gouv.fr/datasets/base-des-permis-de-construire-et-autres-autorisations-durbanisme-sitadel/)) et permettent d'effectuer un rapprochement avec les parcelles. Le problème se pose au moment de la création d'un lotissement par exemple. Le permis suit et la voie est créée seulement lorsque la construction a commencé : **décalage entre instruction et communication à l’État**
 
 **BAL - BAN :** Le format Base Adresse Locale prévoit le lien adresse-parcelle. Les communes ne sont pas obligées de le renseigner mais elles sont nombreuses à le faire pour faciliter la réutilisation de leurs adresses. L’éditeur Mes Adresses permet de le préciser. Certains EPCI, comme GéoCompiégnois, précisent les parcelles d’assise pour toutes les adresses.
 

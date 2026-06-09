@@ -7,7 +7,7 @@ title: "Foire aux questions"
 ### Qu’est-ce que la Base Adresse Nationale ?
 
 La Base Adresse Nationale est une **base de données** qui rassemble et met à disposition **l’ensemble des adresses géolocalisées du territoire national**. \
-C'est le référentiel adresse officiel, qui fait partie du [Service Public des Données de référence](https://www.data.gouv.fr/fr/reference).
+C'est le référentiel adresse officiel, qui fait partie du [Service Public des Données de référence](https://www.data.gouv.fr/reference).
 
 ### La Base Adresse Nationale est-elle gratuite ?
 

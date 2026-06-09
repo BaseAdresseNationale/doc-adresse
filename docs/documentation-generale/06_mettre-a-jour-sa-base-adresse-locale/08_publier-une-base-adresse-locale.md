@@ -22,7 +22,7 @@ Cinq méthodes permettent de publier une Base Adresse Locale (BAL) dans la Base 
 - Vérification (validateur intégré) et publication d'une Base Adresse Locale communale en quasi temps réel. Le dépôt par formulaire est adossé à l'API de dépôt.
 - Vérification du format et publication, authentification par un élu via FranceConnect ou par jeton adressé sur le courriel officiel de la commune. Les adresses sont à gérer sur un outil local et à exporter au format .csv en respectant le format BAL.
 
-#### Dépôt d'un jeu de données sur [**data.gouv.fr**](https://www.data.gouv.fr/fr/)
+#### Dépôt d'un jeu de données sur [**data.gouv.fr**](https://www.data.gouv.fr/)
 
 - Publication des fichiers des adresses (préférer un fichier par commune plutôt qu'un fichier global)
 
@@ -34,7 +34,7 @@ Cinq méthodes permettent de publier une Base Adresse Locale (BAL) dans la Base 
 
 Veillez à consulter la documentation sur data.gouv.fr pour bien effectuer les mises à jour. **Les EPCI doivent adopter la** [**Charte de la Base Adresse Locale**](https://adresse.data.gouv.fr/communaute/charte-base-adresse-locale#partenaires) pour que la gouvernance soit affichée et garantisse une gestion de la certification.
 
-#### **Moissonnage** d'un **portail open data** via [data.gouv.fr](https://www.data.gouv.fr/fr/)
+#### **Moissonnage** d'un **portail open data** via [data.gouv.fr](https://www.data.gouv.fr/)
 
 - Publication du fichier Base Adresse Locale (préférer un fichier par commune plutôt qu'un fichier global) et récupération automatique des mises à jour. La [documentation en ligne](https://github.com/BaseAdresseNationale/moissonneur-bal/wiki/01_Fonctionnement) précise toutes les spécificités.
 
