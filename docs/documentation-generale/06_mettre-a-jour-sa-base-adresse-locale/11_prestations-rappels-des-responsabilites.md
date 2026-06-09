@@ -46,7 +46,7 @@ _… **Revue d’idées fausses… reçues sur adresse@data.gouv.fr**_
 >
 > ˮ Il faut plus d’un an pour mettre à jour les adresses
 
-[](/img/documentation-generale/Fiche COMMUNES PRESTATAIRES.pdf)
+[Fiche_COMMUNES_PRESTATAIRES.pdf](/file/Fiche_COMMUNES_PRESTATAIRES.pdf)
 
 :::success
 Un maître mot : la commune reste responsable de ses adresses, même si elle en délègue la réalisation technique. Et l'adresse est une information simple qui est du ressort du Conseil municipal et non une donnée experte compliquée.

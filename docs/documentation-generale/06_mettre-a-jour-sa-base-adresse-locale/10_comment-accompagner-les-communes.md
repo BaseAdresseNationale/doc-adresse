@@ -8,7 +8,7 @@ Le préalable : prévoir avec les communes la méthode de **gouvernance** qui le
 
 Le récapitulatif en PDF, **EPCI, Départements... Comment organiser la publication des adresses au format Base Adresse Locale**
 
-[](/img/documentation-generale/Fiche REFLEX BAL ECPI-BAL.pdf)
+[Fiche_REFLEX_BAL_ECPI-BAL.pdf](/file/Fiche_REFLEX_BAL_ECPI-BAL.pdf)
 
 ### La Base Adresse Locale est réalisée/publiée sur « Mes Adresses »
 

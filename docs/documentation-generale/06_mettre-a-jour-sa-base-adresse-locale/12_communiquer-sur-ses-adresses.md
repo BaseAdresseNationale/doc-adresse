@@ -8,7 +8,7 @@ Une fois la Base Adresse Locale de la commune publiée, les adresses sont transm
 
 Un outil simple permet de vérifier une adresse dans la Base Adresse Nationale en page d’accueil [adresse.data.gouv.fr ](https://adresse.data.gouv.fr/)
 
-<figure><img src="/img/documentation-generale/Capture site adresse .data.gouv 02-24-2025.png" alt=""/><figcaption></figcaption></figure>
+<figure><img src="/img/documentation-generale/Capture_site_adresse.png" alt=""/><figcaption></figcaption></figure>
 
 Si un opérateur utilise une adresse obsolète, la commune peut lui indiquer ce lien de vérification et lui demander une mise à jour.
 
@@ -18,13 +18,13 @@ Les adresses sont accessibles sous forme d’API et de fichiers depuis l’ongle
 
 #### Le lien vers les adresses de la commune dans la Base Adresse Nationale
 
-![](</img/documentation-generale/Capture d’écran 2022-02-09 à 10-33-05.png>)
+<figure><img src="/img/documentation-generale/Capture d’écran 2022-02-09 à 10-33-05.png" alt=""/><figcaption></figcaption></figure>
 
 Communiquer le lien vers la [page d'information sur la commune](https://adresse.data.gouv.fr/commune) : permet de connaître l'avancée des adresses de la commune, le nombre d'adresses certifiées et de télécharger le **fichier de la Base Adresse Nationale** pour cette commune.
 
 #### Le lien vers les fichiers par département
 
-![](</img/documentation-generale/Capture d’écran 2022-02-09 à 12-20-47.png>)
+<figure><img src="/img/documentation-generale/Capture d’écran 2022-02-09 à 12-20-47.png" alt=""/><figcaption></figcaption></figure>
 
 Les fichiers de la Base Adresse Nationale sont disponibles depuis la page des [données nationales](https://adresse.data.gouv.fr/outils/telechargements).
 
@@ -32,6 +32,6 @@ Les fichiers de la Base Adresse Nationale sont disponibles depuis la page des [d
 
 La page des Bases Adresses Locales permet de prendre connaissance de la Base Adresse Locale et de la télécharger le fichier au format .csv. Tous les fichiers publiés sont conformes (en cas de non-conformité, la publication dans la Base Adresse Nationale est bloquée). Rechercher la Base Adresse Locale parmi la liste qui s'affiche en indiquant le nom de la Base Adresse Locale.
 
-![](</img/documentation-generale/Capture d’écran 2021-06-08 à 13-38-53.png>)
+<figure><img src="/img/documentation-generale/Capture d’écran 2021-06-08 à 13-38-53.png" alt=""/><figcaption></figcaption></figure>
 
-[](/img/documentation-generale/20220211 Fiche Reflex - Communiquer sur vos adresses.pdf)
+[Fiche Reflex.pdf](/file/Fiche_Reflex.pdf)
