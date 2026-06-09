@@ -24,8 +24,8 @@ Le [format Base Adresse Locale](https://aitf-sig-topo.github.io/voies-adresses/f
 
 On trouvera ainsi
 
-* dans la colonne voie\_nom la [rue de Koad Bras](https://adresse.data.gouv.fr/base-adresse-nationale/29232_7102#16.07/47.9728/-4.08315) et
-* dans la colonne voie\_nom\_bre sa variante en breton straed Koad Bras
+- dans la colonne voie_nom la [rue de Koad Bras](https://adresse.data.gouv.fr/base-adresse-nationale/29232_7102#16.07/47.9728/-4.08315) et
+- dans la colonne voie_nom_bre sa variante en breton straed Koad Bras
 
 Les communes utilisatrices de l’éditeur [Mes Adresses](https://mes-adresses.data.gouv.fr/) n’ont pas besoin de gérer ces fichiers. Il suffit dans Mes Adresses d’ajouter le nom en langue régionale et l’éditeur exporte dans la Base Adresse Nationale des tableaux avec les codes ISO. L’éditeur permet de renseigner le libellé de la voie et du lieu-dit en langue régionale sans besoin de manipuler de code.
 
@@ -47,35 +47,35 @@ Voici les ressources documentaires repérées pour les différentes langues rég
 
 #### Langue basque
 
-* Consignes communiquées par la Communauté de communes du Pays Basque à ses communes membres.
+- Consignes communiquées par la Communauté de communes du Pays Basque à ses communes membres.
 
-[](/img/documentation-generale/Toponymie Pays Basque points clefs Soule.pdf)
+[Toponymie_Pays_Basque_points_clefs_Soule.pdf](/file/Toponymie_Pays_Basque_points_clefs_Soule.pdf)
 
-[](/img/documentation-generale/Toponymie Pays Basque points clefs.pdf)
+[Toponymie_Pays_Basque_points_clefs.pdf](/file/Toponymie_Pays_Basque_points_clefs.pdf)
 
-* Page wiki **Odonymie - Nom en basque**, ainsi que le document PDF en ligne (pages 117 et 118)
+- Page wiki **Odonymie - Nom en basque**, ainsi que le document PDF en ligne (pages 117 et 118)
 
 https://wiki.openstreetmap.org/wiki/FR:Key:name:eu
 
 #### Langue bretonne
 
-* [Ressources de l'Office Public de la Langue Bretonne](https://www.fr.brezhoneg.bzh/7-noms-de-lieux.htm), établissement public de coopération culturelle (EPCC) créé en 2010. L’État (Ministère de l'Éducation Nationale représenté par le Rectorat et Ministère de la Culture représenté par la DRAC), les Conseils régionaux de Bretagne et des Pays de la Loire et les Conseils départementaux des Côtes-d'Armor, du Finistère, d'Ille-et-Vilaine, de Loire-Atlantique et du Morbihan sont membres de son conseil d'administration. Sur la page en référence figurent également la liste des principaux génériques de voies et espaces adressables en breton, en cohérence avec la terminologie utilisée dans la signalétique bilingue français-breton par les communes.
-* [_Guide d'accompagnement du Pays de Brest_. ](https://cms.geobretagne.fr/content/guide-daccompagnement-la-denomination-et-la-numerotation-des-voies)Les préconisations de l'Office public de la langue bretonne figurent en page 15 et des cas pratiques en page 20 :
+- [Ressources de l'Office Public de la Langue Bretonne](https://www.fr.brezhoneg.bzh/7-noms-de-lieux.htm), établissement public de coopération culturelle (EPCC) créé en 2010. L’État (Ministère de l'Éducation Nationale représenté par le Rectorat et Ministère de la Culture représenté par la DRAC), les Conseils régionaux de Bretagne et des Pays de la Loire et les Conseils départementaux des Côtes-d'Armor, du Finistère, d'Ille-et-Vilaine, de Loire-Atlantique et du Morbihan sont membres de son conseil d'administration. Sur la page en référence figurent également la liste des principaux génériques de voies et espaces adressables en breton, en cohérence avec la terminologie utilisée dans la signalétique bilingue français-breton par les communes.
+- [_Guide d'accompagnement du Pays de Brest_. ](https://cms.geobretagne.fr/content/guide-daccompagnement-la-denomination-et-la-numerotation-des-voies)Les préconisations de l'Office public de la langue bretonne figurent en page 15 et des cas pratiques en page 20 :
 
 https://geo.pays-de-brest.fr/espacedocumentaire/Documents/Public/Guide_Methodo_Adresse_Pays.pdf
 
-* Voir le paragraphe **Hiérarchie des nommages génériques des voies et espaces adressables**
+- Voir le paragraphe **Hiérarchie des nommages génériques des voies et espaces adressables**
 
 https://www.openstreetmap.bzh/fr/category/methodologiehentennouriezh/
 
 #### Langue corse
 
-* Voir le lexique réalisé sur la base du dictionnaire "u Maiò" d’Antoine-Louis Culioli, DCL édition, et de l’ADECEC
+- Voir le lexique réalisé sur la base du dictionnaire "u Maiò" d’Antoine-Louis Culioli, DCL édition, et de l’ADECEC
 
-[](/img/documentation-generale/voie traduite V 16-11-2022.ods)
+[voie_traduite_V_16-11-2022](/file/voie_traduite_V_16-11-2022.ods)
 
 #### Langue occitane
 
-* Voir le paragraphe Via. Cette typologie des voies est réalisée par l’[Institut d’Études Occitanes](https://ieo-oc.org/spip.php?page=rubrique\&id_rubrique=256) 
+- Voir le paragraphe Via. Cette typologie des voies est réalisée par l’[Institut d’Études Occitanes](https://ieo-oc.org/spip.php?page=rubrique&id_rubrique=256)
 
 https://wiki.openstreetmap.org/wiki/Oc:Elements_Cartografics#Rotas
