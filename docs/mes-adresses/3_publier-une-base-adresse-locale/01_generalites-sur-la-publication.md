@@ -16,7 +16,6 @@ Si vous ne recevez pas le code, vérifiez dans votre filtre anti-spam ! Ce code 
 
 <figure><img src="/img/mes-adresses/148194522-17506df1-c604-45db-84cd-72fc30df5c9c.png" alt=""/><figcaption></figcaption></figure>
 
-
 Une fois l'habilitation effectuée, le logo de la Base Adresse Nationale s'affiche à côté de son nom attestant que la Base Adresse Locale est habilitée à publier ses adresses dans la Base Adresse Nationale.
 
 <figure><img src="/img/mes-adresses/148194237-03c46df9-6658-410a-a0c9-225693a63a15.png" alt=""/><figcaption></figcaption></figure>
@@ -27,7 +26,7 @@ Une fois l'habilitation effectuée, le logo de la Base Adresse Nationale s'affic
 
 Toute modification d'adresse ultérieure doit s'effectuer sur **une même et seule Base Adresse Locale, sans en créer de nouvelle**. Plusieurs méthodes permettent de retrouver sa Base Adresse Locale pour la modifier :
 
-* en réactivant le lien inséré dans le courriel envoyé à la création de la Base Adresse Locale. En cas de perte de ce lien, il suffit d'ouvrir l'éditeur Mes Adresses, le premier écran permet de demander à le recevoir à nouveau.
-* en ouvrant la page d'administration de la Base Adresse Locale accessible :
-  * en se rendant sur [https://adresse.data.gouv.fr/gerer-mes-adresses](https://adresse.data.gouv.fr/gerer-mes-adresses) et en cliquant sur "Vous avez déjà créé une Base Adresse Locale ? Retrouvez-la ici"
-  * en ouvrant directement l'éditeur ou en cliquant sur la Marianne lorsque l'éditeur est ouvert.
+- en réactivant le lien inséré dans le courriel envoyé à la création de la Base Adresse Locale. En cas de perte de ce lien, il suffit d'ouvrir l'éditeur Mes Adresses, le premier écran permet de demander à le recevoir à nouveau.
+- en ouvrant la page d'administration de la Base Adresse Locale accessible :
+  - en se rendant sur [https://adresse.data.gouv.fr/programme-bal](https://adresse.data.gouv.fr/programme-bal) et en cliquant sur "Vous avez déjà créé une Base Adresse Locale ? Retrouvez-la ici"
+  - en ouvrant directement l'éditeur ou en cliquant sur la Marianne lorsque l'éditeur est ouvert.

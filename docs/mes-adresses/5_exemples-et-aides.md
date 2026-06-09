@@ -26,7 +26,7 @@ Des réponses concrètes dans la FAQ et des informations sur les aides dans la [
 
 **Pour échanger entre pairs :** rendez-vous sur le [forum des communes](https://forum.incubateur.anct.gouv.fr/c/bases-adresses-locales/43), réservé aux élus et agents municipaux.
 
-Pour être accompagné : il est conseillé de rechercher un [Partenaire de la Charte de la Base Adresse Locale](https://adresse.data.gouv.fr/bases-locales/charte) qui s’engage à respecter le format et la gouvernance prévues par la loi 3DS.
+Pour être accompagné : il est conseillé de rechercher un [Partenaire de la Charte de la Base Adresse Locale](https://adresse.data.gouv.fr/communaute/charte-base-adresse-locale) qui s’engage à respecter le format et la gouvernance prévues par la loi 3DS.
 
 Pour **visualiser les opérations à réaliser**, [les films tutos !](https://peertube.adresse.data.gouv.fr/videos/overview)
 

@@ -2,7 +2,7 @@
 title: "Communiquer sur ses adresses"
 ---
 
-Une fois la Base Adresse Locale de la commune publiée, les adresses sont transmises à la Base Adresse Nationale. C'est la seule [base adresse du socle de souveraineté de l’État](https://adresse.data.gouv.fr/donnees-nationales). Elle irrigue son système d’information. Libre et gratuite, elle est disponible pour toute réutilisation. En communiquant sur la mise à jour des adresses, une commune peut faciliter leur intégration rapide dans les systèmes d’information de ses partenaires.
+Une fois la Base Adresse Locale de la commune publiée, les adresses sont transmises à la Base Adresse Nationale. C'est la seule [base adresse du socle de souveraineté de l’État](https://adresse.data.gouv.fr/outils/telechargements). Elle irrigue son système d’information. Libre et gratuite, elle est disponible pour toute réutilisation. En communiquant sur la mise à jour des adresses, une commune peut faciliter leur intégration rapide dans les systèmes d’information de ses partenaires.
 
 ### Faire savoir où consulter les adresses dans la Base Adresse Nationale
 
@@ -20,13 +20,13 @@ Les adresses sont accessibles sous forme d’API et de fichiers depuis l’ongle
 
 ![](</img/documentation-generale/Capture d’écran 2022-02-09 à 10-33-05.png>)
 
-Communiquer le lien vers la [page d'information sur la commune](https://adresse.data.gouv.fr/#rechercher-une-commune) : permet de connaître l'avancée des adresses de la commune, le nombre d'adresses certifiées et de télécharger le **fichier de la Base Adresse Nationale** pour cette commune.
+Communiquer le lien vers la [page d'information sur la commune](https://adresse.data.gouv.fr/commune) : permet de connaître l'avancée des adresses de la commune, le nombre d'adresses certifiées et de télécharger le **fichier de la Base Adresse Nationale** pour cette commune.
 
 #### Le lien vers les fichiers par département
 
 ![](</img/documentation-generale/Capture d’écran 2022-02-09 à 12-20-47.png>)
 
-Les fichiers de la Base Adresse Nationale sont disponibles depuis la page des [données nationales](https://adresse.data.gouv.fr/donnees-nationales).  
+Les fichiers de la Base Adresse Nationale sont disponibles depuis la page des [données nationales](https://adresse.data.gouv.fr/outils/telechargements).
 
 ### Faire savoir où retrouver la Base Adresse Locale
 
@@ -35,4 +35,3 @@ La page des Bases Adresses Locales permet de prendre connaissance de la Base Adr
 ![](</img/documentation-generale/Capture d’écran 2021-06-08 à 13-38-53.png>)
 
 [](/img/documentation-generale/20220211 Fiche Reflex - Communiquer sur vos adresses.pdf)
-

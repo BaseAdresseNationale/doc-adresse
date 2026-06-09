@@ -8,11 +8,11 @@ Pour mettre à jour ses adresses, la commune peut utiliser son propre outil ou c
 
 **Identifier les besoins d’adresses**
 
-La commune [consulte ses adresses](https://adresse.data.gouv.fr/base-adresse-nationale#4.4/46.9/1.7) dans la Base Adresse Nationale : sont-elles complètes ? Certifiées ? Des doublons ? Si aucune Base Adresse Locale n’est publiée, la liste des sources est accessible. Lorsqu’une Base Adresse Locale est publiée, la commune devient l’unique source des adresses. S’il manque quelques numéros dans une voie, la commune n’est pas forcément obligée de refaire l’intégralité de la numérotation de la voie. L’état des adresses est détaillé sur la [page ](https://adresse.data.gouv.fr/#rechercher-une-commune)[d'information de la](https://adresse.data.gouv.fr/#rechercher-une-commune)[ commune ](https://adresse.data.gouv.fr/#rechercher-une-commune)(accessible depuis la page d’accueil).
+La commune [consulte ses adresses](https://adresse.data.gouv.fr/carte-base-adresse-nationale) dans la Base Adresse Nationale : sont-elles complètes ? Certifiées ? Des doublons ? Si aucune Base Adresse Locale n’est publiée, la liste des sources est accessible. Lorsqu’une Base Adresse Locale est publiée, la commune devient l’unique source des adresses. S’il manque quelques numéros dans une voie, la commune n’est pas forcément obligée de refaire l’intégralité de la numérotation de la voie. L’état des adresses est détaillé sur la [page ](https://adresse.data.gouv.fr/commune)[d'information de la](https://adresse.data.gouv.fr/commune)[ commune ](https://adresse.data.gouv.fr/commune)(accessible depuis la page d’accueil).
 
 **Rechercher un prestataire**
 
-Il est conseillé de choisir un prestataire qui respecte la [Charte de la Base Adresse Locale](https://adresse.data.gouv.fr/bases-locales/charte) des organisations à but lucratif. Toutes les sociétés ne sont pas informées de l’existence de la Charte et ne l’ont pas adoptée : n’hésitez pas à leur en parler pour que le format des données et votre autorité soient respectés.
+Il est conseillé de choisir un prestataire qui respecte la [Charte de la Base Adresse Locale](https://adresse.data.gouv.fr/communaute/charte-base-adresse-locale) des organisations à but lucratif. Toutes les sociétés ne sont pas informées de l’existence de la Charte et ne l’ont pas adoptée : n’hésitez pas à leur en parler pour que le format des données et votre autorité soient respectés.
 
 **Ce que dit la loi 3DS**
 

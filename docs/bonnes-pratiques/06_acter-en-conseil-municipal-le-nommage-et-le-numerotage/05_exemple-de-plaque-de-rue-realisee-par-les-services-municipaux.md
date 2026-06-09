@@ -7,5 +7,5 @@ L’achat des plaques n’est pas obligatoire. Voici un exemple de plaque en me�
 <figure><img src="/img/bonnes-pratiques/Capture d ecran 2022-12-30 a 12-03-50.png" alt=""/><figcaption></figcaption></figure>
 
 :::info
-Cet exemple est tiré des témoignages en ligne de [petites communes des Hautes-Alpes. ](https://www.amenagement-numerique.gouv.fr/fr/actualite/petites-communes-hautes-alpes-font-leurs-bases-adresses-locales)
+Cet exemple est tiré des témoignages en ligne de [petites communes des Hautes-Alpes. ](https://web.archive.org/web/20230514120209/https://www.amenagement-numerique.gouv.fr/fr/actualite/petites-communes-hautes-alpes-font-leurs-bases-adresses-locales)
 :::

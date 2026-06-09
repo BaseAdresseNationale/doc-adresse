@@ -4,7 +4,7 @@ title: "Les fichiers de la Base Adresse Nationale"
 
 # Les fichiers de la Base Adresse Nationale
 
-Les fichiers des adresses, découpées par département, sont mis à disposition **chaque jour,** sur la [page des données nationales](https://adresse.data.gouv.fr/donnees-nationales).
+Les fichiers des adresses, découpées par département, sont mis à disposition **chaque jour,** sur la [page des données nationales](https://adresse.data.gouv.fr/outils/telechargements).
 
 La Base Adresse Nationale est versée une fois par semaine dans [OpenAdresses](https://openaddresses.io/) qui alimente notamment les opérateurs internationaux - GPS, _etc_.
 

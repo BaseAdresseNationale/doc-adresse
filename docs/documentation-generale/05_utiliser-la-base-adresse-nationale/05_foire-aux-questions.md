@@ -15,7 +15,7 @@ La Base Adresse Nationale est disponible sous [Licence Ouverte](https://www.etal
 
 ### À quelle fréquence la Base Adresse Nationale est-elle mise à jour ?
 
-Chaque jour, les **Bases Adresses Locales** sont collectées et intégrées dans la **Base Adresse Nationale**. Les [fichiers à télécharger](https://adresse.data.gouv.fr/donnees-nationales) sont quant à eux produits quotidiennement. Une version est archivée chaque mercredi.
+Chaque jour, les **Bases Adresses Locales** sont collectées et intégrées dans la **Base Adresse Nationale**. Les [fichiers à télécharger](https://adresse.data.gouv.fr/outils/telechargements) sont quant à eux produits quotidiennement. Une version est archivée chaque mercredi.
 
 ### Pourquoi contribuer à la Base Adresse Nationale ?
 
@@ -23,10 +23,10 @@ En tant que base de données de référence, la Base Adresse Nationale a vocatio
 
 Contribuer en tant que collectivité me garantit notamment que mes administrés bénéficieront des meilleures conditions en terme :
 
-* de secours aux personnes,
-* de livraison du courrier et des colis,
-* de déploiement des réseaux,
-* d’évolution des services publics de proximité (carte scolaire, santé…).
+- de secours aux personnes,
+- de livraison du courrier et des colis,
+- de déploiement des réseaux,
+- d’évolution des services publics de proximité (carte scolaire, santé…).
 
 Y contribuer en tant qu’utilisateur des données ou en tant que citoyen me permet d’améliorer la qualité du service qui m’est rendu, ou que je propose.
 
@@ -43,4 +43,3 @@ La gestion des adresses est une **compétence communale**. Votre premier réflex
 ### La Base Adresse Nationale contient-elle des données à caractère personnel ?
 
 Non, cette base ne fait que référencer l’existence et la localisation géographique d’une adresse. Aucune donnée à caractère personnel n’y figure.
-

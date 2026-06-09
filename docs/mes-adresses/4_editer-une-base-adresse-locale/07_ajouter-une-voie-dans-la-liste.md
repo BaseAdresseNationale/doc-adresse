@@ -36,11 +36,11 @@ Il est possible d’ajouter plusieurs langues régionales. Dans la liste des voi
 
 <figure><img src="/img/mes-adresses/Capture d’écran 2022-07-22 à 14.22.09.png" alt=""/><figcaption></figcaption></figure>
 
-Dans l’[explorateur de la Base Adresse Nationale](https://adresse.data.gouv.fr/base-adresse-nationale#4.4/46.9/1.7), les langues régionales sont restituées de la même manière :
+Dans l’[explorateur de la Base Adresse Nationale](https://adresse.data.gouv.fr/carte-base-adresse-nationale), les langues régionales sont restituées de la même manière :
 
 <figure><img src="/img/mes-adresses/Capture d’écran 2022-07-22 à 14.23.24.png" alt=""/><figcaption></figcaption></figure>
 
-Et dans les fichiers de la [Base Adresse Nationale](https://adresse.data.gouv.fr/donnees-nationales), les codes ISO sont utilisés pour distinguer les différentes langues régionales.
+Et dans les fichiers de la [Base Adresse Nationale](https://adresse.data.gouv.fr/outils/telechargements), les codes ISO sont utilisés pour distinguer les différentes langues régionales.
 
 :::info
 Pour accéder à la documentation, consulter la page de documentation en ligne : [Renseigner les adresses en langue régionale](/docs/documentation-generale/mettre-a-jour-sa-base-adresse-locale/renseigner-les-adresses-en-langue-regionale)

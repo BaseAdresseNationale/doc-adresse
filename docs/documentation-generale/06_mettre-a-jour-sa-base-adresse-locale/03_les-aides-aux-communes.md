@@ -29,7 +29,7 @@ Il existe également des aides au titre du soutien aux langues régionales, aupr
 Autre exemple, la Collectivité de Corse soutient financièrement la mise à jour des adresses dans le cadre du déploiement de la fibre.
 
 :::info
-La commune doit réaliser un adressage légal et demander plusieurs devis (pour obtenir des coordonnées, voir par exemple les [sociétés partenaires de la Charte de la Base Adresse Locale](https://adresse.data.gouv.fr/bases-locales/charte/companies)).
+La commune doit réaliser un adressage légal et demander plusieurs devis (pour obtenir des coordonnées, voir par exemple les [sociétés partenaires de la Charte de la Base Adresse Locale](https://adresse.data.gouv.fr/communaute/charte-base-adresse-locale/companies)).
 
 Une mise en garde toutefois, si un seul prestataire obtient le marché d’un territoire assez vaste, qu’il soit en capacité de réaliser les Bases Adresses Locales sans délais. Il en va de même en cas de délégation de l'adressage à un EPCI : veiller à ce que les délais légaux puissent être respectés.
 
@@ -40,7 +40,7 @@ Bien souvent les communes sont au final plus rapides.
 
 Certaines prestations sont réalisées à distance, d'autres sur le terrain - sans être forcément plus onéreuses. La commune doit vérifier la nature de la prestation, veiller à ce qu'elle corresponde à ce que demande la loi 3 DS :
 
-> **Voir notre article :**  [Les prestations pour la réalisation d’une Base Adresse Locale](04_les-prestations-pour-la-realisation-d-une-base-adresse-locale.md)
+> **Voir notre article :** [Les prestations pour la réalisation d’une Base Adresse Locale](04_les-prestations-pour-la-realisation-d-une-base-adresse-locale.md)
 
 ### A propos de l’appui d’un EPCI pour réduire les coûts
 
@@ -69,4 +69,3 @@ La Dotation Globale de Fonctionnement (DGF) versée aux communes tient compte de
 Un adressage exhaustif facilite cette déclaration : voir les informations sur la [page de la DGCL.](https://www.collectivites-locales.gouv.fr/finances-locales/presentation-de-la-dotation-globale-de-fonctionnement-dgf)
 
 Les Chemins ruraux, protégés au titre de l'[Article 102 de la loi 3DS](https://www.legifrance.gouv.fr/jorf/article_jo/JORFARTI000045197469), peuvent fair le'objet d'une délibération et figurer dans les Bases Adresses Locales, en particulier pour faciliter l'accès des pompiers, etc.
-

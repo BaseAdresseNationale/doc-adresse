@@ -58,7 +58,7 @@ A contrario, si vous partez d'un existant lacunaire (absence de délibération d
 
 ### Conditions à respecter par les sociétés partenaires de la Charte BAL
 
-Les acteurs qui souhaitent proposer un accompagnement peuvent adopter la [Charte des sociétés partenaires](https://adresse.data.gouv.fr/bases-locales/charte) et ainsi être référencés comme tiers de confiance sur le site national de l’adresse adresse.data.gouv.fr. Ces sociétés s’engagent à respecter le format Base Adresse Locale ainsi que sa gouvernance, notamment :
+Les acteurs qui souhaitent proposer un accompagnement peuvent adopter la [Charte des sociétés partenaires](https://adresse.data.gouv.fr/communaute/charte-base-adresse-locale) et ainsi être référencés comme tiers de confiance sur le site national de l’adresse adresse.data.gouv.fr. Ces sociétés s’engagent à respecter le format Base Adresse Locale ainsi que sa gouvernance, notamment :
 
 - la société s’engage à suivre l’actualité des recommandations de l’équipe BAL,
 - la société s’engage à ne pas démarcher de communes faisant partie d’une intercommunalité déjà partenaires (Voir la [carte des intercommunalité partenaires](https://umap.openstreetmap.fr/fr/map/partenaires-de-la-charte-de-la-base-adresse-locale_953281#6/46.355/6.328)). Si la commune souhaite malgré tout souscrire une prestation, le prestataire devra s’assurer que la commune a bien connaissance du partenariat de son intercommunalité,
