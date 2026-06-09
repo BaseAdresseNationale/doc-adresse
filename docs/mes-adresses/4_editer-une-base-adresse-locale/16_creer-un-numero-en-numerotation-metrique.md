@@ -43,8 +43,7 @@ Cliquer sur 'Ajouter un numéro', un pointeur numéroté se place au centre d
 - dans le cadre à gauche, renseigner la case "Position". Par défaut, "Mes Adresses" propose "Entrée"
 - cliquer sur "Ajouter".
 
-<figure><img src="/img/mes-adresses
-/image (49).png" alt=""/><figcaption></figcaption></figure>
+<figure><img src="/img/mes-adresses/image (49).png" alt=""/><figcaption></figcaption></figure>
 
 Il reste à cliquer sur « Enregistrer » pour que le numéro soit ajouté et à cliquer à nouveau sur « Ajouter un numéro » pour compléter la voie.
 

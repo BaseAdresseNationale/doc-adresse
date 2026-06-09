@@ -8,7 +8,7 @@ Lorsque l’entrée et le local sont distants, par exemple en cas de long chemin
 
 Le numéro 52 est affecté de deux positions, « entrée » et « bâtiment » car le début du chemin privé, où se situe la boîte aux lettres, et le bâtiment sont éloignés. Il est pertinent dans ce cas de délivrer une information précise
 
-<figure><img src="/img/mes-adresses/Capture d’écran 2022-07-22 à 14.50.41.png" alt=""/><figcaption></figcaption></figure>
+<figure><img src="/img/mes-adresses/Capture_d_ecran_2022-07-22_a_14-50-41.png" alt=""/><figcaption></figcaption></figure>
 
 Pour ajouter plusieurs positions à un même numéro, une fois le numéro ajouté et sa première position précisée, cliquer sur « Ajouter une position au numéro » et la sélectionner dans le menu déroulant. Placer le nouveau pointeur à l’endroit voulu. L’information du nombre de positions s’affiche dans la liste des numéros dans la partie latérale de l’écran, cette information est bien transmise à la Base Adresse Nationale. Sur le fond de carte, par souci de lisibilité, une seule position est affichée par numéro une fois finalisé l’ajout des différentes positions.
 
@@ -19,6 +19,6 @@ Une fois la première position précisée sur la carte et dans la liste, il s
 
 Une fois la précision des positions apportée, le toponyme est présenté avec une seule position, la première
 
-<figure><img src="/img/mes-adresses/Capture d’écran 2022-07-22 à 14.51.54.png" alt=""/><figcaption></figcaption></figure>
+<figure><img src="/img/mes-adresses/Capture_d_ecran_2022-07-22_a_14-51-54.png" alt=""/><figcaption></figcaption></figure>
 
 <figure><img src="/img/mes-adresses/20210428 Guide Mes Adresses 43 copie.png" alt=""/><figcaption></figcaption></figure>
