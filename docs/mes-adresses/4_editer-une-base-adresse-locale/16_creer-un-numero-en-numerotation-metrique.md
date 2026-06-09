@@ -9,11 +9,11 @@ Le numérotage métrique présuppose la mesure de la voie. Deux méthodes so
 
 Pour garantir des adresses homogènes, il convient de conserver la même méthode de calcul pour les voies métriques de la commune. Avant de numéroter et pour éviter toute erreur, il est conseillé de faire un test de mesure sur une voie déjà numérotée de la commune. Par souci d’ergonomie, "Mes Adresses" propose un numérotage simple en ligne et le métrage des voies en pente importante devra plutôt utiliser une mesure de terrain pour calculer le numéro. Dans les autres cas, pour gérer le numérotage métrique, il suffit de l’activer : cliquer sur l’outil crayon de la voie dans le menu latéral
 
-<figure><img src=".gitbook/assets/image (26).png" alt=""/><figcaption></figcaption></figure>
+<figure><img src="/img/mes-adresses/image (26).png" alt=""/><figcaption></figcaption></figure>
 
 puis cocher "Cette voie utilise la numérotation métrique"
 
-<figure><img src=".gitbook/assets/image (56).png" alt=""/><figcaption></figcaption></figure>
+<figure><img src="/img/mes-adresses/image (56).png" alt=""/><figcaption></figcaption></figure>
 
 ## Mesurer une voie
 
@@ -43,7 +43,8 @@ Cliquer sur 'Ajouter un numéro', un pointeur numéroté se place au centre d
 - dans le cadre à gauche, renseigner la case "Position". Par défaut, "Mes Adresses" propose "Entrée"
 - cliquer sur "Ajouter".
 
-<figure><img src=".gitbook/assets/image (49).png" alt=""/><figcaption></figcaption></figure>
+<figure><img src="/img/mes-adresses
+/image (49).png" alt=""/><figcaption></figcaption></figure>
 
 Il reste à cliquer sur « Enregistrer » pour que le numéro soit ajouté et à cliquer à nouveau sur « Ajouter un numéro » pour compléter la voie.
 

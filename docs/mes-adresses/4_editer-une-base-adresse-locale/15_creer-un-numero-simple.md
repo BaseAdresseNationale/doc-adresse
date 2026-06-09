@@ -4,11 +4,10 @@ title: "Créer un numéro simple"
 
 Pour créer un numéro dans une voie, cliquer sur les pointillés puis « Consulter » afin d’afficher les numéros dans la partie latérale de l’écran et sur le fond de carte en partie centrale. Un numéro peut être créé au choix :
 
-* à partir du menu latéral de la voie ;
-* depuis le fond de carte.
+- à partir du menu latéral de la voie ;
+- depuis le fond de carte.
 
-<figure><img src=".gitbook/assets/image (39).png" alt=""/><figcaption></figcaption></figure>
-
+<figure><img src="/img/mes-adresses/image (39).png" alt=""/><figcaption></figcaption></figure>
 
 <figure><img src="/img/mes-adresses/20210428 Guide Mes Adresses 35 copie.png" alt=""/><figcaption></figcaption></figure>
 
@@ -21,11 +20,10 @@ Dès que le numéro est précisé dans l’écran latéral, le pointeur l�
 
 **Le nouveau numéro :**
 
-* s’affiche sur la carte dans la même couleur que les autres numéros de la voie ;
-* apparaît dans la liste de la partie latérale de l’écran dans l’ordre croissant.
+- s’affiche sur la carte dans la même couleur que les autres numéros de la voie ;
+- apparaît dans la liste de la partie latérale de l’écran dans l’ordre croissant.
 
 Si le numéro est simple, sans ajout de toponyme, la liste est la suivante :
-
 
 <figure><img src="/img/mes-adresses/20210428 Guide Mes Adresses 37.png" alt=""/><figcaption></figcaption></figure>
 
