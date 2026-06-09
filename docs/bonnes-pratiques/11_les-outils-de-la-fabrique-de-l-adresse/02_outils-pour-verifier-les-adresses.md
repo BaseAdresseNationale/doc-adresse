@@ -17,10 +17,10 @@ title: "Outils pour vérifier les adresses"
 - [Le validateur de Base Adresse Locale](https://adresse.data.gouv.fr/outils/validateur-bal)\*\*\
   Cet outil vérifie en ligne si les données respectent le format Base Adresse Locale. Il ne vérifie pas la conformité des latitudes et longitudes par contre.\
   **Usages :** diagnostiquer les erreurs éventuelles avant de déposer son fichier dans la BAN. Ne s'adresse pas aux communes qui utilisent Mes Adresses ou le formulaire de dépôt (le validateur est intégré dans ces outils).
-- [État de la Base Adresse Nationale par commune](https://www.data.gouv.fr/fr/datasets/etat-de-la-base-adresse-nationale-par-commune)\*\*\
+- [État de la Base Adresse Nationale par commune](https://www.data.gouv.fr/datasets/etat-de-la-base-adresse-nationale-par-commune)\*\*\
   Ce jeu de données présente l'état de la Base Adresse Nationale pour chaque commune.\
   **Usages :** l'analyse de l'adressage est là pour aider les chefs de file territoriaux et les acteurs nationaux à identifier les communes les plus "en retard" en terme d'adressage. Il s'agit d'estimations basées sur le jeu de données du Nombre de locaux adressables par commune. Cette approximation n'est pertinente que pour les petites communes essentiellement résidentielles et pavillonnaires.
-- [Le nombre de locaux adressables par communes](https://www.data.gouv.fr/fr/datasets/nombre-de-locaux-adressables-par-communes)\*\*\
+- [Le nombre de locaux adressables par communes](https://www.data.gouv.fr/datasets/nombre-de-locaux-adressables-par-communes)\*\*\
   Ce jeu de données propose un décompte du nombre de locaux adressables par commune, ainsi que le nombre d'adresses associées estimées.\
   **Usages :** évaluer les manques éventuels.
 - [L’API FANTOIR](https://github.com/BaseAdresseNationale/api-fantoir/blob/master/README.md#api)\*\* \

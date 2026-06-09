@@ -17,5 +17,5 @@ title: "L’écosystème de Mes Adresses, l’outil gratuit de mise à jour et d
 - [Mes Adresses : le tableau de bord](https://adresse.data.gouv.fr/deploiement-bal)\*\
   Visualiser les adresses des communes comme dans l’éditeur Mes Adresses, mais sans pouvoir les modifier ni consulter les commentaires. Cet outil est particulièrement précieux pour qu’un Partenaire de la Charte suive les publications des communes. En violet figurent les communes qui publient leur BAL avec un autre outil que Mes Adresses et en rouge les conflits (plusieurs BAL publiées pour une même commune). \
   **Usages :** suivre les adresses des communes (pour un Partenaire de la Charte), explo- rer des adresses (pour un opérateur de fibre), des liens adresse/parcelles sur un fond de carte (pour le service du cadastre).
-- [Page GitHub de Mes Adresses](https://github.com/BaseAdresseNationale/adresse.data.gouv.fr/projects/1)\*\*\
+- [Page GitHub de Mes Adresses](https://github.com/BaseAdresseNationale/mes-adresses)\*\*\
   **Usages :** suivre l'évolution de l'éditeur proposer des améliorations, de manière générale contribuer à cet outil.

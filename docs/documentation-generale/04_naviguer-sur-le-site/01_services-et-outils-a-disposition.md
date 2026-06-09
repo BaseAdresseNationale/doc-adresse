@@ -58,8 +58,8 @@ title: "Services et outils à disposition"
 - API de dépôt d'une Base Adresse Locale : lien vers la [documentation](https://github.com/BaseAdresseNationale/api-depot/wiki/01_Pr%C3%A9sentation)
 - Moissonneur d'une Base Adresse Locale : lien vers la [documentation](https://github.com/BaseAdresseNationale/moissonneur-bal/wiki/01_Fonctionnement)
 - [Le projet sur Github](https://github.com/BaseAdresseNationale/adresse.data.gouv.fr/projects) pour contribuer
-- [Nombre de locaux adressables par commune](https://www.data.gouv.fr/fr/datasets/nombre-de-locaux-adressables-par-communes) : décompte du nombre de locaux adressables par commune, ainsi que le nombre d'adresses associées estimées
-- [État de la Base Adresse Nationale par commune](https://www.data.gouv.fr/fr/datasets/etat-de-la-base-adresse-nationale-par-commune) : état de la Base Adresse Nationale pour chaque commune. Fichier produit en temps réel à partir de la plateforme BAN.
+- [Nombre de locaux adressables par commune](https://www.data.gouv.fr/datasets/nombre-de-locaux-adressables-par-communes) : décompte du nombre de locaux adressables par commune, ainsi que le nombre d'adresses associées estimées
+- [État de la Base Adresse Nationale par commune](https://www.data.gouv.fr/datasets/etat-de-la-base-adresse-nationale-par-commune) : état de la Base Adresse Nationale pour chaque commune. Fichier produit en temps réel à partir de la plateforme BAN.
 
 ### Suivre le déploiement des Bases Adresses Locales
 
