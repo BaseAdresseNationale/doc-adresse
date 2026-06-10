@@ -2,7 +2,7 @@
 title: "Rappel sur la dimension patrimoniale des adresses"
 ---
 
-Comme le précise le Conseil national de l’Information géographique (CNIG) dans [Décider d’un nom de lieu. Guide pratique à l’usage des élus](https://cnig.gouv.fr/wp-content/uploads/2021/01/D%c3%a9cider_du_nom_dun_lieu_01-2021.pdf) (janvier 2021) « Outre leur fonction pratique, les noms de lieux constituent donc un legs immatériel des sociétés passées. Cette dimension patrimoniale ne doit pas être oubliée dans les débats sur la modification d’un nom, ou la substitution d’un nouveau nom à un nom historique ».
+Comme le précise le Conseil national de l’Information géographique (CNIG) dans [Décider d’un nom de lieu. Guide pratique à l’usage des élus](https://cnig.gouv.fr/IMG/pdf/decider_du_nom_dun_lieu_01-2021.pdf) (janvier 2021) « Outre leur fonction pratique, les noms de lieux constituent donc un legs immatériel des sociétés passées. Cette dimension patrimoniale ne doit pas être oubliée dans les débats sur la modification d’un nom, ou la substitution d’un nouveau nom à un nom historique ».
 
 La langue régionale s’ajoute à la dimension patrimoniale des noms de lieux. Il est conseillé de renseigner les adresses en langue régionale, _a minima_ lorsque les panneaux et les traductions existent.
 
