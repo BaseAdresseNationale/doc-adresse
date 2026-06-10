@@ -28,7 +28,7 @@ Des outils libres existent pour gérer une Base Adresse Locale. Des éditeurs de
 
 - Le fichier .csv concerne une seule commune : il peut être publié dans la Base Adresse Nationale à partir du [formulaire de dépôt](https://adresse.data.gouv.fr/outils/formulaire-de-publication). Dans ce cas, c'est la commune qui s'authentifie.
 - Implémenter l’[API de dépôt](https://github.com/BaseAdresseNationale/api-depot/wiki/01_Pr%C3%A9sentation) : cette API fluidifie les échanges de données, permet une historicisation des dépôts.
-- Le fichier .csv concerne plusieurs communes : la communauté de communes ou le département crée un [compte certifié](https://support.data.gouv.fr/collectivite-territoriale/certification) sur le portail [data.gouv.fr](https://www.data.gouv.fr/) et dépose les Bases Adresses Locales des communes avec le mot-clé **base-adresse-locale**.
+- Le fichier .csv concerne plusieurs communes : la communauté de communes ou le département crée un [compte certifié](https://www.data.gouv.fr/support/collectivite-territoriale/certification) sur le portail [data.gouv.fr](https://www.data.gouv.fr/) et dépose les Bases Adresses Locales des communes avec le mot-clé **base-adresse-locale**.
 
 Faute de mise en place d'une gouvernance, il arrive que des Bases Adresses Locales de communautés de communes deviennent obsolètes. **En cas de litige, les communes sont libres de demander à l'EPCI la dé-publication de leurs adresses pour publier leur propre Base Adresse Locale.**
 

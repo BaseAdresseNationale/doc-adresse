@@ -35,7 +35,7 @@ Par ailleurs, d’autres prestations, optionnelles, peuvent vous êtes proposée
 - **Audit de l’existant** : identification des voies homonymes, des habitations non numérotées, etc…
 - **Renseignement du filaire** des voies (représentation cartographique et schématique des voies) et envoi aux opérateurs GPS qui ont besoin de cette donnée
 - **Repérage des plaques de rues et implantation**
-- **Renseignement des points d’intérêts** ([POI : commerces, lieux touristiques…](https://wiki.openstreetmap.org/wiki/FR:Points_d'int%C3%A9r%C3%AAthttps:/wiki.openstreetmap.org/wiki/FR:Points_d'int%C3%A9r%C3%AAt)) de votre commune
+- **Renseignement des points d’intérêts** ([POI : commerces, lieux touristiques…](https://wiki.openstreetmap.org/wiki/FR:Points_d%27int%C3%A9r%C3%AAt)) de votre commune
 - **Géolocalisation précise des point adresse**
 - **Aide administrative (rédaction des délibérations et arrêtés)**
 - **Accompagnement à la communication** : organisation de réunion publique par exemple

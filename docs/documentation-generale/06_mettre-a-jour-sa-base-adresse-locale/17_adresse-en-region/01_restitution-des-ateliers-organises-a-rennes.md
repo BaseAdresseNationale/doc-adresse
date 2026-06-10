@@ -105,7 +105,7 @@ La seule variable sur laquelle le service ne peut influer est le temps humain. E
   - Recrutement de [service civique](https://www.service-civique.gouv.fr/etre-volontaire)
   - Communication auprès des conseils de quartier ou conseils municipaux des jeunes.
   - Communication auprès des clubs et associations par exemple de randonnées.
-  - Associer l’adressage à des activités plus ludiques comme le recensement du patrimoine (exemple [collectif objet](https://collectif-objets.beta.gouv.fr/))
+  - Associer l’adressage à des activités plus ludiques comme le recensement du patrimoine (exemple [collectif objet](https://collectif-objets.culture.gouv.fr/))
 - Attention à trouver des profils terrain et profils numériques (exemple : formation via un [conseiller numérique](https://www.conseiller-numerique.gouv.fr/)).
 
 ## Atelier adressage <a href="#atelier-adressage" id="atelier-adressage"></a>
@@ -241,4 +241,3 @@ Questions hors-atelier :
 
 - Quel lien possible entre SIG local et Ban : flux, API ?
 - Comment co-administrer (commune + EPCI) une Bal sur Mes Adresses ?
-- Compte email que la commune a renseigné sur [service-public.fr](http://service-public.fr) ou FranceConnect d’un élu

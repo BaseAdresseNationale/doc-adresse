@@ -32,7 +32,7 @@ Un fichier Base Adresse Locale correspond à un [format d'échange aujourd'hui e
 | certification_commune  | Oui             | Certification communale                                                                      |
 
 :::info
-[Des outils en ligne permettent de valider les fichiers Base Adresse Locale ](https://adresse.data.gouv.fr/tools)\
+[Des outils en ligne permettent de valider les fichiers Base Adresse Locale ](https://adresse.data.gouv.fr/outils)\
 La Base Adresse Nationale gère des alias à l'import :\
 **lon, longitude** => long\
 **latitude** => lat
@@ -48,7 +48,7 @@ La Base Adresse Nationale gère des alias à l'import :\
   La commune délivrant un certificat de numérotage associe une numérotation à une parcelle. Le registre de filiation parcellaire de DGFiP, disponible en open-data, permet de connaître les parcelles associées à une adresse :
 
 :::info
-[Documents de filiation informatisés (DFI) des parcelles](https://www.data.gouv.fr/datasets/documents-de-filiation-informatises-dfi-des-parcelles/)
+[Documents de filiation informatisés (DFI) des parcelles](https://www.data.gouv.fr/datasets/documents-de-filiation-informatises-dfi-des-parcelles)
 :::
 
 - **Voies sans adresse :** le numéro attendu pour les voies sans adresse est **99999** et non 0. Le numéro 0 n'est pas accepté dans la Base Adresse Nationale.

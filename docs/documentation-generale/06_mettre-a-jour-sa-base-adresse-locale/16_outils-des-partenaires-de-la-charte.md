@@ -4,12 +4,9 @@ title: "Outils des Partenaires de la Charte"
 
 Les Partenaires de la Charte de la Base Adresse Locale partagent des outils
 
-
-
-
 ### Tableau de bord de suivi des Bases Adresses Locales
 
-**État des lieux de l'adresse en Bretagne :** application de suivi développée par GéoBretagne (le reste de la France est aussi disponible) : [https://geobretagne.fr/app/adresse](https://geobretagne.fr/app/adresse)
+**État des lieux de l'adresse en Bretagne :** application de suivi développée par GéoBretagne (le reste de la France est aussi disponible) : [https://geobretagne.fr/app/adresse/](https://geobretagne.fr/app/adresse/)
 
 ### Schéma du cycle de l'adresse
 
@@ -17,4 +14,4 @@ Les Partenaires de la Charte de la Base Adresse Locale partagent des outils
 
 ### **Documentation pour l'API de dépôt**
 
-**Paramétrage de l'API de dépôt d'une BAL pour FME par GéoCompiégnois :** [https://github.com/sigagglocompiegne/rva/blob/master/api/doc\_api\_balc\_fme.md](https://github.com/sigagglocompiegne/rva/blob/master/api/doc_api_balc_fme.md)
+**Paramétrage de l'API de dépôt d'une BAL pour FME par GéoCompiégnois :** [https://github.com/sigagglocompiegne/rva/blob/master/api/doc_api_balc_fme.md](https://github.com/sigagglocompiegne/rva/blob/master/api/doc_api_balc_fme.md)

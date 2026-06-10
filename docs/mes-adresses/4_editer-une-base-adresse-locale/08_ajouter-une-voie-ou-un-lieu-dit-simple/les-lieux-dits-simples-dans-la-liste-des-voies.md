@@ -22,4 +22,4 @@ Dans ce lieu-dit Le Grand Cosquet, les numéros ne se suivent pas puisqu’ils s
 
 Le nom du lieu-dit sera alors [renseigné en complément](/docs/mes-adresses/editer-une-base-adresse-locale/preciser-une-adresse-par-son-toponyme) en utilisant la liste des toponymes, ce qui permettra de conserver ce nom de lieu-dit dans la BAN.
 
-[Voir aussi ce tutoriel vidéo ](https://peertube.adresse.data.gouv.fr/w/ttnYNTcXtcubCHQX8kHdGt)
+[Voir aussi ce tutoriel vidéo ](https://tube.numerique.gouv.fr/w/7AeS1b84kmwjbL3A19Wphw)

@@ -10,4 +10,4 @@ Toutes les adresses de la commune sont transmises à la Base Adresse Nationale s
 
 <figure><img src="/img/mes-adresses/Capture_d_ecran_2022-02-07_a_12-44-52.png" alt=""/><figcaption></figcaption></figure>
 
-Une fois la Base Adresse Locale publiée, il reste à la commune à procéder à un certain nombre d’informations, notamment auprès des habitants. Elles sont détaillées dans le [Guide des bonnes pratiques](https://adresse.data.gouv.fr/guides).
+Une fois la Base Adresse Locale publiée, il reste à la commune à procéder à un certain nombre d’informations, notamment auprès des habitants. Elles sont détaillées dans le [Guide des bonnes pratiques](https://adresse.data.gouv.fr/documentation-bal).

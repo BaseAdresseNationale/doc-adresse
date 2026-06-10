@@ -29,7 +29,7 @@ Il existe également des aides au titre du soutien aux langues régionales, aupr
 Autre exemple, la Collectivité de Corse soutient financièrement la mise à jour des adresses dans le cadre du déploiement de la fibre.
 
 :::info
-La commune doit réaliser un adressage légal et demander plusieurs devis (pour obtenir des coordonnées, voir par exemple les [sociétés partenaires de la Charte de la Base Adresse Locale](https://adresse.data.gouv.fr/communaute/charte-base-adresse-locale/companies)).
+La commune doit réaliser un adressage légal et demander plusieurs devis (pour obtenir des coordonnées, voir par exemple les [sociétés partenaires de la Charte de la Base Adresse Locale](https://adresse.data.gouv.fr/communaute/annuaire-des-prestataires)).
 
 Une mise en garde toutefois, si un seul prestataire obtient le marché d’un territoire assez vaste, qu’il soit en capacité de réaliser les Bases Adresses Locales sans délais. Il en va de même en cas de délégation de l'adressage à un EPCI : veiller à ce que les délais légaux puissent être respectés.
 

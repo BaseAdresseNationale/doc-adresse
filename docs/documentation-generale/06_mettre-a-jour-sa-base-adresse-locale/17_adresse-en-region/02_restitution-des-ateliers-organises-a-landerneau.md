@@ -20,7 +20,7 @@ _Dépôt de permis de construire, voies privées ouvertes à la circulation, lot
 
 **Problème : nous avons réalisé une BAL et pourtant aujourd'hui les adresses ne sont pas à jour sur les opérateurs GPS les plus utilisés. Pourquoi ? Comment faire ?** Contexte complémentaire : la Base Adresse Locale de Motreff a été 100% réalisée en autonomie en juin/juillet 2022. Le travail a été réalisé par un adjoint au Maire par ailleurs agriculteur de la commune. Les numérotations ont été faites en partant de l'église et de la Mairie en allant vers la périphérie. L'outil Mes Adresses a été utilisé et a été apprécié de par sa facilité d'utilisation. Après le dépôt, le Marie et son conseil municipal ont été surpris de ne pas avoir de retours, notamment sur les suites et dates de prise en compte de leur BAL. A noter que 100% des adresses de cette BAL sont certifiées (plus d'informations sur la certification [ici](/docs/documentation-generale/utiliser-la-base-adresse-nationale/les-adresses-certifiees)).
 
-Retrouvez la BAL de Motreff [ici](https://adresse.data.gouv.fr/base-adresse-nationale/29152_B070#15.77/48.2037/-3.5798)
+Retrouvez la BAL de Motreff [ici](https://adresse.data.gouv.fr/carte-base-adresse-nationale?id=29152_B070)
 
 **Échanges et enseignements**
 
@@ -67,7 +67,7 @@ _Comment adresser les hameaux ? Quelles obligations avec la loi 3DS ? Comment co
 
 **Problème : Comment composer avec l'existant et obtenir un adressage efficace ?** La fibre arrive et il reste un certain nombre de lieux-dits sans adresses. Le conseil municipal a nommé les lieux-dits et maintenant il faut attaquer la numérotation (plus long, prendre les distances pour faire de la numérotation métrique ...). La commune compte 1600 habitants et bénéficie de l'aide du Pays De Landerneau-Daoulas En plus des courriers aux habitants, la commune va distribuer des autocollants, ressemblant à des plaques de rue, pour coller sur les boîtes aux lettres pour montrer la nouvelle adresse.
 
-Retrouvez la BAL de Saint-Urbain [ici](https://adresse.data.gouv.fr/base-adresse-nationale/29270#12.23/48.39501/-4.2185)
+Retrouvez la BAL de Saint-Urbain [ici](https://adresse.data.gouv.fr/carte-base-adresse-nationale?id=29270)
 
 Exemples de cas rencontrés :
 
@@ -89,7 +89,7 @@ Exemples de cas rencontrés :
 
 **Problème : La commune comporte de très grands lieux-dits qu'il va falloir adresser avec des noms de rue tout en conservant les noms historiques auxquels les habitants sont attachés.** La commune a fusionné. La mission adressage a démarré pour résorber les doublons de noms de voie issus de la fusion. Le SDIS 29 avait informé les communes concernées par ces homonymies. Maintenant, il faut s'occuper des lieux-dits. La commune est très touristique, il y a d'autant plus besoin d'un adressage clair pour des personnes qui ne connaissent pas les lieux.
 
-Retrouvez la BAL de Plounéour-Brignogan-plages [ici](https://adresse.data.gouv.fr/base-adresse-nationale/29021#14.35/48.64719/-4.32215)
+Retrouvez la BAL de Plounéour-Brignogan-plages [ici](https://adresse.data.gouv.fr/carte-base-adresse-nationale?id=29021)
 
 Exemples :
 

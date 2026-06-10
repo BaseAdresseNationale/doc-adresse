@@ -12,7 +12,7 @@ France métropolitaine, départements et régions d’outremer
 
 #### Utiliser simplement l'API
 
-- [Page de l'API](https://adresse.data.gouv.fr/api-doc/adresse)
+- [Page de l'API](https://adresse.data.gouv.fr/outils/api-doc/adresse)
 
 Rappel aux intégrateurs qui utilisent cette API : il n'est pas utile de réaliser un appel pour chaque caractère saisi par les utilisateurs. Penser "Debouncing and Throttling"
 

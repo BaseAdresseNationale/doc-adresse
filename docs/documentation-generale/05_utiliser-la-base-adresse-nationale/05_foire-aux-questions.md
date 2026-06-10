@@ -7,11 +7,11 @@ title: "Foire aux questions"
 ### Qu’est-ce que la Base Adresse Nationale ?
 
 La Base Adresse Nationale est une **base de données** qui rassemble et met à disposition **l’ensemble des adresses géolocalisées du territoire national**. \
-C'est le référentiel adresse officiel, qui fait partie du [Service Public des Données de référence](https://www.data.gouv.fr/reference).
+C'est le référentiel adresse officiel, qui fait partie du [Service Public des Données de référence](http://www.data.gouv.fr/pages/spd/reference/).
 
 ### La Base Adresse Nationale est-elle gratuite ?
 
-La Base Adresse Nationale est disponible sous [Licence Ouverte](https://www.etalab.gouv.fr/licence-ouverte-open-licence) depuis le **1er janvier 2020**. Elle est donc **gratuite** et **librement réutilisable** (à condition de citer la source).
+La Base Adresse Nationale est disponible sous [Licence Ouverte](https://alliance.numerique.gouv.fr/licence-ouverte-open-licence/) depuis le **1er janvier 2020**. Elle est donc **gratuite** et **librement réutilisable** (à condition de citer la source).
 
 ### À quelle fréquence la Base Adresse Nationale est-elle mise à jour ?
 
