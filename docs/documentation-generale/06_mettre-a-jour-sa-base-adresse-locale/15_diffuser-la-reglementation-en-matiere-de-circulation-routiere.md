@@ -8,10 +8,10 @@ Vous avez enregistré et publié vos adresses, vous souhaitez maintenant indique
 
 Cas concrets : interdire une voie aux poids lourds, à tous les véhicules sauf aux riverains, limiter la circulation sur certains axes en cas de travaux ou d'événements temporaires, etc...
 
-[Dialog](https://dialog.beta.gouv.fr/collectivites) permet aux collectivités gérant la voirie de numériser leurs arrêtés de circulation et de stationnement. Si votre collectivité dispose déjà d’une solution de numérisation de sa réglementation, DiaLog permet très simplement de récupérer les données produites et les exporter ver s les GPS. Ces données sont ensuite publiées aux services numériques. Les données de circulations sont ainsi consultables et réutilisables facilement par tous.
+[Dialog](https://dialog.beta.gouv.fr/) permet aux collectivités gérant la voirie de numériser leurs arrêtés de circulation et de stationnement. Si votre collectivité dispose déjà d’une solution de numérisation de sa réglementation, DiaLog permet très simplement de récupérer les données produites et les exporter ver s les GPS. Ces données sont ensuite publiées aux services numériques. Les données de circulations sont ainsi consultables et réutilisables facilement par tous.
 
 <figure><img src="/img/documentation-generale/image (23).png" alt=""/><figcaption></figcaption></figure>
 
 - Pour en savoir plus : [https://dialog.beta.gouv.fr/](https://dialog.beta.gouv.fr/)
 
-[DiaLog_Présentation_générale.pdf](/file/DiaLog_Présentation_générale.pdf)
+[Aide en ligne](https://fabrique-numerique.gitbook.io/doc.dialog.beta.gouv.fr)
