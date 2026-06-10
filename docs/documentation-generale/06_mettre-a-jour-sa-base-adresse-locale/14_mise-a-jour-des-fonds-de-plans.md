@@ -10,3 +10,5 @@ Une commune qui constate que les fonds ne sont pas à jour :
 - Si elle dispose de fonds de cartes, contacter adresse@data.gouv.fr. Cette situation concerne en particulier les Collectivités d’outre mer et un appel à contribution est lancé pour enrichir les fonds dans ces territoires.
 - La commune peut contacter la [communauté OpenStreetMap](https://www.openstreetmap.fr/contact/). Cette association mondiale permet de contribuer aux mises à jour de ses fonds. Une fois la mise à jour effectuée, le fond est intégré à Mes Adresses sous une semaine.
 - La commune peut prévenir son [contact IGN local](https://cartes.gouv.fr/aide/fr/nous-ecrire/) de la mise à jour des adresses.
+
+Voir notre article de blog [Corriger et améliorer les fonds de plan](https://adresse.data.gouv.fr/blog/corriger-et-ameliorer-les-fonds-de-plan)
