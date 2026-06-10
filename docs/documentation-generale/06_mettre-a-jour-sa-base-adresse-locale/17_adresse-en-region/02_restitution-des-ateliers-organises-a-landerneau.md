@@ -37,7 +37,7 @@ Il est suggéré de davantage mettre en avant les réutilisateurs sur le site ad
 - Travailler le parcours de l'utilisateur après le dépôt de sa BAL. Quelles sont les prochaines étapes.
 - Comment mettre en avant les réutilisateurs (voir également [le blog](https://adresse.data.gouv.fr/blog) avec des témoignages de réutilisateurs)
 - Insister sur la certification. En effet, l'équipe vous conseille vivement de certifier vos adresses afin d'avoir plus de chance d'être intégré auprès de réutilisateurs.
-- Ajouter et mettre en avant dans [la documentation](/) des exemples de bonnes pratiques sur le parcours de l'adresse (exemple : nouvelle voie -> délibération avec un exemple -> mise à jour de la BAL / nouveau numéro -> arrêté avec un exemple -> mise à jour de la BAL)
+- Ajouter et mettre en avant dans la documentation des exemples de bonnes pratiques sur le parcours de l'adresse (exemple : nouvelle voie -> délibération avec un exemple -> mise à jour de la BAL / nouveau numéro -> arrêté avec un exemple -> mise à jour de la BAL)
 
 #### Témoignage d'une commune
 
@@ -57,7 +57,7 @@ Deconseiller de décliner un mot + sa traduction. Attention aux communes fusionn
 - Je constate des erreurs d'adresse lors des dépôts de PC dématérialisés mais je ne peux pas intervenir, sauf si je demande des pièces complémentaires.
 - Ma BAL est correcte depuis des mois, mais le lieu-dit n'est toujours pas indiqué au bon endroit sur les GPS.
 - J'ai des adresses correctes dont la position est défectueuse pourtant la BAL est correcte. Par exemple, la Mairie de ma commune est indiquée sur la position de la Gendarmerie alors que l'adresse est la bonne.
-- Je dois me lancer mais ne sais pas par où commencer. (voir [documentation](/) et guides disponibles sur mes-adresses.data.gouv.fr)
+- Je dois me lancer mais ne sais pas par où commencer. (voir [documentation et guides disponibles](https://doc.adresse.data.gouv.fr/) sur adresses.data.gouv.fr)
 
 ### :house_with_garden: Hameaux et lieux-dits
 
@@ -140,8 +140,8 @@ Le rôle de l’EPCI peut être central afin de briser ces freins, mais il ne su
 Ces arguments ne sont pas toujours suffisants. Voici d’autres solutions proposées par les participants de l’atelier :
 
 - :loudspeaker: Communiquer : ◦ S’appuyer sur des diaporamas efficaces (mutualiser sur adresse.data.gouv). ◦ S’entourer d’acteurs du territoires. Par exemple, une présentation durant laquelle intervient un Lieutenant des pompiers fera son effet.
-- :hand: Accompagner ◦ Proposer aux communes de les former à l’outil en s’appuyant sur les ressources d’adresse.data.gouv et des guides (exemple : [Guide d’accompagnement à la dénomination et à la numérotation des voies du Pays de Brest](https://geo.pays-de-brest.fr/espacedocumentaire/Documents/Public/Guide_Methodo_Adresse_Pays.pdf)) ◦ S’appuyer sur un référent local (agent ou élu) connaissant bien la commune
-- :information_source: Informer : ◦ Mettre à disposition une cartographie dynamique des adresses manquantes afin de cibler les secteurs prioritaire ([ex du Pays de Brest](https://bmo.maps.arcgis.com/apps/webappviewer/index.html?id=089f4cb6f23f472381180cb39c93ea06)) ◦ Présenter ce type de cartes sous forme d’atlas PDF ou en édition papier ◦ Présenter une carte de l’avancement des BAL sur l’EPCI afin de valoriser les « bons élèves » et d’inciter les autres à en faire de même
+- :hand: Accompagner ◦ Proposer aux communes de les former à l’outil en s’appuyant sur les ressources d’adresse.data.gouv et des guides (exemple : [Guide d’accompagnement à la dénomination et à la numérotation des voies du Pays de Brest](https://geo.brest-metropole.fr/portal/apps/sites/#/geopaysdebrest/documents/7ae9c8276f0e48dbb1485517e2d79f19/about)) ◦ S’appuyer sur un référent local (agent ou élu) connaissant bien la commune
+- :information_source: Informer : ◦ Mettre à disposition une cartographie dynamique des adresses manquantes afin de cibler les secteurs prioritaire  ◦ Présenter ce type de cartes sous forme d’atlas PDF ou en édition papier ◦ Présenter une carte de l’avancement des BAL sur l’EPCI afin de valoriser les « bons élèves » et d’inciter les autres à en faire de même
 
 En synthèse, toutes ces actions nécessitent d’y consacrer du temps et de se répéter. Parfois, il faut que le géomaticien commence le travail pour que la commune poursuive derrière. Tous les EPCI n’ont pas ces ressources ; c’est pourquoi d’autres pistes sont proposées :
 
