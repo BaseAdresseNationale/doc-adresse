@@ -127,7 +127,7 @@ La commune de Miniac-Morvan s’est lancée dans la création de la BAL sur les 
 ➡️ **Un appui des élus nécessaire pour mettre l’adressage à l’agenda.**\
 Un élu moteur pourrait fixer des objectifs de complétude de la BAL en dédiant du temps pour la mise à jour. L’actualité autour de la loi 3DS peut être un levier.\
 ➡️ **Des ressources d’accompagnement locales et nationales complémentaires mobilisables**\
-L’EPCI est souvent un échelon intéressant et efficace pour aider les communes. Au niveau national, l’équipe BAN propose des [ressources](https://adresse.data.gouv.fr/ressources-et-documentations) diverses : guides, témoignages, tutoriels, FAQ, [webinaires de formation à Mes Adresses](https://adresse.data.gouv.fr/evenements) (2 par mois), un [forum d’échange](https://forum.incubateur.anct.gouv.fr/c/bases-adresses-locales/43) entre communes, un mail de support réactif [adresse@data.gouv.fr](mailto:adresse@data.gouv.fr) …
+L’EPCI est souvent un échelon intéressant et efficace pour aider les communes. Au niveau national, l’équipe BAN propose des [ressources](https://doc.adresse.data.gouv.fr/) diverses : guides, témoignages, tutoriels, FAQ, [webinaires de formation à Mes Adresses](https://adresse.data.gouv.fr/evenements) (2 par mois), un mail de support réactif [adresse@data.gouv.fr](mailto:adresse@data.gouv.fr) …
 
 💡 **Solutions à creuser**
 
