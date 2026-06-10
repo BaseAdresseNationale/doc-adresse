@@ -11,7 +11,7 @@ Lorsque tous les numéros des habitations et locaux se suivent dans un lieu-dit 
 Dans cette configuration, les lieux-dits rassemblent peu d’adresses et le numérotage reste cohérent sous la forme 2 Kerlann et 4 Kerlann par exemple. La commune doit toutefois aussi dénommer et renseigner les voies qui conduisent à ces lieux-dits. **Si elles ne portant pas de numéro, ces voies sans adresse sont compilées dans la liste** [**des toponymes**](/docs/mes-adresses/editer-une-base-adresse-locale/creer-un-toponyme)**.**
 
 :::info
-Consulter ​le [Guide d’accompagnement à la dénomination et à la numérotation des voies](https://geo.pays-de-brest.fr/actualites/Pages/public/Adressage.aspx) du Pays de Brest.
+Consulter ​le [Guide d’accompagnement à la dénomination et à la numérotation des voies](https://geo.brest-metropole.fr/portal/apps/sites/#/geopaysdebrest/documents/7ae9c8276f0e48dbb1485517e2d79f19/about) du Pays de Brest.
 :::
 
 **Voici un contre-exemple**, lorsque le lieu-dit comporte plusieurs voies, il est impossible de conserver une numérotation cohérente et continue sur le nom du lieu-dit :
