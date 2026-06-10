@@ -52,7 +52,7 @@ Parmi les bonnes pratiques observées auprès de Partenaires de la Charte de la 
 
 Un EPCI ou la Région peut impulser une dynamique autour des panneaux de noms de voies. Il est tout à fait possible de fabriquer les panneaux localement, via un Fablab, sur une dynamique d’ESS. Les plaques en email bleu sont normées pour Paris au XIXe siècle. Rien n’empêche l’agglomération ou la Région d’investiguer les possibilités d’aides pour faire fabriquer les plaques.
 
-Nous avons l’exemple de [Villar-d'Arêne](https://www.amenagement-numerique.gouv.fr/fr/actualite/petites-communes-hautes-alpes-font-leurs-bases-adresses-locales), petite commune des Hautes-Alpes où le seul agent municipal a fabriqué les panneaux de noms de voies en mélèze. Le résultat se fond très bien dans le paysage et fait la fierté des habitants.
+Nous avons l’exemple de [Villar-d'Arêne](https://web.archive.org/web/20231004133612/https://www.amenagement-numerique.gouv.fr/fr/actualite/petites-communes-hautes-alpes-font-leurs-bases-adresses-locales), petite commune des Hautes-Alpes où le seul agent municipal a fabriqué les panneaux de noms de voies en mélèze. Le résultat se fond très bien dans le paysage et fait la fierté des habitants.
 
 ![](</img/documentation-generale/image (20).png>)
 
@@ -66,6 +66,6 @@ Autre exemple, une métropole a proposé de partager entre communes les panneaux
 
 La Dotation Globale de Fonctionnement (DGF) versée aux communes tient compte des voies communales recensées.
 
-Un adressage exhaustif facilite cette déclaration : voir les informations sur la [page de la DGCL.](https://www.collectivites-locales.gouv.fr/finances-locales/presentation-de-la-dotation-globale-de-fonctionnement-dgf)
+Un adressage exhaustif facilite cette déclaration : voir les informations sur la [page de la DGCL.](https://www.collectivites-locales.gouv.fr/gerer-les-finances-publiques-locales/execution-des-recettes-et-des-depenses-locales/recettes-locales/dotations/dotation-globale-de-fonctionnement/presentation-de-la-dotation-globale-de-fonctionnement)
 
 Les Chemins ruraux, protégés au titre de l'[Article 102 de la loi 3DS](https://www.legifrance.gouv.fr/jorf/article_jo/JORFARTI000045197469), peuvent fair le'objet d'une délibération et figurer dans les Bases Adresses Locales, en particulier pour faciliter l'accès des pompiers, etc.
