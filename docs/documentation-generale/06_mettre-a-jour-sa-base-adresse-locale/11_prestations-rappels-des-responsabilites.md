@@ -55,5 +55,5 @@ Un maître mot : la commune reste responsable de ses adresses, même si elle en 
 :::warning
 Vous faites l'objet d'un démarchage abusif ? (Un prestataire vous dit que la BAN n'est pas géoréférencée, que seuls ses services garantissent la fibre, etc.)
 
-Signalez le problème aux services de la Répression des fraudes avec SignalConso : [https://signal.conso.gouv.fr/](https://signal.conso.gouv.fr/)
+Signalez le problème aux services de la Répression des fraudes avec SignalConso : [https://signal.conso.gouv.fr/fr](https://signal.conso.gouv.fr/fr)
 :::
