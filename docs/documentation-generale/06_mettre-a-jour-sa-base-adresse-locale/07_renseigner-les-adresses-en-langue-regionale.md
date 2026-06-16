@@ -24,8 +24,8 @@ Le [format Base Adresse Locale](https://aitf-sig-topo.github.io/voies-adresses/f
 
 On trouvera ainsi
 
-- dans la colonne voie_nom la [rue de Koad Bras](https://adresse.data.gouv.fr/carte-base-adresse-nationale?id=29232_7102) et
-- dans la colonne voie_nom_bre sa variante en breton straed Koad Bras
+- dans la colonne **toponyme** la [rue de Koad Bras](https://adresse.data.gouv.fr/carte-base-adresse-nationale?id=29232_7102) et
+- dans la colonne **toponyme_bre** sa variante en breton straed Koad Bras
 
 Les communes utilisatrices de l’éditeur [Mes Adresses](https://mes-adresses.data.gouv.fr/) n’ont pas besoin de gérer ces fichiers. Il suffit dans Mes Adresses d’ajouter le nom en langue régionale et l’éditeur exporte dans la Base Adresse Nationale des tableaux avec les codes ISO. L’éditeur permet de renseigner le libellé de la voie et du lieu-dit en langue régionale sans besoin de manipuler de code.
 

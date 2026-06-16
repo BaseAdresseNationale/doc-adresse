@@ -42,7 +42,7 @@ La Base Adresse Nationale gère des alias à l'import :\
 
 #### Bien rédiger une adresse
 
-- **voie_nom, numero, suffixe:** \
+- **toponyme, numero, suffixe:** \
   Le nom de la voie et de son complément sont rédigés en toutes lettres, en **minuscules accentuées**, la première lettre de la voie et du nom seulement étant écrites en majuscule. Le complément est réservé aux hameaux et lieux-dits historiques. Il est conseillé de **limiter le champ suffixe** aux indices de répétition du type bis, ter : même si ce champ est relativement libre dans les spécifications, y placer trop d'informations dégrade l'adresse.
 - **cad_parcelles:**\
   La commune délivrant un certificat de numérotage associe une numérotation à une parcelle. Le registre de filiation parcellaire de DGFiP, disponible en open-data, permet de connaître les parcelles associées à une adresse :
@@ -55,4 +55,4 @@ La Base Adresse Nationale gère des alias à l'import :\
 
 #### Le format BAL dans l'éditeur Mes Adresses
 
-L'éditeur en ligne de Bases Adresses Locales [Mes Adresses](https://mes-adresses.data.gouv.fr/) est fondé sur le format BAL ci-dessus avec quelques adaptations qui permettent de conserver un outil léger, même en cas de connexion médiocre. Par exemple, le champ **uid_adresses** est géré lors de l'importation des adresses dans la Base Adresse Nationale et doit rester vide.
+L'éditeur en ligne de Bases Adresses Locales [Mes Adresses](https://mes-adresses.data.gouv.fr/) est fondé sur le format BAL ci-dessus avec quelques adaptations qui permettent de conserver un outil léger, même en cas de connexion médiocre. Par exemple, les champs **id_ban_commune**, **id_ban_toponyme** et **id_ban_adresse** est gérés lors de l'importation des adresses dans la Base Adresse Nationale et doit rester vide.
