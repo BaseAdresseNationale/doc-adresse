@@ -10,7 +10,7 @@ La DETR permet aux communes et EPCI à fiscalité propre, dans le respect des di
 
 Il revient à une commission composée de parlementaires et d’élus locaux de fixer, dans chaque département et en fonction des spécificités locales, les catégories d’opérations dont le financement est prioritaire. Cette dotation a permis de soutenir près de 900 opérations liées à l'adressage ces cinq dernières années, dont 11 opérations, en 2022, relatives à la mise en place d'une base adresse locale.
 
-Voir la [page dédiée](https://www.collectivites-locales.gouv.fr/finances-locales/dotation-dequipement-des-territoires-ruraux-detr) sur le site de la DGCL.
+Voir la [page dédiée](https://www.collectivites-locales.gouv.fr/gerer-les-finances-publiques-locales/execution-des-recettes-et-des-depenses-locales/recettes-locales/dotations/soutien-linvestissement-local-dpv-detr-fctva/dotation-dequipement-des-territoires-ruraux) sur le site de la DGCL.
 
 ### La dotation de soutien à l'investissement local
 
