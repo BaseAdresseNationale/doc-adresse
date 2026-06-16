@@ -24,8 +24,6 @@ Les témoignages en ligne sur le blog et les billets techniques permettent de vi
 
 Des réponses concrètes dans la FAQ et des informations sur les aides dans la [documentation générale. ](/docs/documentation-generale/mettre-a-jour-sa-base-adresse-locale/les-aides-aux-communes)
 
-**Pour échanger entre pairs :** rendez-vous sur le [forum des communes](https://forum.incubateur.anct.gouv.fr/c/bases-adresses-locales/43), réservé aux élus et agents municipaux.
-
 Pour être accompagné : il est conseillé de rechercher un [Partenaire de la Charte de la Base Adresse Locale](https://adresse.data.gouv.fr/communaute/charte-base-adresse-locale) qui s’engage à respecter le format et la gouvernance prévues par la loi 3DS.
 
 Pour **visualiser les opérations à réaliser**, [les films tutos !](https://tube.numerique.gouv.fr/c/base_adresse_locale/videos)
