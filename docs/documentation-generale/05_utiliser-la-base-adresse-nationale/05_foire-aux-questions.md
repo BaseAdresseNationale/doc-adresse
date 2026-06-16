@@ -32,12 +32,12 @@ Y contribuer en tant qu’utilisateur des données ou en tant que citoyen me per
 
 ### Comment contribuer à la Base Adresse Nationale ?
 
-Vous pouvez contribuer en utilisant la plateforme [Mes signalements]([https://adresse.data.gouv.fr/blog/dispositif-de-signalement)](https://signalement.adresse.data.gouv.fr/)
-Voir l'article de [présentation du dispositif de contribution](https://adresse.data.gouv.fr/blog/dispositif-de-signalement). 
+Vous pouvez contribuer en utilisant la plateforme [Mes signalements](https://signalement.adresse.data.gouv.fr/)
+Voir l'article de [présentation du dispositif de contribution](https://adresse.data.gouv.fr/blog/dispositif-de-signalement).
 
 ### Mon adresse n’est pas dans la Base Adresse Nationale ! Que dois-je faire ?
 
-La gestion des adresses est une **compétence communale**. Votre premier réflexe est de vous adresser à votre mairie, qui est en mesure de créer ou de mettre à jour votre adresse grâce aux outils mis à sa disposition. Vous pouvez également transmettre un [signalement](https://signalement.adresse.data.gouv.fr/) via notre plateforme dédiée. 
+La gestion des adresses est une **compétence communale**. Votre premier réflexe est de vous adresser à votre mairie, qui est en mesure de créer ou de mettre à jour votre adresse grâce aux outils mis à sa disposition. Vous pouvez également transmettre un [signalement](https://signalement.adresse.data.gouv.fr/) via notre plateforme dédiée.
 
 **Attention : il se peut que votre commune ne sache pas que cette gestion est de son ressort. N’hésitez pas à lui indiquer ce site et à nous mettre en relation.**
 

@@ -52,7 +52,7 @@ Parmi les bonnes pratiques observées auprès de Partenaires de la Charte de la 
 
 Un EPCI ou la Région peut impulser une dynamique autour des panneaux de noms de voies. Il est tout à fait possible de fabriquer les panneaux localement, via un Fablab, sur une dynamique d’ESS. Les plaques en email bleu sont normées pour Paris au XIXe siècle. Rien n’empêche l’agglomération ou la Région d’investiguer les possibilités d’aides pour faire fabriquer les plaques.
 
-Nous avons l’exemple de [Villar-d'Arêne]([https://web.archive.org/web/20231004133612/https://www.amenagement-numerique.gouv.fr/fr/actualite/petites-communes-hautes-alpes-font-leurs-bases-adresses-locales](https://adresse.data.gouv.fr/blog/des-petites-communes-des-hautes-alpes-font-leurs-bases-adresses-locales)), petite commune des Hautes-Alpes où le seul agent municipal a fabriqué les panneaux de noms de voies en mélèze. Le résultat se fond très bien dans le paysage et fait la fierté des habitants.
+Nous avons l’exemple de [Villar-d'Arêne](https://adresse.data.gouv.fr/blog/des-petites-communes-des-hautes-alpes-font-leurs-bases-adresses-locales), petite commune des Hautes-Alpes où le seul agent municipal a fabriqué les panneaux de noms de voies en mélèze. Le résultat se fond très bien dans le paysage et fait la fierté des habitants.
 
 ![](</img/documentation-generale/image (20).png>)
 
