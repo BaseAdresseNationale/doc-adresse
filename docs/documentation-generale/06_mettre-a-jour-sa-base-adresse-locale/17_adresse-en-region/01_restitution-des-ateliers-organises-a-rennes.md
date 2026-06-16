@@ -77,7 +77,7 @@ Conformément à la décision du Premier Ministre, la BAN est disponible intégr
 La BANO quant à elle est sous **Licence ODbL**. Cette licence autorise à copier, distribuer, utiliser les données, produire des créations, transformer et construire à partir de cette base de données. Elle impose aussi de mentionner la source des données, ainsi que de partager à l’identique les bases de données dérivées et par conséquent de garder ouvertes ces données.\
 ➡️ **En d’autres termes, dans les conditions actuelles la BAN peut alimenter la BANO mais la BANO ne peut pas alimenter la BAN.**
 
-Aujourd’hui quand on clique sur “en tant que citoyen” sur le site [adresse.data.gouv.fr](https://adresse.data.gouv.fr/contribuer) il existe un service pour prendre attache auprès de sa Mairie. Toutefois c’est caché et ne permet pas la contribution.
+Aujourd’hui quand on clique sur “en tant que citoyen” sur le site il existe un service pour prendre attache auprès de sa Mairie. Toutefois c’est caché et ne permet pas la contribution.
 
 ➡️ **Solutions à creuser**
 
