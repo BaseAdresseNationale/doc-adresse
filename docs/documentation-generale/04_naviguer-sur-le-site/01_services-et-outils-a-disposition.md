@@ -38,7 +38,6 @@ title: "Services et outils à disposition"
 - Page de l'éditeur national [Mes Adresses](https://mes-adresses.data.gouv.fr/) avec son tutoriel embarqué
 - Les [films tutoriels sur Peertube](https://tube.numerique.gouv.fr/c/base_adresse_locale/videos), également embarqués dans l'aide en ligne de l'éditeur
 - Le Guide de l'éditeur en [format texte](/docs/mes-adresses/a-propos-du-guide-de-mes-adresses) ou en [PDF](https://adresse.data.gouv.fr/data/docs/guide-mes-adresses-v4.0.pdf)
-- Le [Forum des Bases Adresses Locales](https://forum.incubateur.anct.gouv.fr/c/bases-adresses-locales/43) **réservé aux élus et agents des communes** (prestataires s'abstenir).
 - [La FAQ](https://adresse-data-gouv-fr.gitbook.io/faq) réalisée à partir des questions des communes lors des webinaires
 - [La page Github](https://github.com/BaseAdresseNationale/mes-adresses/issues) pour suivre l'avancée de l'éditeur et proposer des évolutions
 
