@@ -29,7 +29,6 @@ La mise en place d’identifiant, ou de clé, permettant de retrouver avec certi
 
 - Il doit être persistant : c’est-à-dire qu’il doit être réellement stocké, conservé et archivé dans le temps."
        
-On peut aussi citer la page [https://guides.etalab.gouv.fr/qualite/lier-les-donnees-a-un-referentiel/#avantages](https://guides.etalab.gouv.fr/qualite/lier-les-donnees-a-un-referentiel/#avantages)
 
 
 ### b.     COROLLAIRE :  Ce qui ne peut pas être l'identifiant technique
