@@ -10,13 +10,13 @@ Ce service public ouvert à tous permet d'interroger la base de données de l’
 
 France métropolitaine, départements et régions d’outremer
 
-#### Utiliser simplement l'API
+#### Utiliser simplement l'API de géocodage
 
 - [Page de l'API](https://adresse.data.gouv.fr/outils/api-doc/adresse)
 
 Rappel aux intégrateurs qui utilisent cette API : il n'est pas utile de réaliser un appel pour chaque caractère saisi par les utilisateurs. Penser "Debouncing and Throttling"
 
-- [Informations sur l'API](https://guides.etalab.gouv.fr/apis-geo/1-api-adresse.html)
+- [Informations sur l'API]([https://guides.etalab.gouv.fr/apis-geo/1-api-adresse.html](https://cartes.gouv.fr/aide/fr/guides-utilisateur/utiliser-les-services-de-la-geoplateforme/geocodage/)
 
 #### Installer l'API
 
@@ -24,7 +24,7 @@ Rappel aux intégrateurs qui utilisent cette API : il n'est pas utile de réalis
 
 ### L'API Base Adresse Locale
 
-Cette API permet d'effectuer toutes les actions réalisables sur l'éditeur en ligne de Bases Adresses Locales [mes-adresses.data.gouv.fr](https://mes-adresses.data.gouv.fr/), et notamment de
+Cette API de publication permet d'effectuer toutes les actions réalisables sur l'éditeur en ligne de Bases Adresses Locales [mes-adresses.data.gouv.fr](https://mes-adresses.data.gouv.fr/), et notamment de
 
 - créer une Base Adresse Locale et
 - en gérer les adresses de façon fine.
