@@ -16,7 +16,7 @@ France métropolitaine, départements et régions d’outremer
 
 Rappel aux intégrateurs qui utilisent cette API : il n'est pas utile de réaliser un appel pour chaque caractère saisi par les utilisateurs. Penser "Debouncing and Throttling"
 
-- [Informations sur l'API]([https://guides.etalab.gouv.fr/apis-geo/1-api-adresse.html](https://cartes.gouv.fr/aide/fr/guides-utilisateur/utiliser-les-services-de-la-geoplateforme/geocodage/)
+- [Informations sur l'API](https://cartes.gouv.fr/aide/fr/guides-utilisateur/utiliser-les-services-de-la-geoplateforme/geocodage/)
 
 #### Installer l'API
 
