@@ -10,7 +10,7 @@ La DETR permet aux communes et EPCI à fiscalité propre, dans le respect des di
 
 Il revient à une commission composée de parlementaires et d’élus locaux de fixer, dans chaque département et en fonction des spécificités locales, les catégories d’opérations dont le financement est prioritaire. Cette dotation a permis de soutenir près de 900 opérations liées à l'adressage ces cinq dernières années, dont 11 opérations, en 2022, relatives à la mise en place d'une base adresse locale.
 
-Voir la [page dédiée](https://www.collectivites-locales.gouv.fr/finances-locales/dotation-dequipement-des-territoires-ruraux-detr) sur le site de la DGCL.
+Voir la [page dédiée](https://www.collectivites-locales.gouv.fr/gerer-les-finances-publiques-locales/execution-des-recettes-et-des-depenses-locales/recettes-locales/dotations/soutien-linvestissement-local-dpv-detr-fctva/dotation-dequipement-des-territoires-ruraux) sur le site de la DGCL.
 
 ### La dotation de soutien à l'investissement local
 
@@ -18,7 +18,7 @@ La dotation de soutien à l’investissement local (DSIL) a été instituée en 
 
 Peuvent en bénéficier toutes les communes et tous les établissements publics de coopération intercommunale (EPCI) à fiscalité propre, de métropole et des régions d’outre-mer, y compris Mayotte, ainsi que les pôles d’équilibre territoriaux et ruraux (PETR) peuvent percevoir la DSIL.
 
-Voir la [page dédiée ](https://www.economie.gouv.fr/plan-de-relance/mesures/dotation-soutien-investissement-local-dsil)sur le site du ministère de l'Économie.
+Voir la [page dédiée ](https://aides-territoires.beta.gouv.fr/aides/1182-copie-13h44-financer-des-projets-dinvestissem/)sur le site du ministère Aides territoires.
 
 ### Le soutien aux langues régionales
 
@@ -52,7 +52,7 @@ Parmi les bonnes pratiques observées auprès de Partenaires de la Charte de la 
 
 Un EPCI ou la Région peut impulser une dynamique autour des panneaux de noms de voies. Il est tout à fait possible de fabriquer les panneaux localement, via un Fablab, sur une dynamique d’ESS. Les plaques en email bleu sont normées pour Paris au XIXe siècle. Rien n’empêche l’agglomération ou la Région d’investiguer les possibilités d’aides pour faire fabriquer les plaques.
 
-Nous avons l’exemple de [Villar-d'Arêne](https://web.archive.org/web/20231004133612/https://www.amenagement-numerique.gouv.fr/fr/actualite/petites-communes-hautes-alpes-font-leurs-bases-adresses-locales), petite commune des Hautes-Alpes où le seul agent municipal a fabriqué les panneaux de noms de voies en mélèze. Le résultat se fond très bien dans le paysage et fait la fierté des habitants.
+Nous avons l’exemple de [Villar-d'Arêne]([https://web.archive.org/web/20231004133612/https://www.amenagement-numerique.gouv.fr/fr/actualite/petites-communes-hautes-alpes-font-leurs-bases-adresses-locales](https://adresse.data.gouv.fr/blog/des-petites-communes-des-hautes-alpes-font-leurs-bases-adresses-locales)), petite commune des Hautes-Alpes où le seul agent municipal a fabriqué les panneaux de noms de voies en mélèze. Le résultat se fond très bien dans le paysage et fait la fierté des habitants.
 
 ![](</img/documentation-generale/image (20).png>)
 
