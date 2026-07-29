@@ -19,7 +19,7 @@ NB : le vocabulaire employé dans cette doc reprend dans la mesure du possible l
 
 Cette problématique de l’identifiant renvoie directement à la définition d’une adresse et son cycle de vie. Contrairement à un bâtiment, qui est un objet qui a une existence physique sur le terrain pour lequel il est plutôt facile de dire quand il est créé ou détruit, pour l’adresse c’est plus compliqué : on parle plutôt de lieu (ou objet géographique) adressé… Et on le distinguera bien de l' « expression littérale de l’adresse » qu’est la chaine de caractère (ex: 5 la Sauvinière 85620 Rocheservière ) qui est l'’identifiant de l’adresse pour les humains.
 
-Donc quand on parle d’adresse c’est pour identifier des lieux : l’objet adresse de la BAN (le ponctuel) représente un lieu adressé dans la réalité.
+Donc, quand on parle d’adresse c’est pour identifier des lieux : l’objet adresse de la BAN (le ponctuel) représente un lieu adressé dans la réalité.
 
 Le standard Adresse dans son introduction parle de « concept d’adresse » .Et on parle moins d’adresse comme un objet que d’« Informations structurées permettant de caractériser un objet de manière non ambiguë à des fins d'identification et de localisation ».
 
