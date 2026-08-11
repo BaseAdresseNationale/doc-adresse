@@ -74,6 +74,41 @@ interface BALWidgetProviderProps {
   children: React.ReactNode;
 }
 
+const ALLOWED_URL_PROTOCOLS = ["http:", "https:", "mailto:"];
+const ALLOWED_TARGETS = ["_blank", "_self", "_parent", "_top"];
+
+// Only allow http(s)/mailto URLs to prevent javascript:/data: XSS via window.open
+function sanitizeNavigateTo(content: unknown): {
+  href: string;
+  target: string;
+} | null {
+  if (!content || typeof content !== "object") {
+    return null;
+  }
+  const { href, target } = content as { href?: unknown; target?: unknown };
+  if (typeof href !== "string") {
+    return null;
+  }
+
+  let parsedUrl: URL;
+  try {
+    parsedUrl = new URL(href, window.location.origin);
+  } catch {
+    return null;
+  }
+
+  if (!ALLOWED_URL_PROTOCOLS.includes(parsedUrl.protocol)) {
+    return null;
+  }
+
+  const safeTarget =
+    typeof target === "string" && ALLOWED_TARGETS.includes(target)
+      ? target
+      : "_blank";
+
+  return { href: parsedUrl.toString(), target: safeTarget };
+}
+
 export function BALWidgetProvider({ children }: BALWidgetProviderProps) {
   const { siteConfig } = useDocusaurusContext();
   const balWidgetRef = useRef<HTMLIFrameElement>(null);
@@ -97,7 +132,7 @@ export function BALWidgetProvider({ children }: BALWidgetProviderProps) {
         {
           type: "BAL_WIDGET_OPEN",
         },
-        "*"
+        "*",
       );
     }
   }, [balWidgetRef]);
@@ -108,7 +143,7 @@ export function BALWidgetProvider({ children }: BALWidgetProviderProps) {
         {
           type: "BAL_WIDGET_CLOSE",
         },
-        "*"
+        "*",
       );
     }
   }, [balWidgetRef]);
@@ -121,11 +156,11 @@ export function BALWidgetProvider({ children }: BALWidgetProviderProps) {
             type: "BAL_WIDGET_NAVIGATE",
             content: to,
           },
-          "*"
+          "*",
         );
       }
     },
-    [balWidgetRef]
+    [balWidgetRef],
   );
 
   // Fetch BAL widget config
@@ -137,7 +172,7 @@ export function BALWidgetProvider({ children }: BALWidgetProviderProps) {
     async function fetchBalWidgetConfig() {
       try {
         const response = await fetch(
-          `${siteConfig.customFields.BAL_ADMIN_API_URL}/bal-widget/config`
+          `${siteConfig.customFields.BAL_ADMIN_API_URL}/bal-widget/config`,
         );
         const data = await response.json();
         if (response.status !== 200) {
@@ -167,7 +202,7 @@ export function BALWidgetProvider({ children }: BALWidgetProviderProps) {
           type: "BAL_WIDGET_CONFIG",
           content: balWidgetConfig,
         },
-        "*"
+        "*",
       );
     }
   }, [
@@ -204,7 +239,16 @@ export function BALWidgetProvider({ children }: BALWidgetProviderProps) {
           setIsBalWidgetConfigLoaded(true);
           break;
         case "BAL_WIDGET_PARENT_NAVIGATE_TO":
-          window.open(event.data.content.href, event.data.content.target);
+          const safeNavigation = sanitizeNavigateTo(event.data.content);
+          if (safeNavigation) {
+            window.open(
+              safeNavigation.href,
+              safeNavigation.target,
+              safeNavigation.target === "_blank"
+                ? "noopener,noreferrer"
+                : undefined,
+            );
+          }
           break;
         default:
           break;
