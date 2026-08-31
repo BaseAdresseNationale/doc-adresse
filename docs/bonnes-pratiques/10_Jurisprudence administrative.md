@@ -9,6 +9,8 @@ Jugement n°0200922 du tribunal administratif d’Amiens du 13/10/2005 - commune
 
 > Considérant que les dispositions de l’article L.2213-28 du code général des collectivités territoriales confèrent au maire une compétence de police concernant le numérotage des maisons ; qu’en délibérant à ce sujet, le conseil municipal d’Epehy, a, par les délibérations contestées, méconnu la compétence propre du maire telle que résultant des dispositions de l’article précité ; qu’il suit de là, et pour ce seul motif, que les délibérations du 3 novembre 2000 et 2 novembre 2001 ne peuvent dès lors qu’être annulées.
 
+
+
 ## Le maire peut d’autorité réattribuer une adresse au motif de ses pouvoirs de police
 Jugement [01BX01677](https://www.legifrance.gouv.fr/ceta/id/CETATEXT000007509482/) Cour administrative d'appel de Bordeaux du 06/12/2005 - commune de Figeac
 
@@ -63,3 +65,22 @@ dépourvue de valeur réglementaire, ne peuvent utilement soutenir que les propr
 
 > 7. Si la commune soutient qu’elle s’est conformée à ses obligations en transmettant, par courriel en date du 10 juin 2016, le certificat de numérotage de la parcelle des requérants au centre départemental des impôts fonciers d’Antibes pour mise à jour du cadastre, il résulte toutefois des termes de ce courriel qu’il concerne la propriété voisine de celle des requérants, cadastrée AS n°14. Les requérants versent pour leur part au dossier un courriel de la commune, daté du 13 février 2017, transmettant au centre départemental des
 impôts fonciers l’arrêté de numérotage de leur propriété du 2 juin 2016, soit au-delà du délai d’un mois prévu par les dispositions précitées. Par suite, la commune de Saint-Paul de Vence, qui ne peut utilement faire valoir que les requérants pouvaient informer eux-mêmes le service des impôts du changement de numérotage de leur propriété, a méconnu les dispositions précitées. Cette méconnaissance constitue une faute de nature à engager sa responsabilité à l’encontre des requérants.
+
+## Un maire ne peut pas refuser le numérotage d'une habitation 
+Jugement [N° 2100335](https://opendata.justice-administrative.fr/recherche/shareFile/TA67/DTA_2100335_20231221) Tribunal Administratif de Strasbourg, 21 décembre 2023
+
+> 4. Le maire d'une commune ne peut légalement refuser un numéro au propriétaire d'une maison possédant un accès sur une voie publique dont elle est riveraine que pour des motifs d'intérêt général correspondant aux objectifs en vue desquels un tel pouvoir de police lui a été conféré par la loi.
+ 
+> 5. Il résulte de l'instruction que la maison d'habitation des requérants n'a aucun accès sur la rue Fin de Banlieue dont elle n'est par riveraine. C'est donc à bon droit que le maire de la commune de Plobsheim a refusé de leur attribuer un numéro sur cette voie. En revanche, il ressort des pièces du dossier que l'opération de numérotage des maisons est nécessaire dans la commune de Plobsheim. Les dispositions précitées faisaient donc obstacle à ce que le maire refuse d'attribuer toute numération à la maison d'habitation des requérants, qui se situe sur le chemin du Rohrauel, sans qu'y fasse obstacle la circonstance que cette voie appartienne au domaine privé de la commune et n'ait pas fait l'objet d'une dénomination officielle de la commune.
+
+> 6. Il résulte de ce qui précède que la décision du 5 novembre 2020 doit être annulée en tant qu'elle refuse le numérotage de la maison des requérants située à Plobsheim.
+
+## Le refus d'une modification de numérotage doit être motivée par un motif d'intérêt génral, correspondant aux objectifs en vue desquels un tel pouvoir de police lui a été conféré par la loi et notamment pour des considérations tirées de l'intérêt de la voirie, du bon ordre ou de la sécurité publique
+Jugement [N° 2100456](https://opendata.justice-administrative.fr/recherche/shareFile/TA80/DTA_2100456_20240326) Tribunal Administratif d'Amiens, 26 mars 2024
+
+> 3.  Le maire d'une commune ne peut légalement refuser un numéro au propriétaire d'une maison possédant un accès sur une voie publique dont elle est riveraine que pour des motifs d'intérêt général correspondant aux objectifs en vue desquels un tel pouvoir de police lui a été conféré par la loi et notamment pour des considérations tirées de l'intérêt de la voirie, du bon ordre ou de la sécurité publique.
+
+> 4.  Pour refuser de faire droit à cette demande, la commune de Mortefontaine-en-Thelle a opposé la circonstance que " les plans qui accompagnaient le permis de construire déposé en 1983 faisaient figurer une entrée (portillon) rue La Lande " et que par conséquent l'adresse de la propriété des requérants est au 9 rue la Lande. Toutefois, un tel motif n'est pas de nature à justifier légalement la décision de refus de modification de la numérotation de l'habitation des époux C.
+
+> 6.  Par suite, les époux C sont fondés à soutenir que c'est à tort que la commune a rejeté leur demande de modification de la numération de leur habitation.
+ 
