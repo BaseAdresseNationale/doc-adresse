@@ -20,7 +20,7 @@ Il est possible de mettre à jour manuellement afin que les modifications soient
 
 ## Conflit
 
-Les situations de conflits se produisent lorsque la commune publie sa Base Adresse Locale alors qu’une Base Adresse Locale est déjà publiée. Il est important de mettre en place une gouvernance pour éviter ce type de situation. Il est important de mettre en place une gouvernance pour éviter ce type de situation. Cliquer sur « Base Adresse Nationale » pour choisir la Base Adresse Locale à publier.
+Les situations de conflits se produisent lorsque la commune publie sa Base Adresse Locale alors qu’une Base Adresse Locale est déjà publiée. Il est important de mettre en place une gouvernance pour éviter ce type de situation. Cliquer sur « Base Adresse Nationale » pour choisir la Base Adresse Locale à publier.
 
 ![](/img/mes-adresses/147270664-9bfad5db-fa34-4daf-abfb-a6f84861245a.png)
 
