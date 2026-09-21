@@ -50,6 +50,8 @@ voie importante tracée souvent sur d’anciens remparts.
 
 **Ne font pas partie des types de voies : lotissement, résidence, ZAC, les noms donnés à des maisons par leurs propriétaires, les noms de magasins...**
 
+**Devant le nom d'un lieu-dit, ne pas écrire "lieu-dit de..." ou "Hameau de...", les noms des lieux-dits se suffisent à eux-mêmes, il n'est pas nécessaire de préciser un type de voie**
+
 ### La règle du bon sens et de l'économie
 
 La principale règle est celle du bon sens et de l’économie :
@@ -59,6 +61,7 @@ La principale règle est celle du bon sens et de l’économie :
 * Éviter les homonymes ou les phonétique identiques (Rue et Avenue du Port) ;
 * Éviter les libellés trop longs ;
 * Les noms de voies ne doivent pas être de nature à porter atteinte à l'ordre public.
-*   Veiller à écrire les noms en toutes lettres, Allée et non All, Avenue et non Av...
+* Eviter de de dénommer les voies d'après leur classification administrative (Route départementale XX, Route communale XX, RD XX...). En effet, cette classification n'est pas stable dans le temps, elle peut évoluer et donc se retrouver en décalage avec le nommage. Par ailleurs, les noms de voies sont souvent lié à un patrimoine local, ce qui n'est pas le cas de la classification administrative.
+* Veiller à écrire les noms en toutes lettres, Allée et non All, Avenue et non Av...
 
     et à bien respecter la même orthographe sur la délibération, le panneau et la Base Adresse Locale lors de la transmission des adresses.
