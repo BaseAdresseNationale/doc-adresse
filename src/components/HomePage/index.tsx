@@ -189,7 +189,7 @@ export default function Home(): ReactNode {
                 <div>
                   <h2>Le guide des bonnes pratiques</h2>
                   <b>à l’usage des communes et de leurs partenaires</b>
-                  <legend>Version 4.1 - 08/09/2023</legend>
+                  <legend>Version 4.2 - 15/09/25</legend>
                 </div>
                 <p>
                   Les communes sont responsables de leurs adresses. Ce guide
@@ -209,7 +209,7 @@ export default function Home(): ReactNode {
                     priority="secondary"
                     onClick={() =>
                       window.open(
-                        "img/home-page/guide-bonnes-pratiques-v4.1.pdf",
+                        "img/home-page/guide-bonnes-pratiques-v4.2.pdf",
                         "_blank",
                       )
                     }
